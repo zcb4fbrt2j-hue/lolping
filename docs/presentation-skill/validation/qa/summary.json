@@ -1,0 +1,53 @@
+{
+  "input": "/workspace/lolping/docs/presentation-skill/validation/installation-smoke.pptx",
+  "outdir": "/workspace/lolping/docs/presentation-skill/validation/qa",
+  "style_preset": "lab-report",
+  "max_loops": 1,
+  "overflow_count": 0,
+  "overlap_count": 0,
+  "placeholder_hits": [],
+  "issue_slide_count": 0,
+  "issue_shape_count": 0,
+  "geometry_violations": [],
+  "geometry_error_count": 0,
+  "geometry_warning_count": 0,
+  "visual_warning_count": 0,
+  "visual_info_count": 0,
+  "visual_report": "/workspace/lolping/docs/presentation-skill/validation/qa/visual_qa.json",
+  "visual_rc": 0,
+  "render_rc": 0,
+  "render_stdout_tail": "[render] PDF via soffice in 0.38s\nRendered 3 slide image(s) to /workspace/lolping/docs/presentation-skill/validation/qa/renders\n",
+  "rendered_slide_count": 3,
+  "expected_slide_count": 3,
+  "visual_review_warning_count": 0,
+  "visual_review_info_count": 0,
+  "visual_review_report": "",
+  "visual_review_markdown": "",
+  "visual_review_contact_sheet": "",
+  "visual_review_rc": 0,
+  "visual_review_stdout_tail": "",
+  "design_error_count": 0,
+  "design_warning_count": 0,
+  "design_report": "/workspace/lolping/docs/presentation-skill/validation/qa/design_rules.json",
+  "design_rc": 0,
+  "density_score_by_slide": [
+    {
+      "slide_index": 0,
+      "density_score": 0.3533
+    },
+    {
+      "slide_index": 1,
+      "density_score": 0.6269
+    },
+    {
+      "slide_index": 2,
+      "density_score": 0.5065
+    }
+  ],
+  "font_families": [
+    "Calibri",
+    "Trebuchet MS"
+  ],
+  "manual_review_passed": true,
+  "strict_geometry": true
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Presentation Skill 安装验证",
+  "deck_style": {"font_pair": "system_clean_v1", "footer_page_numbers": true},
+  "slides": [
+    {"type": "title", "title": "Presentation Skill 安装验证", "subtitle": "Editable generation, safe editing, and repeatable quality checks"},
+    {
+      "type": "content", "variant": "cards-2", "title": "Two skills, distinct responsibilities",
+      "subtitle": "Academic evidence and PowerPoint engineering work together.",
+      "assets": {"icons": ["fa6:FaBookOpen", "fa6:FaFilePowerpoint"]},
+      "cards": [
+        {"title": "coursework-ppt", "body": "Plan the argument, check academic evidence, and preserve source traceability."},
+        {"title": "presentation-skill", "body": "Build editable slides, edit copies safely, and check geometry plus rendered output."}
+      ]
+    },
+    {
+      "type": "content", "variant": "table", "title": "Installation acceptance criteria",
+      "subtitle": "Checks exercise the actual installed scripts rather than a replacement implementation.",
+      "headers": ["Capability", "Check", "Protected input"],
+      "rows": [
+        ["Generation", "Build this outline through the Node renderer", "Existing formal deck is never rebuilt"],
+        ["Editing", "Replace a text run in a separate copy", "Original PPTX hash remains unchanged"],
+        ["Preview and QA", "Render, inspect, and run the quality gate", "coursework-ppt files remain unchanged"]
+      ],
+      "caption": "Installation test data; this is not a new version of the coursework presentation."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "input": "/workspace/lolping/docs/presentation-skill/validation/installation-smoke.pptx",
+  "outline": "/workspace/lolping/docs/presentation-skill/validation/outline.json",
+  "outdir": "/workspace/lolping/docs/presentation-skill/validation/review",
+  "renders_dir": "/workspace/lolping/docs/presentation-skill/validation/renders",
+  "render_status": "existing",
+  "rendered_slide_count": 3,
+  "contact_sheet": "/workspace/lolping/docs/presentation-skill/validation/review/contact_sheet.jpg",
+  "warning_count": 0,
+  "info_count": 4,
+  "issue_count": 4,
+  "issues": [
+    {
+      "slide": 1,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 7.5pt.",
+      "shape_id": "shape-8",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 7.5
+    },
+    {
+      "slide": 1,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 7.5pt.",
+      "shape_id": "shape-10",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 7.5
+    },
+    {
+      "slide": 1,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 7.5pt.",
+      "shape_id": "shape-12",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 7.5
+    },
+    {
+      "slide": 3,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.0pt.",
+      "shape_id": "shape-6",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.0
+    }
+  ],
+  "passed": true
+}
