@@ -1,0 +1,48 @@
+{
+  "input": "/workspace/lolping/docs/presentation-skill/validation/installation-smoke.pptx",
+  "style_preset": "lab-report",
+  "renderer_detected": "pptxgenjs",
+  "summary": {
+    "slide_count": 3,
+    "violation_count": 0,
+    "error_count": 0,
+    "warning_count": 0,
+    "density_score_by_slide": [
+      {
+        "slide_index": 0,
+        "density_score": 0.3533
+      },
+      {
+        "slide_index": 1,
+        "density_score": 0.6269
+      },
+      {
+        "slide_index": 2,
+        "density_score": 0.5065
+      }
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 0,
+      "slide_type": "title",
+      "violations": [],
+      "density_score": 0.3533,
+      "empty_ratio": 0.6467
+    },
+    {
+      "slide_index": 1,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6269,
+      "empty_ratio": 0.3731
+    },
+    {
+      "slide_index": 2,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5065,
+      "empty_ratio": 0.4935
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "input": "/workspace/lolping/docs/presentation-skill/validation/installation-smoke.pptx",
+  "issue_count": 0,
+  "error_count": 0,
+  "warning_count": 0,
+  "slides": [
+    {
+      "slide_index": 0,
+      "issue_count": 0
+    },
+    {
+      "slide_index": 1,
+      "issue_count": 0
+    },
+    {
+      "slide_index": 2,
+      "issue_count": 0
+    }
+  ],
+  "issues": [],
+  "passed": true
+}
