@@ -1,0 +1,193 @@
+{
+  "unchanged_from_original": true,
+  "pptx_slides": 15,
+  "pdf_pages": 15,
+  "individual_previews": 15,
+  "files": [
+    {
+      "file": "assets/jmu-expo-2.jpg",
+      "bytes": 224484,
+      "sha256": "35194bd854cf9b4faec01e595a3fd52b67204d2c952d893c015d9cc998595675",
+      "dimensions": [
+        1706,
+        1279
+      ],
+      "delivery_path": "source/assets/jmu-expo-2.jpg"
+    },
+    {
+      "file": "previews/contact-sheet.jpg",
+      "bytes": 491529,
+      "sha256": "f9f5e6e341612a4c65ea9c47a113b41a266226ff8e71e91606522ce75c26355b",
+      "dimensions": [
+        1440,
+        1510
+      ],
+      "delivery_path": "previews/contact-sheet.jpg"
+    },
+    {
+      "file": "previews/slide-01.png",
+      "bytes": 101792,
+      "sha256": "46eba19ee71b17567c6760d1592ee442aead371998150f94b12f306e1518a9f9",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-01.png"
+    },
+    {
+      "file": "previews/slide-02.png",
+      "bytes": 115228,
+      "sha256": "b0d145b68b7adb1c4832b76a09a7431fc2beaaa65939c0ab895c050e08b3e438",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-02.png"
+    },
+    {
+      "file": "previews/slide-03.png",
+      "bytes": 119402,
+      "sha256": "3ccf980883500dd27a48a5c7a8ee82d81d65f21dce1769ec552f936ffd2e75d7",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-03.png"
+    },
+    {
+      "file": "previews/slide-04.png",
+      "bytes": 125923,
+      "sha256": "3e1f21f321be2ecf20a9fdfe40dde85db7b638cc8bf497028a6b3850c5976c1c",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-04.png"
+    },
+    {
+      "file": "previews/slide-05.png",
+      "bytes": 139620,
+      "sha256": "a29ae07a6b46280d532212d5c0f0de3f79eeb8197b47891d02561ef7586b9d99",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-05.png"
+    },
+    {
+      "file": "previews/slide-06.png",
+      "bytes": 150507,
+      "sha256": "fde815f5713ec67c33f5ebc8145280eb46526ffa908dcf4d2d7969033bad5d64",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-06.png"
+    },
+    {
+      "file": "previews/slide-07.png",
+      "bytes": 141838,
+      "sha256": "8ed0190056cbaf5c32d9c0dc79bcc104349a3957e932e866cb7f36f4c5f5b192",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-07.png"
+    },
+    {
+      "file": "previews/slide-08.png",
+      "bytes": 113550,
+      "sha256": "f5fc6cfb4e3ca1dcb96a337868a996a7c0e58e7ff23d175bed8d9172b1dd7b51",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-08.png"
+    },
+    {
+      "file": "previews/slide-09.png",
+      "bytes": 638457,
+      "sha256": "5788b08082e84f552fec2647a77aff0167747ade48fb08e4740b3a83ddc4580e",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-09.png"
+    },
+    {
+      "file": "previews/slide-10.png",
+      "bytes": 134433,
+      "sha256": "599dd0acb150bca77bec30d71e5574cf48171bf6125be5b69b658e24e9b0a10d",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-10.png"
+    },
+    {
+      "file": "previews/slide-11.png",
+      "bytes": 133696,
+      "sha256": "c6c0e9e347b9e74752e7f1b1dcc67aeb4f2567b4ee8a77a35603eb035ce2c3ec",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-11.png"
+    },
+    {
+      "file": "previews/slide-12.png",
+      "bytes": 115020,
+      "sha256": "4b887a976e136e52c55ca74fe2082835c93e33f1313446a335787b620d27026b",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-12.png"
+    },
+    {
+      "file": "previews/slide-13.png",
+      "bytes": 121275,
+      "sha256": "63c59ffb981975e30dccfc72ed9019d77127a3977e7509f1f51f5565b6952905",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-13.png"
+    },
+    {
+      "file": "previews/slide-14.png",
+      "bytes": 89496,
+      "sha256": "d363e1626d5d72dc765e968167400c171ae43c39f777150cadf407e1aea19c48",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-14.png"
+    },
+    {
+      "file": "previews/slide-15.png",
+      "bytes": 153649,
+      "sha256": "76dc9f0d6574e824ec904ccc960fda11d80483e4bbd884dd2e8771376c1d7e64",
+      "dimensions": [
+        1600,
+        900
+      ],
+      "delivery_path": "previews/slide-15.png"
+    },
+    {
+      "file": "一条船缝里的材料智慧_课堂汇报.pdf",
+      "bytes": 1489421,
+      "sha256": "e9ea6c58969c88b760468cbacf49618b5d5f092750b8d4cdb57c7f22415dc2c7",
+      "pages": 15,
+      "delivery_path": "academic-presentation.pdf"
+    },
+    {
+      "file": "一条船缝里的材料智慧_课堂汇报.pptx",
+      "bytes": 323128,
+      "sha256": "85a7672cdbfe5c3358122ddf01e3f4b0c286f9aeebf364176c49d893efc49d7c",
+      "slides": 15,
+      "editable_text_shapes": 231,
+      "delivery_path": "academic-presentation.pptx"
+    }
+  ]
+}

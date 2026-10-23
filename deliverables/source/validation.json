@@ -1,0 +1,35 @@
+{
+  "slides": 15,
+  "seconds": 900,
+  "editable_text_shapes": 231,
+  "pictures": 1,
+  "zip_crc": "passed",
+  "xml_parse": "passed",
+  "pptx_reopen": "passed",
+  "all_shape_bounds": "passed",
+  "font": "Noto Sans CJK SC",
+  "minimum_text_size": 10.5,
+  "text_layout_issues": [],
+  "content_status": "课堂汇报稿：核心来源已读取，证据边界见逐页备注与来源清单",
+  "visual_review": {
+    "all_pages": "Reviewed final contact sheet",
+    "detail_pages": [
+      6,
+      7,
+      9,
+      12,
+      15
+    ],
+    "issues_fixed": [
+      "technical text wrapping",
+      "citation hyperlink contrast"
+    ],
+    "reviewer": "Codex visual inspection"
+  },
+  "tool_versions": {
+    "python-pptx": "1.0.2",
+    "Pillow": "12.3.0",
+    "lxml": "6.1.1",
+    "PyMuPDF": "1.26.6"
+  }
+}
