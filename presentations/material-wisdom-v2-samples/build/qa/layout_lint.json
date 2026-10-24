@@ -1,0 +1,68 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-v2-samples/build/material-wisdom-v2-samples.pptx",
+  "style_preset": "editorial-minimal",
+  "renderer_detected": "pptxgenjs",
+  "summary": {
+    "slide_count": 3,
+    "violation_count": 2,
+    "error_count": 0,
+    "warning_count": 2,
+    "density_score_by_slide": [
+      {
+        "slide_index": 0,
+        "density_score": 0.8124
+      },
+      {
+        "slide_index": 1,
+        "density_score": 0.6221
+      },
+      {
+        "slide_index": 2,
+        "density_score": 0.7584
+      }
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 0,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.1124,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.8124
+        }
+      ],
+      "density_score": 0.8124,
+      "empty_ratio": 0.1876
+    },
+    {
+      "slide_index": 1,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6221,
+      "empty_ratio": 0.3779
+    },
+    {
+      "slide_index": 2,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0584,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7584
+        }
+      ],
+      "density_score": 0.7584,
+      "empty_ratio": 0.2416
+    }
+  ]
+}

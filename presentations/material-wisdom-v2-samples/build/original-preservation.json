@@ -1,0 +1,10 @@
+{
+  "baseline_count": 164,
+  "unchanged_count": 163,
+  "original_presentation_and_deliverables_unchanged": true,
+  "coursework_skill_unchanged": true,
+  "intentional_skill_extension": [
+    ".agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js"
+  ],
+  "original_pptx_sha256": "85a7672cdbfe5c3358122ddf01e3f4b0c286f9aeebf364176c49d893efc49d7c"
+}

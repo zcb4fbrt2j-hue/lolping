@@ -1,0 +1,71 @@
+{
+  "topic": "科技强国与向海图强",
+  "source_policy": "官方原文、科研评价；将案例分析与政策原话区分；无未经核实数据",
+  "items": [
+    {
+      "id": "ev-heritage",
+      "claim": "水密隔舱限制进水；苎麻、桐油、石灰用于艌缝；师徒口传心授与工匠协作",
+      "source_title": "中国水密隔舱福船制造技艺",
+      "publisher": "中国非物质文化遗产网",
+      "source_url": "https://www.ihchina.cn/directory_details/11847",
+      "source_note": "2010列入急需保护名录；页面现存人数是历史申报描述，不作为当下统计",
+      "used_on_slides": [
+        "s1",
+        "s2"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-policy",
+      "claim": "统筹科技强国建设；科技创新和产业创新深度融合；海洋装备与科技创新",
+      "date_or_period": "2026-03-13",
+      "source_title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+      "source_note": "第三篇、第三十二章",
+      "used_on_slides": [
+        "s3"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-case",
+      "claim": "集美大学第一完成单位；海洋防腐防污涂层成果用于造船等领域",
+      "source_title": "海洋防腐防污涂层体系关键技术及其应用",
+      "date_or_period": "2026-04-30",
+      "source_url": "https://www.cscp.org.cn/site/content/3294.html",
+      "source_note": "中腐评价字〔2026〕第7号；不据此宣称已全面国产替代或对应照片船舶应用",
+      "used_on_slides": [
+        "s3"
+      ],
+      "visual_use": "speaker-notes"
+    },
+    {
+      "id": "ev-2035",
+      "claim": "到2035年建成科技强国的目标",
+      "source_title": "人民日报评论员：向着到2035年建成科技强国的目标坚定迈进",
+      "date_or_period": "2026-07-12",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm",
+      "used_on_slides": [
+        "s1",
+        "s3"
+      ],
+      "visual_use": "speaker-notes"
+    },
+    {
+      "id": "ev-fusion",
+      "claim": "需求牵引、协同创新、科技与产业深度融合",
+      "source_title": "关于推动科技创新和产业创新深度融合的意见",
+      "date_or_period": "2026-10-21",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+      "used_on_slides": [
+        "s3"
+      ],
+      "visual_use": "speaker-notes"
+    }
+  ],
+  "chart_candidates": [],
+  "open_questions": [
+    "“十六个强国”为课程选题框架，尚未查得对应完整官方逐项原文，不冒充政策引文。",
+    "图片原页未见开放许可，保留出处并限定为课堂教学引用；对外商业发布前另行授权。"
+  ]
+}

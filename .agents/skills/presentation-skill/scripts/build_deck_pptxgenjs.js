@@ -23,6 +23,7 @@
  */
 
 'use strict';
+// Modified 2026-10-24: optional source-driven photo-editorial layouts.
 
 const fs = require('fs');
 const os = require('os');
@@ -677,6 +678,10 @@ function normalizeSlide(spec, outlineDir) {
 }
 
 function renderSlide(pptx, pSlide, slide, preset) {
+  if (String(slide.variant || '').startsWith('photo-editorial')) {
+    require(path.join(TEMPLATES_DIR, 'photo_editorial.js')).render(pptx, pSlide, slide);
+    return;
+  }
   const t = slide.type;
 
   if (t === 'title') {

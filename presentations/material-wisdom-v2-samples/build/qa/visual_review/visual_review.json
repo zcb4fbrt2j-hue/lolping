@@ -1,0 +1,94 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-v2-samples/build/material-wisdom-v2-samples.pptx",
+  "outline": "/workspace/lolping/presentations/material-wisdom-v2-samples/outline.json",
+  "outdir": "/workspace/lolping/presentations/material-wisdom-v2-samples/build/qa/visual_review",
+  "renders_dir": "/workspace/lolping/presentations/material-wisdom-v2-samples/build/qa/renders",
+  "render_status": "existing",
+  "rendered_slide_count": 3,
+  "contact_sheet": "/workspace/lolping/presentations/material-wisdom-v2-samples/build/qa/visual_review/contact_sheet.jpg",
+  "warning_count": 0,
+  "info_count": 8,
+  "issue_count": 8,
+  "issues": [
+    {
+      "slide": 1,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 92% of its box.",
+      "shape_id": "shape-4",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.25,
+      "box_height_in": 0.27
+    },
+    {
+      "slide": 2,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 97% of its box.",
+      "shape_id": "shape-5",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.33
+    },
+    {
+      "slide": 2,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 97% of its box.",
+      "shape_id": "shape-7",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.33
+    },
+    {
+      "slide": 2,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 97% of its box.",
+      "shape_id": "shape-9",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.33
+    },
+    {
+      "slide": 3,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 89% of its box.",
+      "shape_id": "shape-4",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.2,
+      "box_height_in": 0.23
+    },
+    {
+      "slide": 3,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 8.6pt.",
+      "shape_id": "shape-5",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 8.6
+    },
+    {
+      "slide": 3,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 92% of its box.",
+      "shape_id": "shape-8",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 1.17,
+      "box_height_in": 1.28
+    },
+    {
+      "slide": 3,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 96% of its box.",
+      "shape_id": "shape-10",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.24,
+      "box_height_in": 0.25
+    }
+  ],
+  "passed": true
+}

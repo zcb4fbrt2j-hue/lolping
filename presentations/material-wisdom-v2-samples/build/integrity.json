@@ -1,0 +1,55 @@
+{
+  "pptx_zip_xml_valid": true,
+  "slide_count": 3,
+  "aspect": "16:9",
+  "photos_preserve_aspect": true,
+  "pdf_pages": 3,
+  "preview_count": 3,
+  "slides": [
+    {
+      "slide": 1,
+      "editable_text_objects": 8,
+      "picture_objects": 2,
+      "has_notes": true
+    },
+    {
+      "slide": 2,
+      "editable_text_objects": 11,
+      "picture_objects": 1,
+      "has_notes": true
+    },
+    {
+      "slide": 3,
+      "editable_text_objects": 10,
+      "picture_objects": 1,
+      "has_notes": true
+    }
+  ],
+  "files": [
+    {
+      "file": "build/material-wisdom-v2-samples.pptx",
+      "bytes": 479936,
+      "sha256": "3e7965e0b3b42ee2faa38d4888f495b8026f9f22417f5ea8986a51245af9cb2a"
+    },
+    {
+      "file": "build/material-wisdom-v2-samples.pdf",
+      "bytes": 326827,
+      "sha256": "600f295c4a5e66d30209ae850e88cfce4ccc9be38f5417956d7e7030d7266fbe"
+    },
+    {
+      "file": "build/previews/slide-01.png",
+      "bytes": 672582,
+      "sha256": "bb87d902f72f9b8d896c5f84d6849c9682cf8461e45aaa40807c9d2bc50f4ac2"
+    },
+    {
+      "file": "build/previews/slide-02.png",
+      "bytes": 635528,
+      "sha256": "44f83acf9bfdd93d5b388160bc04d0308b4f4ad96ceb26e9c830a2120e75a867"
+    },
+    {
+      "file": "build/previews/slide-03.png",
+      "bytes": 525474,
+      "sha256": "ddcff7aa3b946b5d6723d49fc261e4f4e19452f62f43fae81008df9dc7ce0ba0"
+    }
+  ]
+}

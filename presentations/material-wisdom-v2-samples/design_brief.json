@@ -1,0 +1,44 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国视角",
+  "content_maturity": "serious/work",
+  "audience_posture": "students/learners",
+  "emotional_register": "trustworthy",
+  "format_promise": "真实摄影主导、理论清晰、编辑式留白的中文新中特课程汇报",
+  "anti_format": [
+    "科研组会式微观机理堆积",
+    "重复卡片网格",
+    "整页图片不可编辑"
+  ],
+  "canvas_and_grid": {
+    "aspect": "16:9",
+    "margin_x_in": 0.5,
+    "footer_reserve_in": 0.32,
+    "header_policy": "独立标题区；摄影和正文不侵入标题"
+  },
+  "title_page_concept": {
+    "chosen_archetype": "editorial masthead",
+    "dominant_element": "福船建造与国产大型邮轮双图呼应",
+    "supporting_element": "科技强国主题标识",
+    "why_this_could_only_be_this_deck": "从造船工匠到现代装备的材料问题"
+  },
+  "structure_strategy": {
+    "primary_scaffold": "open editorial content slides",
+    "repeated_elements": [
+      "海蓝色系",
+      "统一页脚",
+      "真实照片"
+    ],
+    "allowed_variations": [
+      "diptych-cover",
+      "heritage-spread",
+      "strategy-scene"
+    ],
+    "container_policy": "仅样张3使用单个理论论点底板，不用重复卡片",
+    "rhythm_break_plan": "深色双图封面→白色图文→工程摄影与深色主论点"
+  },
+  "design_dna": "civic science policy",
+  "renderer_treatments": {
+    "footer_mode": "source-line",
+    "custom_variant": "photo-editorial"
+  }
+}

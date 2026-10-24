@@ -1,0 +1,49 @@
+{
+  "topic": "真实福船工艺与现代海洋装备",
+  "assets": [
+    {
+      "id": "fuchuan-2",
+      "type": "image",
+      "local_path": "assets/fuchuan-2.jpg",
+      "source_url": "https://www.ihchina.cn/Uploads/Picture/2019/01/31/s5c52958835c71.jpg",
+      "page_url": "https://www.ihchina.cn/directory_details/11847",
+      "publisher": "中国非物质文化遗产网",
+      "creator": "原页面未标明摄影者",
+      "license": "原页面未见开放许可；保留来源，课堂教学引用，不声称可自由再分发",
+      "used_on_slides": [
+        "s1"
+      ],
+      "transform": "PowerPoint原生等比裁剪，无生成式修改"
+    },
+    {
+      "id": "fuchuan-0",
+      "type": "image",
+      "local_path": "assets/fuchuan-0.jpg",
+      "source_url": "https://www.ihchina.cn/Uploads/Picture/2019/01/31/s5c5295882ff09.jpg",
+      "page_url": "https://www.ihchina.cn/directory_details/11847",
+      "publisher": "中国非物质文化遗产网",
+      "creator": "原页面未标明摄影者",
+      "license": "原页面未见开放许可；保留来源，课堂教学引用，不声称可自由再分发",
+      "used_on_slides": [
+        "s2"
+      ],
+      "transform": "PowerPoint原生等比裁剪，无生成式修改"
+    },
+    {
+      "id": "adora-0",
+      "type": "image",
+      "local_path": "assets/adora-0.jpg",
+      "source_url": "https://www.shanghai.gov.cn/cmsres/47/478e1ece606f45dba90f909d9596fa35/493f184dcdf21bdc0b6719bc67863910.jpg",
+      "page_url": "https://www.shanghai.gov.cn/nw17239/20261014/29e3f4f9e37e441aa80209529f594726.html",
+      "publisher": "上海市政府网（来源：宝山区人民政府）",
+      "creator": "原页面未标明摄影者",
+      "license": "原页面未见开放许可；保留来源，课堂教学引用，不声称可自由再分发",
+      "used_on_slides": [
+        "s1",
+        "s3"
+      ],
+      "transform": "PowerPoint原生等比裁剪，无生成式修改"
+    }
+  ],
+  "generated_images": []
+}

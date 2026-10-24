@@ -1,0 +1,67 @@
+{
+  "topic": "一条船缝里的材料智慧",
+  "audience": "新中特教师与不同专业研究生",
+  "objective": "仅制作3页样张供确认；保留原版，未制作其余12页",
+  "thesis": "以材料创新案例阐释科技强国建设如何服务中国式现代化，以海洋装备为实践场景",
+  "narrative_arc": [
+    {
+      "act": "setup",
+      "purpose": "传统问题与现代国家需求连接",
+      "slides": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "slide_plan": [
+    {
+      "slide_id": "s1",
+      "role": "title",
+      "message": "科技强国是主线，海洋强国是实践场景",
+      "variant": "photo-editorial-cover",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-heritage",
+        "ev-2035"
+      ],
+      "asset_needs": [
+        "image:fuchuan",
+        "image:adora"
+      ]
+    },
+    {
+      "slide_id": "s2",
+      "role": "context",
+      "message": "传统造船智慧体现解决真实问题的工匠精神，传承应连接创新",
+      "variant": "photo-editorial-heritage",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-heritage"
+      ],
+      "asset_needs": [
+        "image:fuchuan"
+      ]
+    },
+    {
+      "slide_id": "s3",
+      "role": "implication",
+      "message": "材料自主研究与工程验证连接科技能力和海洋装备发展",
+      "variant": "photo-editorial-strategy",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-policy",
+        "ev-case",
+        "ev-fusion"
+      ],
+      "asset_needs": [
+        "image:adora"
+      ]
+    }
+  ],
+  "design_notes": {
+    "style_preset_reason": "海蓝、白、少量金色符合海洋与庄重课程气质",
+    "rhythm_break": "三种摄影叙事布局",
+    "visual_motif": "实景中的传统与现代"
+  }
+}
