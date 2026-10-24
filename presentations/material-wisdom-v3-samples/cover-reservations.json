@@ -1,0 +1,20 @@
+{
+  "status": "provisional-reservation-before-design",
+  "covers": [
+    "cosco-universe"
+  ],
+  "forbidden_on_body_slides": [
+    "cosco-universe"
+  ],
+  "forbidden_in_future_12_slides": [
+    "cosco-universe"
+  ],
+  "covered_hashes": [
+    "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29"
+  ],
+  "covered_original_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cosco_Shipping_Universe_%28ship%2C_2018%29_IMO_9795610%2C_Port_of_Rotterdam_pic7.JPG"
+  ],
+  "enforcement": "不仅检查二进制哈希；还须检查原始来源URL、图像内容及裁剪/调色衍生图。太平公主候选未获选用，不据此宣布福船素材已补齐。",
+  "remaining_cover_traditional_photo": "missing"
+}

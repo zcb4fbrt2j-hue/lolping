@@ -1,0 +1,17 @@
+{
+  "IMAGE-LICENSES.md": "22e71d7a106433158dd46a253103d5fdc7aa7405b44488c24fe4f19dc8f539f3",
+  "original-preservation.json": "fb492e4acef0dff62b3e36df9e9ecbe5a800ed6a54c013b13f4ceaf2e501f594",
+  "verify_assets.py": "279a20caf29dcbcb780f2fcc9ed5114d2a2ef8158529dce1cea85abd034bf77d",
+  "cover-reservations.json": "0ff8dbe527d48a486f403e4c6ebff3b9ec14171a3400497c70d86043b2723ca0",
+  "asset-library.json": "17b80f38ade61730810d9a313d053dffd5ccbc87f13fd5a1355122cc308717a9",
+  "asset-verification.json": "a6a4e2610ee0eb33bd1b4b4fddbe84b820698e1941007f05cad5217e5f6c85aa",
+  "README.md": "7eebba25cde98abd43ed11d08923ea92dfed2d7a9cba888f0cb283ac60fa18ee",
+  "previews/asset-review-contact.png": "09dbf8845fe98b2c324c6a5e8f6fb95e835645b1c5216407e671109cdb107e00",
+  "sources/initial-access.json": "aaddd724711a409e135688b1f3ffa4a463012af2dbd751c9f8cba20ac01bcae6",
+  "sources/selected-image-metadata.json": "c1a70fe563701ff58c01f0e18db5d8d66bec9bab418e8a0f7cc0e4e69d3a1fb8",
+  "sources/search-and-blockers.md": "aee54e97cbc9a6dd9e1e200337df52470ed0f157db8655ab0bd765daeaf17526",
+  "assets/verified/cosco-universe-original.JPG": "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29",
+  "assets/verified/yangshan-2013-original.JPG": "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c",
+  "assets/pending/taiping-2008-hull-original.jpg": "0d457cd853cf56cab65327462bb89e0f3f986169e82693a2e572937001ceca78",
+  "assets/pending/taiping-2008-overview-original.jpg": "4f4f953a94980e544e11c6f47bc518f790f224a469cf075135dc722da13884a4"
+}

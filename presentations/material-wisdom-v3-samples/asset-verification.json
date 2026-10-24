@@ -1,0 +1,47 @@
+{
+  "asset_integrity_passed": true,
+  "ready_for_ppt_layout": false,
+  "slides_generated": 0,
+  "assets": [
+    {
+      "id": "cosco-universe",
+      "bytes": 4044494,
+      "pixels": [
+        4306,
+        2422
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "yangshan-port",
+      "bytes": 2286189,
+      "pixels": [
+        4592,
+        3056
+      ],
+      "status": "verified"
+    },
+    {
+      "id": "taiping-overview",
+      "bytes": 6818098,
+      "pixels": [
+        4256,
+        2832
+      ],
+      "status": "pending"
+    },
+    {
+      "id": "taiping-hull",
+      "bytes": 6303273,
+      "pixels": [
+        4256,
+        2832
+      ],
+      "status": "pending"
+    }
+  ],
+  "missing": [
+    "封面：船型经过可靠来源确认的高清福船实船/复原船照片",
+    "第2页：高清福船、传统木船建造或艌缝相关真实工艺照片；照片说明需可核验"
+  ]
+}
