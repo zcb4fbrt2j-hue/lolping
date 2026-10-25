@@ -1,0 +1,221 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/material-wisdom-visual-polish.pptx",
+  "style_preset": "editorial-minimal",
+  "renderer_detected": "pptxgenjs",
+  "summary": {
+    "slide_count": 16,
+    "violation_count": 3,
+    "error_count": 0,
+    "warning_count": 3,
+    "density_score_by_slide": [
+      {
+        "slide_index": 0,
+        "density_score": 0.7477
+      },
+      {
+        "slide_index": 1,
+        "density_score": 0.761
+      },
+      {
+        "slide_index": 2,
+        "density_score": 0.6047
+      },
+      {
+        "slide_index": 3,
+        "density_score": 0.6426
+      },
+      {
+        "slide_index": 4,
+        "density_score": 0.6219
+      },
+      {
+        "slide_index": 5,
+        "density_score": 0.5129
+      },
+      {
+        "slide_index": 6,
+        "density_score": 0.7275
+      },
+      {
+        "slide_index": 7,
+        "density_score": 0.638
+      },
+      {
+        "slide_index": 8,
+        "density_score": 0.5669
+      },
+      {
+        "slide_index": 9,
+        "density_score": 0.6683
+      },
+      {
+        "slide_index": 10,
+        "density_score": 0.5957
+      },
+      {
+        "slide_index": 11,
+        "density_score": 0.3747
+      },
+      {
+        "slide_index": 12,
+        "density_score": 0.5639
+      },
+      {
+        "slide_index": 13,
+        "density_score": 0.6817
+      },
+      {
+        "slide_index": 14,
+        "density_score": 0.6081
+      },
+      {
+        "slide_index": 15,
+        "density_score": 0.641
+      }
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 0,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0477,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7477
+        }
+      ],
+      "density_score": 0.7477,
+      "empty_ratio": 0.2523
+    },
+    {
+      "slide_index": 1,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.061,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.761
+        }
+      ],
+      "density_score": 0.761,
+      "empty_ratio": 0.239
+    },
+    {
+      "slide_index": 2,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6047,
+      "empty_ratio": 0.3953
+    },
+    {
+      "slide_index": 3,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6426,
+      "empty_ratio": 0.3574
+    },
+    {
+      "slide_index": 4,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6219,
+      "empty_ratio": 0.3781
+    },
+    {
+      "slide_index": 5,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5129,
+      "empty_ratio": 0.4871
+    },
+    {
+      "slide_index": 6,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0275,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7275
+        }
+      ],
+      "density_score": 0.7275,
+      "empty_ratio": 0.2725
+    },
+    {
+      "slide_index": 7,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.638,
+      "empty_ratio": 0.362
+    },
+    {
+      "slide_index": 8,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5669,
+      "empty_ratio": 0.4331
+    },
+    {
+      "slide_index": 9,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6683,
+      "empty_ratio": 0.3317
+    },
+    {
+      "slide_index": 10,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5957,
+      "empty_ratio": 0.4043
+    },
+    {
+      "slide_index": 11,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.3747,
+      "empty_ratio": 0.6253
+    },
+    {
+      "slide_index": 12,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5639,
+      "empty_ratio": 0.4361
+    },
+    {
+      "slide_index": 13,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6817,
+      "empty_ratio": 0.3183
+    },
+    {
+      "slide_index": 14,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6081,
+      "empty_ratio": 0.3919
+    },
+    {
+      "slide_index": 15,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.641,
+      "empty_ratio": 0.359
+    }
+  ]
+}

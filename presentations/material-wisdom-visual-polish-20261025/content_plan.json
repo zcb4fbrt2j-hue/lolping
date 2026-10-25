@@ -1,0 +1,247 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设与青年科研使命",
+  "audience": "研究生《新时代中国特色社会主义理论与实践》课程同学与教师",
+  "objective": "16—18分钟，以科技强国为核心、材料为切入、海洋为实践场景的五章课程汇报",
+  "thesis": "从传统材料智慧和当代防护材料成果转化，理解科技强国建设对中国式现代化的支撑与青年责任。",
+  "narrative_arc": [
+    {
+      "act": "千年匠心：一条船缝里的中国智慧",
+      "purpose": "承接传统—挑战—创新—战略—担当的论证",
+      "slides": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "act": "材料之困：现代巨轮如何抵御海洋侵蚀？",
+      "purpose": "承接传统—挑战—创新—战略—担当的论证",
+      "slides": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "act": "科技破题：一层涂层背后的中国创新",
+      "purpose": "承接传统—挑战—创新—战略—担当的论证",
+      "slides": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "act": "向海图强：从材料创新看科技强国建设",
+      "purpose": "承接传统—挑战—创新—战略—担当的论证",
+      "slides": [
+        "s9",
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "act": "青春担当：以材料之力回应时代之问",
+      "purpose": "承接传统—挑战—创新—战略—担当的论证",
+      "slides": [
+        "s13",
+        "s14",
+        "s15"
+      ]
+    }
+  ],
+  "slide_plan": [
+    {
+      "slide_id": "s1",
+      "role": "title",
+      "message": "一条船缝里的材料智慧",
+      "variant": "visual-polish-cover",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [],
+      "asset_needs": [
+        "assets/cosco-universe-original.JPG"
+      ]
+    },
+    {
+      "slide_id": "s2",
+      "role": "evidence",
+      "message": "福船的防漏智慧",
+      "variant": "visual-polish-heritage",
+      "visual_strategy": "native-photo-reservation",
+      "evidence_needs": [
+        "ev-heritage"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s3",
+      "role": "evidence",
+      "message": "从材料巧用到守正创新",
+      "variant": "visual-polish-craft",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-heritage"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s4",
+      "role": "evidence",
+      "message": "从木质帆船到钢铁巨轮",
+      "variant": "visual-polish-shipbuilding",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-case",
+        "ev-imo"
+      ],
+      "asset_needs": [
+        "assets/jiangnan-cc0.jpg"
+      ]
+    },
+    {
+      "slide_id": "s5",
+      "role": "evidence",
+      "message": "海洋防护的三重要求",
+      "variant": "visual-polish-demands-photo",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-case",
+        "ev-imo"
+      ],
+      "asset_needs": [
+        "assets/chiwan-jacket.jpg"
+      ]
+    },
+    {
+      "slide_id": "s6",
+      "role": "evidence",
+      "message": "工程需求怎样变成科研问题？",
+      "variant": "visual-polish-case",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-case"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s7",
+      "role": "evidence",
+      "message": "一套防护体系，三类协同创新",
+      "variant": "visual-polish-coating",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-case",
+        "ev-epoxy"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s8",
+      "role": "evidence",
+      "message": "从实验室到工程应用",
+      "variant": "visual-polish-engineering-photo",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-case",
+        "ev-plan",
+        "ev-fusion"
+      ],
+      "asset_needs": [
+        "assets/lan-jing-2019.jpg"
+      ]
+    },
+    {
+      "slide_id": "s9",
+      "role": "implication",
+      "message": "科技强国，要落到具体技术能力上",
+      "variant": "visual-polish-capacity",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-plan",
+        "ev-science"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s10",
+      "role": "implication",
+      "message": "科技创新如何转化为新质生产力？",
+      "variant": "visual-polish-productivity",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-case",
+        "ev-quality",
+        "ev-fusion"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s11",
+      "role": "implication",
+      "message": "好材料，既守护装备也守护海洋",
+      "variant": "visual-polish-ecology",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-ecology",
+        "ev-shanghai",
+        "ev-imo"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s12",
+      "role": "implication",
+      "message": "从国家部署到上海实践",
+      "variant": "visual-polish-shanghai",
+      "visual_strategy": "source-backed-image",
+      "evidence_needs": [
+        "ev-plan",
+        "ev-shanghai"
+      ],
+      "asset_needs": [
+        "assets/yangshan-2013-original.JPG"
+      ]
+    },
+    {
+      "slide_id": "s13",
+      "role": "implication",
+      "message": "把科技报国落实到科研训练中",
+      "variant": "visual-polish-youth",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-heritage",
+        "ev-plan",
+        "ev-science"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s14",
+      "role": "implication",
+      "message": "从博物馆调研到专业思考",
+      "variant": "visual-polish-fieldnotes",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s15",
+      "role": "implication",
+      "message": "从一条船缝，到科技强国",
+      "variant": "visual-polish-ending",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [
+        "ev-plan"
+      ],
+      "asset_needs": []
+    },
+    {
+      "slide_id": "s16",
+      "role": "implication",
+      "message": "主要参考资料与图片来源",
+      "variant": "visual-polish-references",
+      "visual_strategy": "editable-native-composition",
+      "evidence_needs": [],
+      "asset_needs": []
+    }
+  ]
+}

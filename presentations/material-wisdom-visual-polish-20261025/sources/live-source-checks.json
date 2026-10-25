@@ -1,0 +1,47 @@
+[
+  {
+    "id": "new-quality",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm",
+    "http_status": 200,
+    "title": "中共中央 国务院关于发展新质生产力的意见__中国政府网",
+    "bytes": 36310,
+    "sha256": "63b3bf303b2d1c98cdab7f6e7f9e1ecca84adbf6e254c194a7e445eb98a4d977",
+    "characters": 5331
+  },
+  {
+    "id": "innovation",
+    "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+    "http_status": 200,
+    "title": "中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见__中国政府网",
+    "bytes": 33729,
+    "sha256": "9e77dc1e75513d83a8f7281568bcd7ed15ec1c26b1a5051ae8d9f7a05a1f8860",
+    "characters": 4476
+  },
+  {
+    "id": "science2035",
+    "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm",
+    "http_status": 200,
+    "title": "人民日报评论员：向着到2035年建成科技强国的目标坚定迈进——论学习贯彻习近平总书记在国家科学技术奖励大会、两院院士大会、中国科协十一大上重要讲话__中国政府网",
+    "bytes": 27210,
+    "sha256": "b96db9a664aaef3cf8756aafe69028cca24e7321d86a9b302b08d0245b457ef9",
+    "characters": 2441
+  },
+  {
+    "id": "ecology-report",
+    "url": "https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm",
+    "http_status": 200,
+    "title": "习近平：高举中国特色社会主义伟大旗帜 为全面建设社会主义现代化国家而团结奋斗——在中国共产党第二十次全国代表大会上的报告_滚动新闻_中国政府网",
+    "bytes": 135374,
+    "sha256": "00d23a0f4930a946ad66cb768bbdf3ce533eb2fde17b69c35b128ef484bff8ac",
+    "characters": 33778
+  },
+  {
+    "id": "shanghai-green",
+    "url": "https://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html",
+    "http_status": 200,
+    "title": "上海市人民政府关于印发《美丽上海建设“十五五”规划》的通知",
+    "bytes": 56792,
+    "sha256": "7fd7de1b2d0f1293def8c227a21fc9ca8e02da2d51d8f77b7caf8fe28d345cf8",
+    "characters": 10316
+  }
+]

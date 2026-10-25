@@ -1,0 +1,284 @@
+{
+  "pptx_zip_and_xml_valid": true,
+  "slide_count": 16,
+  "spoken_slides": 15,
+  "reference_slides": 1,
+  "canvas": "16:9",
+  "planned_seconds": 990,
+  "planned_duration": "16:30",
+  "motion_and_audio_objects": 0,
+  "excluded_topics_found": 0,
+  "original_spoken_script_unchanged": true,
+  "font_family": "Noto Sans CJK SC",
+  "native_editable_text_objects": 202,
+  "native_editable_photo_reservations": [
+    {
+      "page": 1,
+      "name": "MUSEUM_COVER_FUCHUAN",
+      "ratio": "2:1",
+      "native_editable_frame_and_label": true
+    },
+    {
+      "page": 2,
+      "name": "MUSEUM_BODY_STRUCTURE",
+      "ratio": "16:9",
+      "native_editable_frame_and_label": true
+    }
+  ],
+  "embedded_photo_count": 5,
+  "photo_aspect_preserved": true,
+  "cover_photos_not_reused": true,
+  "pdf_pages": 16,
+  "preview_pages": 16,
+  "preview_pixels": [
+    1920,
+    1080
+  ],
+  "slides": [
+    {
+      "page": 1,
+      "title": "一条船缝里的材料智慧",
+      "editable_text_objects": 9,
+      "embedded_photographs": 1,
+      "photograph_sha256": [
+        "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29"
+      ],
+      "notes_match_source": true
+    },
+    {
+      "page": 2,
+      "title": "福船的防漏智慧",
+      "editable_text_objects": 12,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 3,
+      "title": "从材料巧用到守正创新",
+      "editable_text_objects": 16,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 4,
+      "title": "从木质帆船到钢铁巨轮",
+      "editable_text_objects": 11,
+      "embedded_photographs": 1,
+      "photograph_sha256": [
+        "d12736bf78272fe3fea7137f963eae485d52d64dd8adbef21d50172335c773ea"
+      ],
+      "notes_match_source": true
+    },
+    {
+      "page": 5,
+      "title": "海洋防护的三重要求",
+      "editable_text_objects": 14,
+      "embedded_photographs": 1,
+      "photograph_sha256": [
+        "feb7754ffc9a9e2088d45df505f2c9aae1b89372eb1c857e62c450c754caa517"
+      ],
+      "notes_match_source": true
+    },
+    {
+      "page": 6,
+      "title": "工程需求怎样变成科研问题？",
+      "editable_text_objects": 12,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 7,
+      "title": "一套防护体系，三类协同创新",
+      "editable_text_objects": 16,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 8,
+      "title": "从实验室到工程应用",
+      "editable_text_objects": 11,
+      "embedded_photographs": 1,
+      "photograph_sha256": [
+        "9653baeba02b8d0f1fcd7be218391acd602af5ade4d4d0d79184a5459688b04b"
+      ],
+      "notes_match_source": true
+    },
+    {
+      "page": 9,
+      "title": "科技强国，要落到具体技术能力上",
+      "editable_text_objects": 13,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 10,
+      "title": "科技创新如何转化为新质生产力？",
+      "editable_text_objects": 12,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 11,
+      "title": "好材料，既守护装备也守护海洋",
+      "editable_text_objects": 15,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 12,
+      "title": "从国家部署到上海实践",
+      "editable_text_objects": 8,
+      "embedded_photographs": 1,
+      "photograph_sha256": [
+        "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c"
+      ],
+      "notes_match_source": true
+    },
+    {
+      "page": 13,
+      "title": "把科技报国落实到科研训练中",
+      "editable_text_objects": 12,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 14,
+      "title": "从博物馆调研到专业思考",
+      "editable_text_objects": 13,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 15,
+      "title": "从一条船缝，到科技强国",
+      "editable_text_objects": 7,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    },
+    {
+      "page": 16,
+      "title": "主要参考资料与图片来源",
+      "editable_text_objects": 21,
+      "embedded_photographs": 0,
+      "photograph_sha256": [],
+      "notes_match_source": true
+    }
+  ],
+  "files": [
+    {
+      "file": "build/material-wisdom-visual-polish.pptx",
+      "bytes": 22144800,
+      "sha256": "6366f89bfe00fec60ad555d4aa9ef890eca3c11b2adc2632002bba53509d4b8d"
+    },
+    {
+      "file": "build/material-wisdom-visual-polish.pdf",
+      "bytes": 2895640,
+      "sha256": "b84bd935abf6a7199e1f8d424f1202d28fd16f35406a03d3b546e623dc2f14ad"
+    },
+    {
+      "file": "build/previews/slide-01.png",
+      "bytes": 501365,
+      "sha256": "4719a33ee07c73b215174dc9f67b7592cce8ee2fdac74b859dac52244dd56c83"
+    },
+    {
+      "file": "build/previews/slide-02.png",
+      "bytes": 189763,
+      "sha256": "00e969e678c18bb035376e569133076d85e1799f965019453f361f67f0c0815d"
+    },
+    {
+      "file": "build/previews/slide-03.png",
+      "bytes": 207780,
+      "sha256": "c6185c5a49cc527d55e6930b0e8fa74bac50b92d880058c4669209dfe687dfd5"
+    },
+    {
+      "file": "build/previews/slide-04.png",
+      "bytes": 1071641,
+      "sha256": "d7ad5072328f19295fc3ccb1acb1a980f1db2ce1d798e7f0cae82271c999299a"
+    },
+    {
+      "file": "build/previews/slide-05.png",
+      "bytes": 743043,
+      "sha256": "30e10fd5a5a2f0624f4aa4a4f32a1cb01dabc261e0e81f98092e60b56dd234f6"
+    },
+    {
+      "file": "build/previews/slide-06.png",
+      "bytes": 190460,
+      "sha256": "c6459c9711619de1716306fea06ea61fbdec9a8d304d9ce4b9f7da5113e4ffbb"
+    },
+    {
+      "file": "build/previews/slide-07.png",
+      "bytes": 197803,
+      "sha256": "8fb16cf9d6fa1620447e41a6872b9a21f7d0e96f91ff1278a3d32e213605eb21"
+    },
+    {
+      "file": "build/previews/slide-08.png",
+      "bytes": 885379,
+      "sha256": "7556f45311261b3a4f3f6148230150eca33fe1a46499bd85d21023dc7acd5204"
+    },
+    {
+      "file": "build/previews/slide-09.png",
+      "bytes": 217923,
+      "sha256": "382c60829385aed2e7f87a0c12366b1217d5e2e5453b473eea528d88200bb948"
+    },
+    {
+      "file": "build/previews/slide-10.png",
+      "bytes": 172799,
+      "sha256": "30d4eb1e4742b81992fd6c5a9837e3928d59123838f1ea8bf9b7c8d4b5382ded"
+    },
+    {
+      "file": "build/previews/slide-11.png",
+      "bytes": 207787,
+      "sha256": "4f52ecc45d5f130a44fd9089a3e6fd3a70b47f8758f6e597ce9dd18d30b78706"
+    },
+    {
+      "file": "build/previews/slide-12.png",
+      "bytes": 1691248,
+      "sha256": "251b3aa1fa2787989e264e6b525da1fb7556a042b2b47cd626da0d692b79c19a"
+    },
+    {
+      "file": "build/previews/slide-13.png",
+      "bytes": 211265,
+      "sha256": "d3c772e41ddaf53261926fad2ca756509cfcf9cc6ebe6817fec3a497e81c52a4"
+    },
+    {
+      "file": "build/previews/slide-14.png",
+      "bytes": 188194,
+      "sha256": "17df176659cc6a144edd58de272aca2712a6b30d442727b9ac34f22e5131f62e"
+    },
+    {
+      "file": "build/previews/slide-15.png",
+      "bytes": 170580,
+      "sha256": "42a22d943f5bcb30a67bf01e55398b9edc094c7acca5c3a545a36b3170bf4471"
+    },
+    {
+      "file": "build/previews/slide-16.png",
+      "bytes": 235416,
+      "sha256": "69c024c99a2b9876f4513a544197e6849d3d28d1b72655e6903f6f5a2c971be4"
+    },
+    {
+      "file": "build/previews/contact-sheet.png",
+      "bytes": 1121622,
+      "sha256": "e0ff7c9ace15df227e2f5d1c01bf9d7184fe5093528bbe0611c4890213cdc538"
+    },
+    {
+      "file": "build/previews/preview-01-08.png",
+      "bytes": 567883,
+      "sha256": "b5a02c38d9f23df53dd15de866eb93f2ef1d1c5b49f6597f6046cb2762265a33"
+    },
+    {
+      "file": "build/previews/preview-09-16.png",
+      "bytes": 560182,
+      "sha256": "d22f5ef0dca2eeb1efd3401ae1a0e84a11615d737c1e2a175a269a5e73191035"
+    }
+  ]
+}

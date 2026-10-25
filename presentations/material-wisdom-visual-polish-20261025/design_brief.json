@@ -1,0 +1,65 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设与青年科研使命",
+  "content_maturity": "serious/work",
+  "audience_posture": "students/learners",
+  "emotional_register": "trustworthy",
+  "format_promise": "在已确认五章内容与讲稿基础上做视觉精修：大标题、真实工程摄影、深浅背景节奏、清晰材料功能示意；不重写内容。",
+  "anti_format": [
+    "连续三栏文字",
+    "连续白底文字",
+    "装饰图形填空",
+    "虚构科研结构与应用照片"
+  ],
+  "canvas_and_grid": {
+    "aspect": "16:9",
+    "margin_x_in": 0.5,
+    "footer_reserve_in": 0.33,
+    "header_policy": "固定标题安全区，正文与图片不侵入"
+  },
+  "title_page_concept": {
+    "chosen_archetype": "editorial masthead with photographic diptych",
+    "dominant_element": "传统福船实拍预留与现代中国船舶并列",
+    "supporting_element": "科技强国主题标识",
+    "why_this_could_only_be_this_deck": "从木船板缝到现代船舶防护材料的历史呼应"
+  },
+  "structure_strategy": {
+    "primary_scaffold": "open editorial compositions",
+    "repeated_elements": [
+      "深海蓝与科技蓝",
+      "统一左边距",
+      "可追溯来源"
+    ],
+    "allowed_variations": [
+      "museum-cover",
+      "museum-heritage",
+      "material-craft",
+      "transformation",
+      "demands",
+      "case-opening",
+      "coating-system",
+      "transfer",
+      "autonomy",
+      "productivity",
+      "ecology",
+      "museum-strategy",
+      "youth",
+      "fieldnotes",
+      "ending",
+      "references"
+    ],
+    "container_policy": "仅照片框使用容器；正文开放排布",
+    "rhythm_break_plan": "放大封面标题；图文页/深蓝机制页/开放对照交错；第四章依次为能力主论点、纵向转化阶梯、生命周期环节、上海真实场景。"
+  },
+  "design_dna": "civic science policy",
+  "renderer_treatments": {
+    "custom_variant": "museum-editorial",
+    "footer_mode": "source-line"
+  },
+  "palette": {
+    "navy": "09243A",
+    "technology_blue": "007AB8",
+    "white": "FFFFFF",
+    "gold": "C6A768"
+  },
+  "font_family": "Noto Sans CJK SC"
+}

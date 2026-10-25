@@ -1,0 +1,1731 @@
+{
+  "protected_existing_files": 345,
+  "changed_files": [],
+  "baseline": [
+    {
+      "file": "presentations/船缝里的材料智慧/SHA256SUMS.json",
+      "sha256": "2704b0f731edf50436c1f728a43e43ad19ab71efafbfd005237cb3987ce2b8c9",
+      "bytes": 5262
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/build_deck.py",
+      "sha256": "7de1ce10cef9a4042756514a6efe992d95d083acb895b9d5ccdcd59a53035ce4",
+      "bytes": 36960
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/layout.json",
+      "sha256": "352f38c74e9e7b02cc8614ce6f99f27f45e74bb2433187fb0a323b9d5b95ae2a",
+      "bytes": 48587
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/render_and_check.py",
+      "sha256": "ea618f5262b642a0ae2f0f74cbc227973246ac06af74891ba0013fdd4dc787ee",
+      "bytes": 2727
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/render_validation.json",
+      "sha256": "06144b7815fc8c17458d88e45b9c9cf5a5bac4a2db5aa7e82759e7cc747bebac",
+      "bytes": 1405
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/requirements.txt",
+      "sha256": "e7a5b248b47c52dba9ce9ef69465a02dcab55f857eb6aa24329e00c0ccf2f2c2",
+      "bytes": 62
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/validation.json",
+      "sha256": "a012cb4b8cd2c900b1ef9bf81564b6c8231bb172fc22c39ac1af7cae39c1d541",
+      "bytes": 799
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/一条船缝里的材料智慧_课堂汇报.pdf",
+      "sha256": "e9ea6c58969c88b760468cbacf49618b5d5f092750b8d4cdb57c7f22415dc2c7",
+      "bytes": 1489421
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/一条船缝里的材料智慧_课堂汇报.pptx",
+      "sha256": "85a7672cdbfe5c3358122ddf01e3f4b0c286f9aeebf364176c49d893efc49d7c",
+      "bytes": 323128
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/使用说明.md",
+      "sha256": "4b1f13a98419a41fa59abdcb894d55f38b4027c38490e8ff6ab4857f059817d6",
+      "bytes": 3429
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/船缝材料智慧_完整交付包.zip",
+      "sha256": "582c81e0572e5adf4d3d43efb9d73e2592eca8852b3210eff65c51dd7f7c18a0",
+      "bytes": 4967395
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/讲稿与备注.md",
+      "sha256": "9ac026fa4530845abf08688f0fefb904465dc7276c70c4f6df46c454b1876b7d",
+      "bytes": 14563
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/页面规划.md",
+      "sha256": "dbaa6912a64950c6efbf956fd6717ec5df482c9d191e787884ccc5e261c212a4",
+      "bytes": 3747
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/evidence_plan.json",
+      "sha256": "45d5165e733ded458c7b8200d9afff715cd0b938a30ac60f61faf70d68b417cd",
+      "bytes": 2148
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/图片与资料来源.md",
+      "sha256": "90ccc1174486e27f366febd92cbce084d7fd014fefbb0acd8e626aac763b8fa0",
+      "bytes": 4279
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/content_plan.json",
+      "sha256": "58c3d4f38dfd39443bbe75fa61bb8789e2b15ef6ff572f05cdef38b3b5514c1f",
+      "bytes": 2387
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/SHA256SUMS.json",
+      "sha256": "28de311d81a1d1b1a4e3c3f0383559b8a2469d4dfcb13d8bb97533440fa0eb87",
+      "bytes": 7722
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/photo-placeholders.json",
+      "sha256": "a903e2132593efee630df4e14bba401f8c59c5ab7790b4d8d8682214228cc98a",
+      "bytes": 1803
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/material-wisdom-v3-delivery.zip",
+      "sha256": "15779d322c9c3a2d21403a37d9218df4cb7f9ff938f50a1db015445f03547c5b",
+      "bytes": 16482392
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/verify_delivery.py",
+      "sha256": "f9f7229d931e6ccd856881b692ea6c7a9b7280872b5aa9a4235d3f7c8428341f",
+      "bytes": 4122
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/design_brief.json",
+      "sha256": "92db6c30b3f6e1c09ce172291a6eb4eebab9c4d144b727c52094b7e8d569f6a2",
+      "bytes": 1773
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/rebuild.sh",
+      "sha256": "e3aa4adc6165e67e03c56dcf5b50f17718d8f143316e1343876fa85a200791ef",
+      "bytes": 1274
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/notes.md",
+      "sha256": "dbcc1aca226367f7020e7baf960d86f20c1616eca6da50057c65aec1f44365fc",
+      "bytes": 1093
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/museum-photos.example.json",
+      "sha256": "a0e59bdb44b06e62770a2b2f42849d8fd3b12ccf0a0c24faf2eed27c42d35caa",
+      "bytes": 1008
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/asset_plan.json",
+      "sha256": "d42c69cc3e5fdd44fb6526cefe451725522f8f98d966fdaa7db748fa32f0b444",
+      "bytes": 3045
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/preservation-check.json",
+      "sha256": "6473d109fcda013ec7c0776d82df25538c89c61f21a9104737479311bd45bf49",
+      "bytes": 36998
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/replace_museum_photos.py",
+      "sha256": "904239033a9857066b93705f8aa99c68acec4d38dcd8e0855eaab0038f4add28",
+      "bytes": 4218
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/图片占位框与替换说明.md",
+      "sha256": "2fc7bd4d261e70cce9aa8733270aaa8b13c3153f5067d2c0a59a315311f369d8",
+      "bytes": 3731
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/style_contract.json",
+      "sha256": "54d07c57dcf02e698b5b533d9edcc62a87e6b6d1ef53e63c96616d83d8b420fb",
+      "bytes": 1607
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/workspace.json",
+      "sha256": "151ad8196a479b5832b88521a6f13484311918230cec3d3b7509f66a4021a9f3",
+      "bytes": 551
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/README.md",
+      "sha256": "129123eb416e5a4e4d74a5990593c0b997a393f210d6fa2e0320e44abf065c69",
+      "bytes": 6101
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/image-sources.json",
+      "sha256": "8ccf2ee5148aa4ecb7c8dded1eba4583ee4112fd59489c85eff2e0749d81281c",
+      "bytes": 2639
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/outline.json",
+      "sha256": "26ab8dff60ef0d9cd136c7457c9b2e35bfdfc7aafd963186c6b2570e8efe4a0c",
+      "bytes": 7715
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/evidence_plan.json",
+      "sha256": "c3d2a512d75d4b6920be62912c87161fe64dc131b2370b337ecf7ec92e73293b",
+      "bytes": 4430
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/逐页讲稿.md",
+      "sha256": "fb043667d463cf79f9c9903b558858d51d6a63d74df6936b31682de901f27f33",
+      "bytes": 14242
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/content_plan.json",
+      "sha256": "370abf8e2fda798c88bbd6ef519c1b83831230661a1a4809e2dd3edd78d31167",
+      "bytes": 6669
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/material-wisdom-full-course-report-delivery.zip",
+      "sha256": "57c38f6c798ff422835a42a5bb37acde58d2d5612def0c4645a174adb2c490b8",
+      "bytes": 23755334
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/SHA256SUMS.json",
+      "sha256": "cbec10a6ca4002fef722c208332583d66054ac30611f72ee7b94974f57b59aea",
+      "bytes": 15506
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/photo-placeholders.json",
+      "sha256": "a903e2132593efee630df4e14bba401f8c59c5ab7790b4d8d8682214228cc98a",
+      "bytes": 1803
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/verify_delivery.py",
+      "sha256": "d65bf33641cfbb68a54059f694f84dd255b6de8a4194baf287e9e199f95407df",
+      "bytes": 6293
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/design_brief.json",
+      "sha256": "9068851c48f652c7b9e550f7eb41542b0d5b40fd9129d1ba1c2720d73f384449",
+      "bytes": 2054
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/逐页内容与版式规划.md",
+      "sha256": "59e5359ce2df7da22442786c6ecda84be29304f8de449b6ef1a8e6478a136018",
+      "bytes": 11734
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/rebuild.sh",
+      "sha256": "75c44305bdfdc48707bd102919d7ae525233ba67ff563d6452f5e18af3179246",
+      "bytes": 1441
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/timing-and-chapters.json",
+      "sha256": "98a28f5a7af604b8ab2bb2c67da908bb2bd9fe1cfbb2c5664d7dcbbce03c8b48",
+      "bytes": 2485
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/notes.md",
+      "sha256": "6c543fdc11504ec1c94d32674f43b46bd57256944ed8505419fd679036aa05b3",
+      "bytes": 846
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/参考资料与图片来源.md",
+      "sha256": "2a8338d4bc1b2fea89b3e404c7b6532f4d9a9b7e1466bb72ec7648a448461bc9",
+      "bytes": 8310
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/museum-photos.example.json",
+      "sha256": "a0e59bdb44b06e62770a2b2f42849d8fd3b12ccf0a0c24faf2eed27c42d35caa",
+      "bytes": 1008
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/asset_plan.json",
+      "sha256": "b0be6d973f151975455a9e3f0cf0a2c5341921d29765a44a589013c4731f0f7a",
+      "bytes": 3075
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/preservation-check.json",
+      "sha256": "944ed305043251dfcc80ef0795f503a9c10a623722f99f041da857f687ec9973",
+      "bytes": 48596
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/replace_museum_photos.py",
+      "sha256": "904239033a9857066b93705f8aa99c68acec4d38dcd8e0855eaab0038f4add28",
+      "bytes": 4218
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/style_contract.json",
+      "sha256": "e555272da0e6f16b73cf189092df55478060b92f2bb5a1a4d9c0589ca4ad7534",
+      "bytes": 1610
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/workspace.json",
+      "sha256": "ab98bf0df1fc00e7b0b34cf06aae0a1a862aa9439497d8ce5fdcf2a6c4caae38",
+      "bytes": 555
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/README.md",
+      "sha256": "477902538ebbaf96e1b7b5b56f97e2cd1f21387db3ff2872684b099e53aa6175",
+      "bytes": 8264
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/照片替换与使用说明.md",
+      "sha256": "02e848eb5d903d4ac92796bc281783d1f072679dbd5d31e51eeb90b7bc03895b",
+      "bytes": 2922
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/image-sources.json",
+      "sha256": "82bf42cf7336c63af3506a6d47e2c00db042b3831e78e66647ec4c017f5690b5",
+      "bytes": 2640
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/spoken-script-metrics.json",
+      "sha256": "14f0c9ff02563ce950a9242aaa04ce46c3bc10fe06d140785446b12a0a90a668",
+      "bytes": 219
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/outline.json",
+      "sha256": "fe377c02538fe355c018864492d816d53ea2577f669200df7f3be75adf741a94",
+      "bytes": 42674
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/preserved-modern-assets.json",
+      "sha256": "38d872675c2e0e94c7d133722ae0d5f95b77d2da2da43bf173ecf6cf5bdd9051",
+      "bytes": 3842
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/SHA256SUMS.json",
+      "sha256": "d55f4ff515ecbafed00da9a81ef3aaa80887bdee497f8d725f236bacb5bfd76d",
+      "bytes": 1499
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/fuchuan-candidate-review.zip",
+      "sha256": "14991e9c1f93c118cd3dda69a5bf1651197dbfdd99f56dd36cdc97145a44645a",
+      "bytes": 1856909
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/candidate-register.json",
+      "sha256": "d653d9bcfc9a2927c419003eb220ae517568003cf121fcbb53a40c29547bd5b4",
+      "bytes": 5830
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/preservation-check.json",
+      "sha256": "75ed498baa724a86c5fe486f6514f0fd0d55426a0e63e84f2193c56cc0fdd7ac",
+      "bytes": 226
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/verify_candidates.py",
+      "sha256": "ccf070b58e24728bfaa20968fc09424e34248912e45c4a789c41957c2af76001",
+      "bytes": 1417
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/README.md",
+      "sha256": "27fc3c172bf542ae88a75733d4ff6adb130660d130aef8353bc71042d22551bd",
+      "bytes": 9288
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/verification.json",
+      "sha256": "c74c8aacaa110c4f009bfd10f3864e88a60512d6d315ba5184a145838189f056",
+      "bytes": 587
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/SHA256SUMS.json",
+      "sha256": "aaaff56b59de93d6f7a01d01337dc40c5c7f62d85131daf5adde82ac67f9f335",
+      "bytes": 1550
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/IMAGE-LICENSES.md",
+      "sha256": "22e71d7a106433158dd46a253103d5fdc7aa7405b44488c24fe4f19dc8f539f3",
+      "bytes": 4078
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/original-preservation.json",
+      "sha256": "fb492e4acef0dff62b3e36df9e9ecbe5a800ed6a54c013b13f4ceaf2e501f594",
+      "bytes": 298
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/verify_assets.py",
+      "sha256": "279a20caf29dcbcb780f2fcc9ed5114d2a2ef8158529dce1cea85abd034bf77d",
+      "bytes": 1339
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/cover-reservations.json",
+      "sha256": "0ff8dbe527d48a486f403e4c6ebff3b9ec14171a3400497c70d86043b2723ca0",
+      "bytes": 735
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/asset-library.json",
+      "sha256": "17b80f38ade61730810d9a313d053dffd5ccbc87f13fd5a1355122cc308717a9",
+      "bytes": 5799
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/asset-verification.json",
+      "sha256": "a6a4e2610ee0eb33bd1b4b4fddbe84b820698e1941007f05cad5217e5f6c85aa",
+      "bytes": 916
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/README.md",
+      "sha256": "7eebba25cde98abd43ed11d08923ea92dfed2d7a9cba888f0cb283ac60fa18ee",
+      "bytes": 5714
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/v3-asset-review-bundle.zip",
+      "sha256": "7c8eb99a40f69594cfb625be8ecfdd285db09bf018f254e82074d8a1cddd0023",
+      "bytes": 22044242
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/evidence_plan.json",
+      "sha256": "00388b03d85023dd829a108a13916f070fc6ed78ced596da788c736d29ad5b4a",
+      "bytes": 2903
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/图片与资料来源.md",
+      "sha256": "5f717da8063813ed5b8906f194286be26a923caf2554d78426e3420b8f19bbd8",
+      "bytes": 3983
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/三页样张规划.md",
+      "sha256": "c5e8819cccbbb6d9951968b503dc55d28957fa06bbb4b170949d9e4bf71d22b7",
+      "bytes": 460
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/content_plan.json",
+      "sha256": "5c6bcb00eb9e248617c9dcf351284a5fd5a4ce604c6124518b407bd30ec7a4af",
+      "bytes": 1882
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/SHA256SUMS.json",
+      "sha256": "4ba8dc3963b3c678953b7daf3060503fae14811468fd088f9ef0aa2a17e1bf20",
+      "bytes": 6308
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/verify_delivery.py",
+      "sha256": "d611c61d7cf3c76af582718db00640ae7e8316d0d641b5571888d784271c6b4d",
+      "bytes": 2250
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/design_brief.json",
+      "sha256": "ee95abac571f0fe5ea1d0a7ac74cf1a6d3e803f873a185c05e4ec57704eeef22",
+      "bytes": 1507
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/rebuild.sh",
+      "sha256": "7155f013bdaeca8eaf2fdcabedaf195a89dc74320e16c6ff85c2eb72185563ce",
+      "bytes": 843
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/notes.md",
+      "sha256": "7def0b0870fe6928e27ecf439e0c9be7587785c39088586d56db557451fbb22b",
+      "bytes": 1601
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/asset_plan.json",
+      "sha256": "717e3538accc56b68775aec2a3ae117ed98861d4513063d5341277d52aa09e2b",
+      "bytes": 2007
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/README.md",
+      "sha256": "be983c531e647584c3b40a8f80418be9e637b5ed92eb085524d579fa76825402",
+      "bytes": 2772
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/outline.json",
+      "sha256": "cdaa2999bc68cb8c21d36f4f005abcff2a13c88ccea71984624676b802b41da4",
+      "bytes": 4372
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/assets/jmu-expo-2.jpg",
+      "sha256": "35194bd854cf9b4faec01e595a3fd52b67204d2c952d893c015d9cc998595675",
+      "bytes": 224484
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/contact-sheet.jpg",
+      "sha256": "f9f5e6e341612a4c65ea9c47a113b41a266226ff8e71e91606522ce75c26355b",
+      "bytes": 491529
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-01.png",
+      "sha256": "46eba19ee71b17567c6760d1592ee442aead371998150f94b12f306e1518a9f9",
+      "bytes": 101792
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-02.png",
+      "sha256": "b0d145b68b7adb1c4832b76a09a7431fc2beaaa65939c0ab895c050e08b3e438",
+      "bytes": 115228
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-03.png",
+      "sha256": "3ccf980883500dd27a48a5c7a8ee82d81d65f21dce1769ec552f936ffd2e75d7",
+      "bytes": 119402
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-04.png",
+      "sha256": "3e1f21f321be2ecf20a9fdfe40dde85db7b638cc8bf497028a6b3850c5976c1c",
+      "bytes": 125923
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-05.png",
+      "sha256": "a29ae07a6b46280d532212d5c0f0de3f79eeb8197b47891d02561ef7586b9d99",
+      "bytes": 139620
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-06.png",
+      "sha256": "fde815f5713ec67c33f5ebc8145280eb46526ffa908dcf4d2d7969033bad5d64",
+      "bytes": 150507
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-07.png",
+      "sha256": "8ed0190056cbaf5c32d9c0dc79bcc104349a3957e932e866cb7f36f4c5f5b192",
+      "bytes": 141838
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-08.png",
+      "sha256": "f5fc6cfb4e3ca1dcb96a337868a996a7c0e58e7ff23d175bed8d9172b1dd7b51",
+      "bytes": 113550
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-09.png",
+      "sha256": "5788b08082e84f552fec2647a77aff0167747ade48fb08e4740b3a83ddc4580e",
+      "bytes": 638457
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-10.png",
+      "sha256": "599dd0acb150bca77bec30d71e5574cf48171bf6125be5b69b658e24e9b0a10d",
+      "bytes": 134433
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-11.png",
+      "sha256": "c6c0e9e347b9e74752e7f1b1dcc67aeb4f2567b4ee8a77a35603eb035ce2c3ec",
+      "bytes": 133696
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-12.png",
+      "sha256": "4b887a976e136e52c55ca74fe2082835c93e33f1313446a335787b620d27026b",
+      "bytes": 115020
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-13.png",
+      "sha256": "63c59ffb981975e30dccfc72ed9019d77127a3977e7509f1f51f5565b6952905",
+      "bytes": 121275
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-14.png",
+      "sha256": "d363e1626d5d72dc765e968167400c171ae43c39f777150cadf407e1aea19c48",
+      "bytes": 89496
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/previews/slide-15.png",
+      "sha256": "76dc9f0d6574e824ec904ccc960fda11d80483e4bbd884dd2e8771376c1d7e64",
+      "bytes": 153649
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/参考资料与核验记录.md",
+      "sha256": "c1e30969cf90c33a0cf3f8a6cf4b122a2f48f394ae74f4eee7ef9ebaed20a800",
+      "bytes": 8625
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/用户原始提纲.md",
+      "sha256": "48ca567c45a8c32bee66a04b6c0e0b53f7e1af521b8cc5a18210782abd821251",
+      "bytes": 11697
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/case.html",
+      "sha256": "fe530c76c533bb7c39b3293da41f3e9a20cf14c7cebb9ace770ed056abfb5cf5",
+      "bytes": 41199
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/case.txt",
+      "sha256": "9a8bcce4667f39ec182467533ecb59310a183319bd9ae03ed855442e34cd4a58",
+      "bytes": 5000
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/case_meta.json",
+      "sha256": "d9ecb7f22d1a4921988b68183b29fd2fac5a4895ae5fc1f8b66b17e22fc1fb1f",
+      "bytes": 240
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/gov_plan.html",
+      "sha256": "35ce0160280dcd7bec2dd03c94131bad8adcaefaf466ed5bb19b77e6e102fb40",
+      "bytes": 228098
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/gov_plan.txt",
+      "sha256": "02c80efd3b6c32256a582e1819e0412560e718700041610012e66338182c3489",
+      "bytes": 178913
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/gov_plan_meta.json",
+      "sha256": "afeddc15645ef128b34b606f0cef2f6518d6c948435c00e6d458581ee1120f14",
+      "bytes": 282
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/ich_dir2.html",
+      "sha256": "d6a3fdd3a6437be8ad3d906771232dc73fc6a0506c366dedaef5b4c41fd21666",
+      "bytes": 47982
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/ich_fuchuan_record.json",
+      "sha256": "332f0826bc2849da8a2fd3bb7a76de59aa0fdf46ac3ed5dd88494b57812daaf1",
+      "bytes": 2796
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/imo_afs.html",
+      "sha256": "43b77b63e87cee1957bf798db7fd078ed0f55d1a6b5c9bc0d6aaf762bb3d79a6",
+      "bytes": 70639
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/imo_afs.txt",
+      "sha256": "8f97394095e2d43d17af6a4982ad24b04d76a4f25c4b5e4571b1ab7b20b668e2",
+      "bytes": 15094
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/imo_afs_meta.json",
+      "sha256": "9b4930038bfb3e80fefea026a7b1a691261e871b3c7cfc01955f5443cfbc82e0",
+      "bytes": 234
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/jmu_ocean.html",
+      "sha256": "88433ef05733f90fd9264e3c62a8432156027ead9ea0937be8060599f5d6638b",
+      "bytes": 20734
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/jmu_ocean.txt",
+      "sha256": "eda9f31eff0571f640ec80aed5131c31e3401b952e31bdd650c17f54d63254d0",
+      "bytes": 2245
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/jmu_ocean_meta.json",
+      "sha256": "61570680ce1e1c9e947a2f40c238b7814abc02e060350847b9aca204feb5f5ef",
+      "bytes": 223
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/paper_epoxy_mdpi.html",
+      "sha256": "1e308f0286a79f306018063fc1d70b0658644de7129bcc4eceb654a2ac725a35",
+      "bytes": 871920
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/paper_epoxy_mdpi.txt",
+      "sha256": "333dec8d44d3239604e436fe07080347fae94c8abeabe043828cdb0cc284fdf6",
+      "bytes": 101666
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/paper_epoxy_mdpi_meta.json",
+      "sha256": "1f7d0808f210322ad35762376c9adf772415b1356de5b00f73ed7537b200b100",
+      "bytes": 245
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/paper_silicone_mdpi.html",
+      "sha256": "d8e6f63940eca8940c2aa1dfc53435dea37a5d5b98170392d36e1c34153945cd",
+      "bytes": 296702
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/paper_silicone_mdpi.txt",
+      "sha256": "cb674b639f83c3417302a2f144a3a933d77513f047d56e448c68fc17af50e833",
+      "bytes": 28659
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/paper_silicone_mdpi_meta.json",
+      "sha256": "610b21b0dedda245e3ab612bd4e9d862ffb0a07b6c45d1ce67e7ecfce3346d3d",
+      "bytes": 218
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/sh_beautiful.html",
+      "sha256": "7fd7de1b2d0f1293def8c227a21fc9ca8e02da2d51d8f77b7caf8fe28d345cf8",
+      "bytes": 56792
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/sh_beautiful.txt",
+      "sha256": "bb3b0dd1512361e385d05b41345d786d5b4357f82bc11dcd883fc8a8d1a6d06d",
+      "bytes": 29434
+    },
+    {
+      "file": "presentations/船缝里的材料智慧/sources/web/sh_beautiful_meta.json",
+      "sha256": "92d7743d19459e5c3e04de16ed292f2e2e9057a7ab47bbc8f319fcc8793b831b",
+      "bytes": 317
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/__pycache__/replace_museum_photos.cpython-312.pyc",
+      "sha256": "5cd14076e523d3a11d5fd1471c9960d67295f84f274585d7a88bc14ae745f65e",
+      "bytes": 7946
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/source/museum_editorial.js",
+      "sha256": "9b8811517d1326537247d97616cbf67f77c61cf64e5dbd40a1c15e668fa82bee",
+      "bytes": 4069
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/source/presentation-skill-LICENSE",
+      "sha256": "72d39ef882e7f2678a0b81613726b394b2828b2a56bd6dbeb88749a733f09a74",
+      "bytes": 10253
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/source/renderer-integration.patch",
+      "sha256": "073abb9be94ca4f5e2226a936736eb79ca8af25d2d964953396f901cd0f4d9e0",
+      "bytes": 866
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/assets/attribution.csv",
+      "sha256": "94cf839fcd097c230445f6f13b5ead363b8e84aed63bbfb65aeae3d13cfc7aa9",
+      "bytes": 568
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/assets/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/assets/cosco-universe-original.JPG",
+      "sha256": "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29",
+      "bytes": 4044494
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/assets/yangshan-2013-original.JPG",
+      "sha256": "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c",
+      "bytes": 2286189
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/material-wisdom-v3-museum-placeholders.pptx",
+      "sha256": "fd8b1aaa798d7851411383cbb795e5b192e4d0f28a670c71c5ab01f58963cf24",
+      "bytes": 6420426
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/integrity.json",
+      "sha256": "858c1e818a5da0ae319c124a7946ac71db287811eb6159331b1c26e7d6551582",
+      "bytes": 2450
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/planning-validation.json",
+      "sha256": "5ae8c5d405b39da186530d13881be3235f44ad80bbe2ff2d54bd531a8b92a16a",
+      "bytes": 61
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/material-wisdom-v3-museum-placeholders.pdf",
+      "sha256": "65b8a990f3db13f71a6752d3bc5502bf335af445918ebf9d03b267881347e6da",
+      "bytes": 825006
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/manual-review.md",
+      "sha256": "d42a824717b5c9f5753ae2ddb64c270dd05dd95bc36e741a56318855a1ed1472",
+      "bytes": 1405
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/issues.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/design_rules.json",
+      "sha256": "5355e4bd9013656ccdc3b5422f17d65d07b5986c081dadc2f84a0fa843448e49",
+      "bytes": 432
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/qa_report.json",
+      "sha256": "e9b37458095a497962ebf3fe2ddba5d1a03947a1e79c40498b256b8a056e361a",
+      "bytes": 3238
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/layout_lint.json",
+      "sha256": "5099e5338096018703501267b6a9816b93cacb3102f6edef57a939001681ea07",
+      "bytes": 1712
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/manual_review_passed.flag",
+      "sha256": "0237b3b00659c37a4598c4b12586c6bbcd45086af45b49ff37d8afbf146993f1",
+      "bytes": 135
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_qa.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/outline.md",
+      "sha256": "93c97a1835e8331caccc4f4d25047cacaeab79c7e479f384fd51475f4f55f739",
+      "bytes": 4420
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/previews/slide-02.png",
+      "sha256": "458bde13b4cca6f61f2b611bbf289e2b0b2a98ef9e909cb4769cd377e9a0627a",
+      "bytes": 189536
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/previews/slide-01.png",
+      "sha256": "4caf2b3dc1367ae09f2918d326cc96551f617e616e9bb09a4a7ef16be03cb43c",
+      "bytes": 453553
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/previews/slide-03.png",
+      "sha256": "9a92430b94f5e501f204564d7824a216ebd8c899db74a93fb8117d1a0f633001",
+      "bytes": 934882
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/previews/contact-sheet.png",
+      "sha256": "dc97b0afd1acac5044d4fcea77f479bef6b75a2043759ac0cd8731deb5aaef1b",
+      "bytes": 628723
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/renders/slide-03.jpg",
+      "sha256": "ea49e019dd4fab01ef9ebd5e066fe473f22a48943d480d6e84dc9d3c40be92b1",
+      "bytes": 203976
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/renders/slide-02.jpg",
+      "sha256": "45d5072bbdfde522f1f3ea9b6af6187d1e6167c633fdf2f2a516cb9f5652dbe1",
+      "bytes": 129918
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/renders/slide-01.jpg",
+      "sha256": "bb7bc4f428651238360c0ec87ac68a2e939819fbd6f1028e6c55dc9c41e84a96",
+      "bytes": 141400
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/visual_review.json",
+      "sha256": "2cc2b530f3b65d18a784b988b24411e8abdfd67bc32d6fc6c10d0aadaf16d776",
+      "bytes": 3251
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/contact_sheet.jpg",
+      "sha256": "68648e994b4405533b775f3bcb534a536875b23f2972c9d7aabd217cec085614",
+      "bytes": 83506
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/visual_review.md",
+      "sha256": "863745c84cc66ef2469f1b75134719dc2189be953ef0a296a16db57e817f86fa",
+      "bytes": 2380
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/renders/slide-03.jpg",
+      "sha256": "ea49e019dd4fab01ef9ebd5e066fe473f22a48943d480d6e84dc9d3c40be92b1",
+      "bytes": 203976
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/renders/slide-02.jpg",
+      "sha256": "45d5072bbdfde522f1f3ea9b6af6187d1e6167c633fdf2f2a516cb9f5652dbe1",
+      "bytes": 129918
+    },
+    {
+      "file": "presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/renders/slide-01.jpg",
+      "sha256": "bb7bc4f428651238360c0ec87ac68a2e939819fbd6f1028e6c55dc9c41e84a96",
+      "bytes": 141400
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/__pycache__/replace_museum_photos.cpython-312.pyc",
+      "sha256": "841a3c1f55aad6b5d051a5ff285cfebdfd3774ac2f1b9c3590cf0aef60d8bcf6",
+      "bytes": 7951
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/__pycache__/verify_delivery.cpython-312.pyc",
+      "sha256": "176f99d9826c6364f1191dd8181b8812a299dc3e4e456381a7bc83995243ef5d",
+      "bytes": 13077
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/source/museum_editorial.js",
+      "sha256": "9b8811517d1326537247d97616cbf67f77c61cf64e5dbd40a1c15e668fa82bee",
+      "bytes": 4069
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/source/renderer-and-qa-integration.patch",
+      "sha256": "015f8ba89550b6d9edf58f6402b70f1f96af9cf346d4905c14df5b254fe54b73",
+      "bytes": 2399
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/source/presentation-skill-LICENSE",
+      "sha256": "72d39ef882e7f2678a0b81613726b394b2828b2a56bd6dbeb88749a733f09a74",
+      "bytes": 10253
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/source/course_report.js",
+      "sha256": "93e737c7907679d4e89df4556d91ee2ac49b754c1863a3f876448d59102e78d1",
+      "bytes": 6462
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/assets/attribution.csv",
+      "sha256": "72b8a78d60984a9c9895d77cb92bd37de78c86500059b9456b856f321464d77d",
+      "bytes": 561
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/assets/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/assets/cosco-universe-original.JPG",
+      "sha256": "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29",
+      "bytes": 4044494
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/assets/yangshan-2013-original.JPG",
+      "sha256": "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c",
+      "bytes": 2286189
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/integrity.json",
+      "sha256": "a75cede4b8c3871c12ceef177ef24d1774c3f349d71127960cd9908b83f4bd3f",
+      "bytes": 7968
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/planning-validation.json",
+      "sha256": "5ae8c5d405b39da186530d13881be3235f44ad80bbe2ff2d54bd531a8b92a16a",
+      "bytes": 61
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/material-wisdom-full-course-report.pptx",
+      "sha256": "a7d8e67c98ef79380d4767e2bda88e29d378d8747c8c080ad5056e460a8151f0",
+      "bytes": 6684734
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/material-wisdom-full-course-report.pdf",
+      "sha256": "1706bd5a4181aba4b81e8aa3bdea2069d5ee851eb1cbc395fff8b3c40430d584",
+      "bytes": 1421093
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/sources/reference-register.json",
+      "sha256": "2ab4c01ba9da3b1fc91245889cb1b95eb78fa56ba51563ac26adfc8b2798651d",
+      "bytes": 8888
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/sources/live-source-checks.json",
+      "sha256": "a4a0022757efa26624c7c47bc88cb7211d133645d4695885dcd01932322394f8",
+      "bytes": 2118
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/sources/verified-short-excerpts.json",
+      "sha256": "50dca534834fb36775ff973d4396c1069034de7941fce8111b2b767db87d6384",
+      "bytes": 463
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/manual-review.md",
+      "sha256": "c7893db1058d479ae0c2f4812303d66262e52f023a91d29598cf24c8e11fb5f1",
+      "bytes": 1786
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/issues.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/design_rules.json",
+      "sha256": "a466e76de3b117c60b02102cc7e606340c61b7d76ead3890eb6a3381b2fb4046",
+      "bytes": 1219
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/qa_report.json",
+      "sha256": "522c68d232bab7be2342bf59ce4a8cbb6c11bf8e4a5c75392769e3d80a52d1aa",
+      "bytes": 4484
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/layout_lint.json",
+      "sha256": "515e25d6ce64e02e98e231ffd825730d258b4795c75674551cc102c600375e2c",
+      "bytes": 4987
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/manual_review_passed.flag",
+      "sha256": "a44d37d118ef35c2265b6459822cb179be4b23d91fef8b125bb2499a45bab61b",
+      "bytes": 121
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_qa.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/outline.md",
+      "sha256": "9d6c4065e1ab819361c4e6f1556170ae12dc9f74ea29b65454ab1fa43afcbc0c",
+      "bytes": 27855
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-15.png",
+      "sha256": "1c89d084a39639dec6f58d6d381380fbfcad0fe430bccb3570c807fda2c4e7b2",
+      "bytes": 162097
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-06.png",
+      "sha256": "8f7e27d69b558300971694f8dc447ac801a70d0de5f0ee57987156b52eeac59f",
+      "bytes": 165131
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-04.png",
+      "sha256": "152db2a487c5bf169069fdd09f8f2a103a096844b95e5f9a4df1d4371c7fe78e",
+      "bytes": 168684
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-02.png",
+      "sha256": "25c99bc0afeef1c924f58d9ec3307bb47570907295cebf334392669aee2933a3",
+      "bytes": 184429
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/preview-01-08.png",
+      "sha256": "271f8daab8562e881e91cabaa7361b2b4007bcd1d2bba96f77e8d92bb3ccc5bc",
+      "bytes": 394083
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-01.png",
+      "sha256": "6f036981f9b2ad2e69ebac6b81045c9469856578504030cd031036ce1bd8fd85",
+      "bytes": 495280
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-14.png",
+      "sha256": "7b99251085652991009c0fe83af93af474b3986f810941e1a508cf9ec3e509fd",
+      "bytes": 179305
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-05.png",
+      "sha256": "3a0052d435e37f0de3984f669c91b8c0b41f26063dca2099e2ad4f2d7e101ab0",
+      "bytes": 166631
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-12.png",
+      "sha256": "4385197c19a686fab5146d0f153586bf7f8ab0765d49627674734903514656f1",
+      "bytes": 1043184
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-11.png",
+      "sha256": "57e2ce7a314153d1249f50e46c050856833c61a73394fd0a1a99af3400c44e59",
+      "bytes": 189736
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-10.png",
+      "sha256": "35e436728249cbe86a4ae745b33b720657f026b2d0ff797489aa3e000f7c6a83",
+      "bytes": 202833
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-16.png",
+      "sha256": "645b39a37cca6dbb9eb3f8662c3a2d56f89b7c7dc6c3c75adfbd8c3017056794",
+      "bytes": 223257
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-07.png",
+      "sha256": "52a410cf9ee69d7e323caeb8818b712565da7c2130cb097e4f19fcc84feaed36",
+      "bytes": 187272
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-03.png",
+      "sha256": "cf9f92adbb12b21686f98bdc1bcaa98c41aa7ea2ea665e15329918c10999ee78",
+      "bytes": 201582
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-09.png",
+      "sha256": "2b174ed2ab03d27b890c789529f93d6f5b8c27b1c321ff6693b6483a9ac0016b",
+      "bytes": 249412
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/contact-sheet.png",
+      "sha256": "7685dcbbf7914f528fbdf9f51055ce080323ff00349b264a666f99e48ca42456",
+      "bytes": 878283
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-13.png",
+      "sha256": "f25654f7af7c57b888d9f3ef970dc82843ceaaa0630006ab3393501304705967",
+      "bytes": 188662
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/preview-09-16.png",
+      "sha256": "b5c0cc4188bb0ba6a83351836c88b5dfe494fdbb90332a3c4f25ac2e93f6500f",
+      "bytes": 486338
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/previews/slide-08.png",
+      "sha256": "9a28057e7bbe602648bafb9939fd9c35a9800c0cecbbab450d9f168d12e4211c",
+      "bytes": 186163
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-15.jpg",
+      "sha256": "2dd438be037dcae8248d169c403a01b0167457e8262bcc2b8b1702d0bc820120",
+      "bytes": 123555
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-07.jpg",
+      "sha256": "0ba799c05f71347f5d5994cf97d2439db8f9af65831f65d56359613a6a44eada",
+      "bytes": 134356
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-03.jpg",
+      "sha256": "79201e92e4f08c72dfcb191c80f1445278f50058ff4eb92313ebd7d20529d667",
+      "bytes": 138476
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-05.jpg",
+      "sha256": "015479d0bafc1411ac9e105b0f870ed6d6be05901b412bfb686e9a14b96cdd31",
+      "bytes": 116341
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-08.jpg",
+      "sha256": "db3c75178cdd5a932a50fb3e9dfb2d06c03d4ca67a7fc60799e390cf7b8f0344",
+      "bytes": 128665
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-11.jpg",
+      "sha256": "a4e42b8fb8d5043098bcee93e445822ebfc1b972fbe39528399da9d8e8dcf014",
+      "bytes": 143526
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-13.jpg",
+      "sha256": "1ebad56027954bcb0aeebcafa288d326053bc29b7e64586796a6c9f7db42b207",
+      "bytes": 144335
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-06.jpg",
+      "sha256": "aba0c2f8bfcc937f0263dc83280022490f3eff0d8e41eae48a81a2b05f58f96a",
+      "bytes": 131331
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-14.jpg",
+      "sha256": "df797454e86b0b10c9853154b67bb49b55afae240a861e4046341f2e54d01186",
+      "bytes": 120919
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-16.jpg",
+      "sha256": "e09a7dc3655084852b01c11890ce78d9db0318c116f05a3a9f9d25a3ef4211fd",
+      "bytes": 145273
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-04.jpg",
+      "sha256": "ef133a96b4dd9c8e805f4f5f813ed0d935548c86d36a6f56bb947bddd6b6cf79",
+      "bytes": 122820
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-02.jpg",
+      "sha256": "c7248c1fa06af4e7692652382b336b1283971dbfae8aadd49c2fb74c489d3182",
+      "bytes": 122283
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-01.jpg",
+      "sha256": "eb653210a33f19ce6b0772e68cf014342f0f6806dbeaf923a72dfe0645bb7c46",
+      "bytes": 139787
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-10.jpg",
+      "sha256": "b247054f5b1f7d20eb9aa2edc7dc43c9647e345b8fb7887c01fc34236f3cbb69",
+      "bytes": 142082
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-09.jpg",
+      "sha256": "8a1979e4c93269fd6ec597e7a55290192d8c64d7cd4e0bd0550a777fba56e421",
+      "bytes": 169938
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/renders/slide-12.jpg",
+      "sha256": "d0b2168d6649135d1ebe9217fddfd83a0175711ca69711d1bf9690746560b2df",
+      "bytes": 199233
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/visual_review.json",
+      "sha256": "c3378945da56b1d91f305aad8cde92deaedea12a91c04b8b6dc5fba89bc069e5",
+      "bytes": 17751
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/contact_sheet.jpg",
+      "sha256": "71619371d088adf857645346ccac32a98143068e3999e574f1ed702148b393d9",
+      "bytes": 398207
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/visual_review.md",
+      "sha256": "47e570c280cff501277d8080e2604c4b6c5169f912a8ba095f1cb93f5d55ae6d",
+      "bytes": 10980
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-15.jpg",
+      "sha256": "2dd438be037dcae8248d169c403a01b0167457e8262bcc2b8b1702d0bc820120",
+      "bytes": 123555
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-07.jpg",
+      "sha256": "0ba799c05f71347f5d5994cf97d2439db8f9af65831f65d56359613a6a44eada",
+      "bytes": 134356
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-03.jpg",
+      "sha256": "79201e92e4f08c72dfcb191c80f1445278f50058ff4eb92313ebd7d20529d667",
+      "bytes": 138476
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-05.jpg",
+      "sha256": "015479d0bafc1411ac9e105b0f870ed6d6be05901b412bfb686e9a14b96cdd31",
+      "bytes": 116341
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-08.jpg",
+      "sha256": "db3c75178cdd5a932a50fb3e9dfb2d06c03d4ca67a7fc60799e390cf7b8f0344",
+      "bytes": 128665
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-11.jpg",
+      "sha256": "a4e42b8fb8d5043098bcee93e445822ebfc1b972fbe39528399da9d8e8dcf014",
+      "bytes": 143526
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-13.jpg",
+      "sha256": "1ebad56027954bcb0aeebcafa288d326053bc29b7e64586796a6c9f7db42b207",
+      "bytes": 144335
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-06.jpg",
+      "sha256": "aba0c2f8bfcc937f0263dc83280022490f3eff0d8e41eae48a81a2b05f58f96a",
+      "bytes": 131331
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-14.jpg",
+      "sha256": "df797454e86b0b10c9853154b67bb49b55afae240a861e4046341f2e54d01186",
+      "bytes": 120919
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-16.jpg",
+      "sha256": "e09a7dc3655084852b01c11890ce78d9db0318c116f05a3a9f9d25a3ef4211fd",
+      "bytes": 145273
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-04.jpg",
+      "sha256": "ef133a96b4dd9c8e805f4f5f813ed0d935548c86d36a6f56bb947bddd6b6cf79",
+      "bytes": 122820
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-02.jpg",
+      "sha256": "c7248c1fa06af4e7692652382b336b1283971dbfae8aadd49c2fb74c489d3182",
+      "bytes": 122283
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-01.jpg",
+      "sha256": "eb653210a33f19ce6b0772e68cf014342f0f6806dbeaf923a72dfe0645bb7c46",
+      "bytes": 139787
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-10.jpg",
+      "sha256": "b247054f5b1f7d20eb9aa2edc7dc43c9647e345b8fb7887c01fc34236f3cbb69",
+      "bytes": 142082
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-09.jpg",
+      "sha256": "8a1979e4c93269fd6ec597e7a55290192d8c64d7cd4e0bd0550a777fba56e421",
+      "bytes": 169938
+    },
+    {
+      "file": "presentations/material-wisdom-full-course-report-20261025/build/qa/visual_review/renders/slide-12.jpg",
+      "sha256": "d0b2168d6649135d1ebe9217fddfd83a0175711ca69711d1bf9690746560b2df",
+      "bytes": 199233
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/previews/C02.png",
+      "sha256": "8ef4bc627b72fd4c8f15afb9b12f728558bc70442f94223ed5f3a86c5b3aaecf",
+      "bytes": 63251
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/previews/C03.png",
+      "sha256": "609e6dcc4bd60dcd7485dffc826b8db52860237985becaf428feda74472c59e9",
+      "bytes": 523111
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/previews/C01.png",
+      "sha256": "6c6506ec37782302b93590dd781bab8c7c4e4f3aaf83c1faf0312ca54e78d5d8",
+      "bytes": 346385
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/candidates/C01-liu-xixiu-model-display.jpg",
+      "sha256": "64ae0b3da353d4f0e4798dfe95e0e015a0bb90587b19c5fbbe6bf6446d184fb9",
+      "bytes": 34147
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/candidates/C02-reported-wooden-vessel-construction.jpg",
+      "sha256": "5caae3abc5dac92fa341afb49a674e2434699e1f8e1d06918a064f2b2cfbdac3",
+      "bytes": 79880
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/candidates/C03-three-masted-ship-model.png",
+      "sha256": "3cff715ad91c1066dc4130fc7106635563d78053e92122b94d5866eac882fb4e",
+      "bytes": 793986
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/sources/search-index.json",
+      "sha256": "b9fcf44e70fdf8120d660ffd5df00d12ffef89271dd20a08f8c7494f140d6cbd",
+      "bytes": 8838
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/sources/access-failures.json",
+      "sha256": "958628cb569aa8c2767c6f5a2defaa4d1f6c675f1cb0b0f071540a386187daa5",
+      "bytes": 2110
+    },
+    {
+      "file": "presentations/fuchuan-photo-candidates-20261025/sources/access-initial.json",
+      "sha256": "d7652f36ae3ad43c621750f3fe5d70e286275a05def7b4a40dd8c5305269b047",
+      "bytes": 1185
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/previews/asset-review-contact.png",
+      "sha256": "09dbf8845fe98b2c324c6a5e8f6fb95e835645b1c5216407e671109cdb107e00",
+      "bytes": 2729594
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/sources/initial-access.json",
+      "sha256": "aaddd724711a409e135688b1f3ffa4a463012af2dbd751c9f8cba20ac01bcae6",
+      "bytes": 1202
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/sources/selected-image-metadata.json",
+      "sha256": "c1a70fe563701ff58c01f0e18db5d8d66bec9bab418e8a0f7cc0e4e69d3a1fb8",
+      "bytes": 12642
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/sources/search-and-blockers.md",
+      "sha256": "aee54e97cbc9a6dd9e1e200337df52470ed0f157db8655ab0bd765daeaf17526",
+      "bytes": 3133
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/assets/verified/cosco-universe-original.JPG",
+      "sha256": "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29",
+      "bytes": 4044494
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/assets/verified/yangshan-2013-original.JPG",
+      "sha256": "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c",
+      "bytes": 2286189
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/assets/pending/taiping-2008-hull-original.jpg",
+      "sha256": "0d457cd853cf56cab65327462bb89e0f3f986169e82693a2e572937001ceca78",
+      "bytes": 6303273
+    },
+    {
+      "file": "presentations/material-wisdom-v3-samples/assets/pending/taiping-2008-overview-original.jpg",
+      "sha256": "4f4f953a94980e544e11c6f47bc518f790f224a469cf075135dc722da13884a4",
+      "bytes": 6818098
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/assets/fuchuan-2.jpg",
+      "sha256": "875b9f33ac6bbfcff3789d646808129bea87c72692b8d1b081c2beab397f1901",
+      "bytes": 24654
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/assets/adora-0.jpg",
+      "sha256": "caaee5e7a5155aead8ad11cd3f7a1286cb51f539caff569a35c78dc0e749da62",
+      "bytes": 168642
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/assets/fuchuan-0.jpg",
+      "sha256": "d78c767c93b7fa34d7084cffbe76e54531efed4214cd4a55fc08ad091c4df2bc",
+      "bytes": 31134
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/integrity.json",
+      "sha256": "42283fc2f7520c06424f986eaeb2f3edf84f77aca1dc50be00717840a0896b44",
+      "bytes": 1374
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/original-preservation.json",
+      "sha256": "77fd9eb7f02f485393c67465898cda1a6f0ea7b55dceb8e9fe3859ed571d40d3",
+      "bytes": 358
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/material-wisdom-v2-samples-bundle.zip",
+      "sha256": "903570dee794c4675aeeaf9e1a81e4ef9d27c52ea91a6b39bd16013759241ecd",
+      "bytes": 4994064
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/material-wisdom-v2-samples.pdf",
+      "sha256": "600f295c4a5e66d30209ae850e88cfce4ccc9be38f5417956d7e7030d7266fbe",
+      "bytes": 326827
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/material-wisdom-v2-samples.pptx",
+      "sha256": "3e7965e0b3b42ee2faa38d4888f495b8026f9f22417f5ea8986a51245af9cb2a",
+      "bytes": 479936
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/sh_adora.html",
+      "sha256": "a3b3df5d6983d80eb13b4b78397e896d1f08c07e812aad841a901fadac69df17",
+      "bytes": 15428
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/ich_fuchuan_record.json",
+      "sha256": "332f0826bc2849da8a2fd3bb7a76de59aa0fdf46ac3ed5dd88494b57812daaf1",
+      "bytes": 2796
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/cscp_case.html",
+      "sha256": "b73efa61b2b0d2c4157f0fb733acb19fa04186fc03340fb20c95660b1c700259",
+      "bytes": 41199
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/ich_retry.meta.json",
+      "sha256": "1c12a8e0b2efe86c1d8bc5a8d6f38f4fa35bb6101104d9b85d9f20f194f078cb",
+      "bytes": 3220
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/unesco_fuchuan.meta.json",
+      "sha256": "f2fc2496cdb3abcbf565132098f8e52e5b48e663d1f95b834fde07da23d235be",
+      "bytes": 1463
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_innovation.txt",
+      "sha256": "8b9956430983298e0a4f346db94f7d25e7988c1e29e24d2c80e0e4feaa789536",
+      "bytes": 12905
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_science2035_comment.meta.json",
+      "sha256": "2e65987719ea1ecc6b259c3e10c9c3a249f1f031cda1c98f8363f08911727e4d",
+      "bytes": 3278
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/unesco_fuchuan.html",
+      "sha256": "46e8e42a1b5cfa7709255c0f32a793e55f95de93faaca8f622e8f3a4ef3c0798",
+      "bytes": 176889
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/unesco_fuchuan.txt",
+      "sha256": "b310692d702548220df4c60fb77cecb7abe27ff7589ee0b4daee6c4dce0cc9d9",
+      "bytes": 10438
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_innovation.meta.json",
+      "sha256": "de735fd7f5d496dd0b6b8bb9b16dcbd640c6c81d5eb6b32b088189f682ceaa06",
+      "bytes": 3189
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_plan.html",
+      "sha256": "35ce0160280dcd7bec2dd03c94131bad8adcaefaf466ed5bb19b77e6e102fb40",
+      "bytes": 228098
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/fuchuan-image-downloads.json",
+      "sha256": "95b7f7d33ecb3bf0e90f4ba3737bacfd554a5fc00e6923a439e0e25e45c1f275",
+      "bytes": 1537
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/cscp_case.meta.json",
+      "sha256": "842efa23dac90d8fc02c6962bc4808373f0014ac1c96b307719fc7eebff612be",
+      "bytes": 3106
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/ich_retry.txt",
+      "sha256": "05fa6fd3e1bfe2f62cf34afb1c705fb91c7bb9f3f7b242be8f7e40a9a58b6231",
+      "bytes": 3283
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_innovation.html",
+      "sha256": "9e77dc1e75513d83a8f7281568bcd7ed15ec1c26b1a5051ae8d9f7a05a1f8860",
+      "bytes": 33729
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/user-request.txt",
+      "sha256": "159b2dcb830d716823112fc9d371f4a390265245e5fe03f2c0ff113e9e0e3281",
+      "bytes": 14318
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_plan.txt",
+      "sha256": "02c80efd3b6c32256a582e1819e0412560e718700041610012e66338182c3489",
+      "bytes": 178913
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/ich_retry.html",
+      "sha256": "426a401223bb66665a4f31b39d325fd09058a7a2da3bd6193ddb736f34185bf7",
+      "bytes": 31226
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_science2035_comment.html",
+      "sha256": "b96db9a664aaef3cf8756aafe69028cca24e7321d86a9b302b08d0245b457ef9",
+      "bytes": 27210
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_plan.meta.json",
+      "sha256": "04ead8ef46d49bc2f4c40c958bcb4e75fadd080858d3dfa02942de40c5378906",
+      "bytes": 3114
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/cscp_case.txt",
+      "sha256": "f0fb73f88b8c36d5081c62d112774528c959b0b267c89610f1124decfe57a0a1",
+      "bytes": 5083
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/sh_adora.meta.json",
+      "sha256": "3134ca1b787e5a5796d8c53738ffe0b60d2c6ad22528e54ba971e161adcf7013",
+      "bytes": 3239
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/sh_adora.txt",
+      "sha256": "862a59c78994bcd2d8d7e758537061e7c31553e4d6da2f8a83be19617742703b",
+      "bytes": 3943
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/gov_science2035_comment.txt",
+      "sha256": "e9bdb6309f1f74dca6584d0f9f6d3d7af34e3380bc2ba8c4c309235cbc7a80d7",
+      "bytes": 6740
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/sources/adora-image-downloads.json",
+      "sha256": "25ce07dad786830b6d322d3ceffcc7b87b16d27b110591d3347b0bd465127006",
+      "bytes": 1132
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/manual-review.md",
+      "sha256": "5a4f40bff5d8d1e644ff8cd5c67853254131078e89d3dd5995b9a11c8de49b27",
+      "bytes": 1086
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/issues.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "bytes": 2
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/design_rules.json",
+      "sha256": "71fa16bb292013261c97ded30e75beb39c5da94329607382a69d118f6ca1f32b",
+      "bytes": 408
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/qa_report.json",
+      "sha256": "d2e930592db8974fa9e426e54c05d75062ce2f9775e11694c366f96ae324fdc3",
+      "bytes": 3082
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/layout_lint.json",
+      "sha256": "99e4be02bb3af23925ed4a689f19e0a54cd279110801b050760260699d6c5b35",
+      "bytes": 1688
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_qa.json",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "bytes": 2
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/outline.md",
+      "sha256": "5f2c128bbb231ed34c959091e23d234ed7184236267c2ac6ca5c4456d8ef7eb0",
+      "bytes": 3032
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/previews/slide-02.png",
+      "sha256": "44f83acf9bfdd93d5b388160bc04d0308b4f4ad96ceb26e9c830a2120e75a867",
+      "bytes": 635528
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/previews/slide-01.png",
+      "sha256": "bb87d902f72f9b8d896c5f84d6849c9682cf8461e45aaa40807c9d2bc50f4ac2",
+      "bytes": 672582
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/previews/slide-03.png",
+      "sha256": "ddcff7aa3b946b5d6723d49fc261e4f4e19452f62f43fae81008df9dc7ce0ba0",
+      "bytes": 525474
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/previews/contact-sheet.png",
+      "sha256": "47c5e2314996e6a1b292e17868b7fe596f096139593d6ef669eaae73d6725eed",
+      "bytes": 947436
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/renders/slide-03.jpg",
+      "sha256": "f84ea1b333d11f5264b19a72f89452b607000ad84fe2e1fd19bf0f8cd6e2528c",
+      "bytes": 173280
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/renders/slide-02.jpg",
+      "sha256": "1498fdd21723b185b81a0d87e6d97b8a6654e870f8d1b867d220d63b9f834349",
+      "bytes": 179351
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/renders/slide-01.jpg",
+      "sha256": "d24f8fd2b5fc8ec5880be8beb70e5c973b10b24c49539eb12e272cb3093ba4ce",
+      "bytes": 166439
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_review/visual_review.json",
+      "sha256": "f4ae5037f8591b382481150b6887092309cacc1188d2799a53e5c5083956cb69",
+      "bytes": 3231
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_review/contact_sheet.jpg",
+      "sha256": "861c0b98d47bd62429e3dc8a6f771865228aae902563522e0454201851d1eb34",
+      "bytes": 95926
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_review/visual_review.md",
+      "sha256": "9226a94de3f4c7510c2ad85b61159d5acb4ab20331e324e98e71fc881bb23bda",
+      "bytes": 2273
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_review/renders/slide-03.jpg",
+      "sha256": "f84ea1b333d11f5264b19a72f89452b607000ad84fe2e1fd19bf0f8cd6e2528c",
+      "bytes": 173280
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_review/renders/slide-02.jpg",
+      "sha256": "1498fdd21723b185b81a0d87e6d97b8a6654e870f8d1b867d220d63b9f834349",
+      "bytes": 179351
+    },
+    {
+      "file": "presentations/material-wisdom-v2-samples/build/qa/visual_review/renders/slide-01.jpg",
+      "sha256": "d24f8fd2b5fc8ec5880be8beb70e5c973b10b24c49539eb12e272cb3093ba4ce",
+      "bytes": 166439
+    },
+    {
+      "file": "deliverables/README.md",
+      "sha256": "229f80db73fb605f3d4340c4183febb4a238fb307038d950fb68984f5948e621",
+      "bytes": 3765
+    },
+    {
+      "file": "deliverables/SHA256SUMS.json",
+      "sha256": "c4621c4299b067bc52585028c8d9aeb41bfa8a9d51c8d01c7327c657bed7d7b3",
+      "bytes": 2916
+    },
+    {
+      "file": "deliverables/academic-presentation-bundle.zip",
+      "sha256": "b9a183777d7f8e60eaba761bf1006f0795be5cf285b8fab09a829a988143c43a",
+      "bytes": 4451009
+    },
+    {
+      "file": "deliverables/academic-presentation.pdf",
+      "sha256": "e9ea6c58969c88b760468cbacf49618b5d5f092750b8d4cdb57c7f22415dc2c7",
+      "bytes": 1489421
+    },
+    {
+      "file": "deliverables/academic-presentation.pptx",
+      "sha256": "85a7672cdbfe5c3358122ddf01e3f4b0c286f9aeebf364176c49d893efc49d7c",
+      "bytes": 323128
+    },
+    {
+      "file": "deliverables/integrity-report.json",
+      "sha256": "c3485daf8d49f5fb8b8b6a2fde675b05e5a6239bf2750c447e931053c4d8ace5",
+      "bytes": 5161
+    },
+    {
+      "file": "deliverables/previews/contact-sheet.jpg",
+      "sha256": "f9f5e6e341612a4c65ea9c47a113b41a266226ff8e71e91606522ce75c26355b",
+      "bytes": 491529
+    },
+    {
+      "file": "deliverables/previews/slide-01.png",
+      "sha256": "46eba19ee71b17567c6760d1592ee442aead371998150f94b12f306e1518a9f9",
+      "bytes": 101792
+    },
+    {
+      "file": "deliverables/previews/slide-02.png",
+      "sha256": "b0d145b68b7adb1c4832b76a09a7431fc2beaaa65939c0ab895c050e08b3e438",
+      "bytes": 115228
+    },
+    {
+      "file": "deliverables/previews/slide-03.png",
+      "sha256": "3ccf980883500dd27a48a5c7a8ee82d81d65f21dce1769ec552f936ffd2e75d7",
+      "bytes": 119402
+    },
+    {
+      "file": "deliverables/previews/slide-04.png",
+      "sha256": "3e1f21f321be2ecf20a9fdfe40dde85db7b638cc8bf497028a6b3850c5976c1c",
+      "bytes": 125923
+    },
+    {
+      "file": "deliverables/previews/slide-05.png",
+      "sha256": "a29ae07a6b46280d532212d5c0f0de3f79eeb8197b47891d02561ef7586b9d99",
+      "bytes": 139620
+    },
+    {
+      "file": "deliverables/previews/slide-06.png",
+      "sha256": "fde815f5713ec67c33f5ebc8145280eb46526ffa908dcf4d2d7969033bad5d64",
+      "bytes": 150507
+    },
+    {
+      "file": "deliverables/previews/slide-07.png",
+      "sha256": "8ed0190056cbaf5c32d9c0dc79bcc104349a3957e932e866cb7f36f4c5f5b192",
+      "bytes": 141838
+    },
+    {
+      "file": "deliverables/previews/slide-08.png",
+      "sha256": "f5fc6cfb4e3ca1dcb96a337868a996a7c0e58e7ff23d175bed8d9172b1dd7b51",
+      "bytes": 113550
+    },
+    {
+      "file": "deliverables/previews/slide-09.png",
+      "sha256": "5788b08082e84f552fec2647a77aff0167747ade48fb08e4740b3a83ddc4580e",
+      "bytes": 638457
+    },
+    {
+      "file": "deliverables/previews/slide-10.png",
+      "sha256": "599dd0acb150bca77bec30d71e5574cf48171bf6125be5b69b658e24e9b0a10d",
+      "bytes": 134433
+    },
+    {
+      "file": "deliverables/previews/slide-11.png",
+      "sha256": "c6c0e9e347b9e74752e7f1b1dcc67aeb4f2567b4ee8a77a35603eb035ce2c3ec",
+      "bytes": 133696
+    },
+    {
+      "file": "deliverables/previews/slide-12.png",
+      "sha256": "4b887a976e136e52c55ca74fe2082835c93e33f1313446a335787b620d27026b",
+      "bytes": 115020
+    },
+    {
+      "file": "deliverables/previews/slide-13.png",
+      "sha256": "63c59ffb981975e30dccfc72ed9019d77127a3977e7509f1f51f5565b6952905",
+      "bytes": 121275
+    },
+    {
+      "file": "deliverables/previews/slide-14.png",
+      "sha256": "d363e1626d5d72dc765e968167400c171ae43c39f777150cadf407e1aea19c48",
+      "bytes": 89496
+    },
+    {
+      "file": "deliverables/previews/slide-15.png",
+      "sha256": "76dc9f0d6574e824ec904ccc960fda11d80483e4bbd884dd2e8771376c1d7e64",
+      "bytes": 153649
+    },
+    {
+      "file": "deliverables/source/build_deck.py",
+      "sha256": "7de1ce10cef9a4042756514a6efe992d95d083acb895b9d5ccdcd59a53035ce4",
+      "bytes": 36960
+    },
+    {
+      "file": "deliverables/source/render_and_check.py",
+      "sha256": "ea618f5262b642a0ae2f0f74cbc227973246ac06af74891ba0013fdd4dc787ee",
+      "bytes": 2727
+    },
+    {
+      "file": "deliverables/source/render_validation.json",
+      "sha256": "06144b7815fc8c17458d88e45b9c9cf5a5bac4a2db5aa7e82759e7cc747bebac",
+      "bytes": 1405
+    },
+    {
+      "file": "deliverables/source/requirements.txt",
+      "sha256": "e7a5b248b47c52dba9ce9ef69465a02dcab55f857eb6aa24329e00c0ccf2f2c2",
+      "bytes": 62
+    },
+    {
+      "file": "deliverables/source/validation.json",
+      "sha256": "a012cb4b8cd2c900b1ef9bf81564b6c8231bb172fc22c39ac1af7cae39c1d541",
+      "bytes": 799
+    },
+    {
+      "file": "deliverables/source/讲稿与备注.md",
+      "sha256": "5fce7bcefd629bb4dfef50c583903dc16f7dc8304956c9c89ee101c0a3fea077",
+      "bytes": 14562
+    },
+    {
+      "file": "deliverables/source/页面规划.md",
+      "sha256": "dbaa6912a64950c6efbf956fd6717ec5df482c9d191e787884ccc5e261c212a4",
+      "bytes": 3747
+    },
+    {
+      "file": "deliverables/source/assets/jmu-expo-2.jpg",
+      "sha256": "35194bd854cf9b4faec01e595a3fd52b67204d2c952d893c015d9cc998595675",
+      "bytes": 224484
+    },
+    {
+      "file": "deliverables/source/sources/参考资料与核验记录.md",
+      "sha256": "c1e30969cf90c33a0cf3f8a6cf4b122a2f48f394ae74f4eee7ef9ebaed20a800",
+      "bytes": 8625
+    },
+    {
+      "file": ".agents/skills/coursework-ppt/SKILL.md",
+      "sha256": "98555f8f00b9a68bf82d40f878876a0772d480ca6b5f745dc78f0de4e9839e62",
+      "bytes": 6091
+    },
+    {
+      "file": ".agents/skills/coursework-ppt/agents/openai.yaml",
+      "sha256": "71708df3b42df72179d65b904927090e8a53aa0bcdd4c455f5b13a1e86c5a59f",
+      "bytes": 237
+    }
+  ]
+}

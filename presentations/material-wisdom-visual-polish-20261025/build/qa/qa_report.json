@@ -1,0 +1,135 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/material-wisdom-visual-polish.pptx",
+  "outdir": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa",
+  "style_preset": "editorial-minimal",
+  "max_loops": 1,
+  "overflow_count": 0,
+  "overlap_count": 0,
+  "placeholder_hits": [],
+  "issue_slide_count": 0,
+  "issue_shape_count": 0,
+  "geometry_violations": [
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0477,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7477,
+      "slide_index": 0
+    },
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.061,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.761,
+      "slide_index": 1
+    },
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0275,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7275,
+      "slide_index": 6
+    }
+  ],
+  "geometry_error_count": 0,
+  "geometry_warning_count": 3,
+  "visual_warning_count": 0,
+  "visual_info_count": 0,
+  "visual_report": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_qa.json",
+  "visual_rc": 0,
+  "render_rc": 0,
+  "render_stdout_tail": "[render] PDF via soffice in 3.83s\nRendered 16 slide image(s) to /workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/renders\n",
+  "rendered_slide_count": 16,
+  "expected_slide_count": 16,
+  "visual_review_warning_count": 0,
+  "visual_review_info_count": 59,
+  "visual_review_report": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review/visual_review.json",
+  "visual_review_markdown": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review/visual_review.md",
+  "visual_review_contact_sheet": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review/contact_sheet.jpg",
+  "visual_review_rc": 0,
+  "visual_review_stdout_tail": "Visual review artifacts: /workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review\nRendered slides: 16\nWarnings: 0\nInfo: 59\nContact sheet: /workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review/contact_sheet.jpg\nVisual review report: /workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review/visual_review.json\nVisual review markdown: /workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/visual_review/visual_review.md\n",
+  "design_error_count": 0,
+  "design_warning_count": 0,
+  "design_report": "/workspace/lolping/presentations/material-wisdom-visual-polish-20261025/build/qa/design_rules.json",
+  "design_rc": 0,
+  "density_score_by_slide": [
+    {
+      "slide_index": 0,
+      "density_score": 0.7477
+    },
+    {
+      "slide_index": 1,
+      "density_score": 0.761
+    },
+    {
+      "slide_index": 2,
+      "density_score": 0.6047
+    },
+    {
+      "slide_index": 3,
+      "density_score": 0.6426
+    },
+    {
+      "slide_index": 4,
+      "density_score": 0.6219
+    },
+    {
+      "slide_index": 5,
+      "density_score": 0.5129
+    },
+    {
+      "slide_index": 6,
+      "density_score": 0.7275
+    },
+    {
+      "slide_index": 7,
+      "density_score": 0.638
+    },
+    {
+      "slide_index": 8,
+      "density_score": 0.5669
+    },
+    {
+      "slide_index": 9,
+      "density_score": 0.6683
+    },
+    {
+      "slide_index": 10,
+      "density_score": 0.5957
+    },
+    {
+      "slide_index": 11,
+      "density_score": 0.3747
+    },
+    {
+      "slide_index": 12,
+      "density_score": 0.5639
+    },
+    {
+      "slide_index": 13,
+      "density_score": 0.6817
+    },
+    {
+      "slide_index": 14,
+      "density_score": 0.6081
+    },
+    {
+      "slide_index": 15,
+      "density_score": 0.641
+    }
+  ],
+  "font_families": [
+    "Noto Sans CJK SC"
+  ],
+  "manual_review_passed": true,
+  "strict_geometry": true
+}

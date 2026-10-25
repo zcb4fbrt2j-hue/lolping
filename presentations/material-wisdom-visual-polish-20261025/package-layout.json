@@ -1,0 +1,197 @@
+{
+  "zip_omits_duplicate_original_jpeg_assets": true,
+  "zip_omits_duplicate_qa_jpeg_renders": true,
+  "originals_can_be_restored_without_recompression": "python restore_photo_assets.py",
+  "omitted_files": [
+    {
+      "file": "assets/chiwan-jacket.jpg",
+      "bytes": 955489,
+      "sha256": "feb7754ffc9a9e2088d45df505f2c9aae1b89372eb1c857e62c450c754caa517"
+    },
+    {
+      "file": "assets/cosco-universe-original.JPG",
+      "bytes": 4044494,
+      "sha256": "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29"
+    },
+    {
+      "file": "assets/jiangnan-cc0.jpg",
+      "bytes": 10680773,
+      "sha256": "d12736bf78272fe3fea7137f963eae485d52d64dd8adbef21d50172335c773ea"
+    },
+    {
+      "file": "assets/lan-jing-2019.jpg",
+      "bytes": 3824507,
+      "sha256": "9653baeba02b8d0f1fcd7be218391acd602af5ade4d4d0d79184a5459688b04b"
+    },
+    {
+      "file": "assets/yangshan-2013-original.JPG",
+      "bytes": 2286189,
+      "sha256": "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c"
+    },
+    {
+      "file": "build/qa/renders/slide-01.jpg",
+      "bytes": 149564,
+      "sha256": "0376fa73aae9ac48537248062f36a7ac35cc163380a936c546ee2f938fff24c6"
+    },
+    {
+      "file": "build/qa/renders/slide-02.jpg",
+      "bytes": 125744,
+      "sha256": "53938929d5306b4518c5a4cb879230389cb0797ecf60464f07f103712c53a68d"
+    },
+    {
+      "file": "build/qa/renders/slide-03.jpg",
+      "bytes": 141946,
+      "sha256": "1337fae861607551d8752257ab3d0c0b28e3315249962d37c06a3eabd493fd77"
+    },
+    {
+      "file": "build/qa/renders/slide-04.jpg",
+      "bytes": 186401,
+      "sha256": "3cace9dcd58880dfdda3d415191342315e3c52ac774f414b48972374ef99d1c0"
+    },
+    {
+      "file": "build/qa/renders/slide-05.jpg",
+      "bytes": 151128,
+      "sha256": "6a0e5b305392d043c0a2f458ccba0f0e58092f2ae247f39c25bdda0d138577a6"
+    },
+    {
+      "file": "build/qa/renders/slide-06.jpg",
+      "bytes": 134383,
+      "sha256": "1255f2245e1aafbefce5281be941d82e232a665b7c2e5cef5ba2b9b8e0228de7"
+    },
+    {
+      "file": "build/qa/renders/slide-07.jpg",
+      "bytes": 139562,
+      "sha256": "10576109f0654bb440f0b5f8f79f6a44a8a67a32e106c8f03f2e164eea06cb0f"
+    },
+    {
+      "file": "build/qa/renders/slide-08.jpg",
+      "bytes": 171994,
+      "sha256": "847a0b1de58dfba5f0f94c1018e882ce9ac363f2396d6ae93ccbe64e4cd13ffb"
+    },
+    {
+      "file": "build/qa/renders/slide-09.jpg",
+      "bytes": 151431,
+      "sha256": "af657b8ed7ffe096b9991a6cdfb9d4aed59ba66d60a4a0d26633d9b34400361b"
+    },
+    {
+      "file": "build/qa/renders/slide-10.jpg",
+      "bytes": 129015,
+      "sha256": "aa0f0c9ef406fd84f439a4857564587994301cee8094a28e8b37f00246e43427"
+    },
+    {
+      "file": "build/qa/renders/slide-11.jpg",
+      "bytes": 150136,
+      "sha256": "f89e5fc0ae9c8acdf532ea19a098ea1d9fddf76f52b9de2219ee5b3e602898ad"
+    },
+    {
+      "file": "build/qa/renders/slide-12.jpg",
+      "bytes": 237873,
+      "sha256": "1a4c0cc0a21d9a104bb5cb2d242f753ac53b6e29993fba88c747b48d88010fbf"
+    },
+    {
+      "file": "build/qa/renders/slide-13.jpg",
+      "bytes": 154376,
+      "sha256": "06f98bb352a4e8ea3e76855c6d33a46b09a59252fc54150dd512445e9dde2fd6"
+    },
+    {
+      "file": "build/qa/renders/slide-14.jpg",
+      "bytes": 127166,
+      "sha256": "fbcdee0993b441d2ab6f89bfe57a1981a66a464ae67fe35d9e759df28f99de1c"
+    },
+    {
+      "file": "build/qa/renders/slide-15.jpg",
+      "bytes": 131096,
+      "sha256": "0a58977def6fd4890801dfd2632df25b5f02e7c54c38d470ec4b8217b47d11c2"
+    },
+    {
+      "file": "build/qa/renders/slide-16.jpg",
+      "bytes": 158055,
+      "sha256": "2eddd62fc93e8465e1638303698b2253ca7629de30cf89413820799c4cadc91c"
+    },
+    {
+      "file": "build/qa/visual_review/contact_sheet.jpg",
+      "bytes": 433960,
+      "sha256": "a71368e2e34721c2040d0a14ac9cef9819e03f18220622e587f18bbd329f984a"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-01.jpg",
+      "bytes": 149564,
+      "sha256": "0376fa73aae9ac48537248062f36a7ac35cc163380a936c546ee2f938fff24c6"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-02.jpg",
+      "bytes": 125744,
+      "sha256": "53938929d5306b4518c5a4cb879230389cb0797ecf60464f07f103712c53a68d"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-03.jpg",
+      "bytes": 141946,
+      "sha256": "1337fae861607551d8752257ab3d0c0b28e3315249962d37c06a3eabd493fd77"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-04.jpg",
+      "bytes": 186401,
+      "sha256": "3cace9dcd58880dfdda3d415191342315e3c52ac774f414b48972374ef99d1c0"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-05.jpg",
+      "bytes": 151128,
+      "sha256": "6a0e5b305392d043c0a2f458ccba0f0e58092f2ae247f39c25bdda0d138577a6"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-06.jpg",
+      "bytes": 134383,
+      "sha256": "1255f2245e1aafbefce5281be941d82e232a665b7c2e5cef5ba2b9b8e0228de7"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-07.jpg",
+      "bytes": 139562,
+      "sha256": "10576109f0654bb440f0b5f8f79f6a44a8a67a32e106c8f03f2e164eea06cb0f"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-08.jpg",
+      "bytes": 171994,
+      "sha256": "847a0b1de58dfba5f0f94c1018e882ce9ac363f2396d6ae93ccbe64e4cd13ffb"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-09.jpg",
+      "bytes": 151431,
+      "sha256": "af657b8ed7ffe096b9991a6cdfb9d4aed59ba66d60a4a0d26633d9b34400361b"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-10.jpg",
+      "bytes": 129015,
+      "sha256": "aa0f0c9ef406fd84f439a4857564587994301cee8094a28e8b37f00246e43427"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-11.jpg",
+      "bytes": 150136,
+      "sha256": "f89e5fc0ae9c8acdf532ea19a098ea1d9fddf76f52b9de2219ee5b3e602898ad"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-12.jpg",
+      "bytes": 237873,
+      "sha256": "1a4c0cc0a21d9a104bb5cb2d242f753ac53b6e29993fba88c747b48d88010fbf"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-13.jpg",
+      "bytes": 154376,
+      "sha256": "06f98bb352a4e8ea3e76855c6d33a46b09a59252fc54150dd512445e9dde2fd6"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-14.jpg",
+      "bytes": 127166,
+      "sha256": "fbcdee0993b441d2ab6f89bfe57a1981a66a464ae67fe35d9e759df28f99de1c"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-15.jpg",
+      "bytes": 131096,
+      "sha256": "0a58977def6fd4890801dfd2632df25b5f02e7c54c38d470ec4b8217b47d11c2"
+    },
+    {
+      "file": "build/qa/visual_review/renders/slide-16.jpg",
+      "bytes": 158055,
+      "sha256": "2eddd62fc93e8465e1638303698b2253ca7629de30cf89413820799c4cadc91c"
+    }
+  ]
+}

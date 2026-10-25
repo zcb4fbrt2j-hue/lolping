@@ -1,0 +1,42 @@
+diff --git a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+index edcc465..5f2442a 100755
+--- a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
++++ b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+@@ -678,6 +678,11 @@ function normalizeSlide(spec, outlineDir) {
+ }
+ 
+ function renderSlide(pptx, pSlide, slide, preset) {
++  // Added 2026-10-25: isolated visual polish; previous coursework decks retain their templates.
++  if (String(slide.variant || '').startsWith('visual-polish')) {
++    require(path.join(TEMPLATES_DIR, 'visual_polish.js')).render(pptx, pSlide, slide);
++    return;
++  }
+   // Added 2026-10-25: opt-in full coursework layouts using the V3 visual system.
+   if (String(slide.variant || '').startsWith('course-report')) {
+     require(path.join(TEMPLATES_DIR, 'course_report.js')).render(pptx, pSlide, slide);
+diff --git a/.agents/skills/presentation-skill/scripts/visual_review.py b/.agents/skills/presentation-skill/scripts/visual_review.py
+index b28970c..9556038 100644
+--- a/.agents/skills/presentation-skill/scripts/visual_review.py
++++ b/.agents/skills/presentation-skill/scripts/visual_review.py
+@@ -385,6 +385,21 @@ def _outline_rhythm_issues(outline_path: Path | None) -> list[dict[str, Any]]:
+         # Added 2026-10-25, lolping: classify the opt-in, V3-derived layouts
+         # by their actual composition instead of treating all as open-body.
+         custom_families = {
++            "visual-polish-cover": "image-evidence",
++            "visual-polish-heritage": "image-evidence",
++            "visual-polish-craft": "diagram-data",
++            "visual-polish-shipbuilding": "image-evidence",
++            "visual-polish-demands-photo": "image-evidence",
++            "visual-polish-case": "two-column",
++            "visual-polish-coating": "diagram-data",
++            "visual-polish-engineering-photo": "image-evidence",
++            "visual-polish-capacity": "two-column",
++            "visual-polish-productivity": "diagram-data",
++            "visual-polish-ecology": "diagram-data",
++            "visual-polish-shanghai": "image-evidence",
++            "visual-polish-youth": "two-column",
++            "visual-polish-fieldnotes": "two-column",
++            "visual-polish-references": "two-column",
+             "museum-editorial-cover": "image-evidence",
+             "museum-editorial-heritage": "image-evidence",
+             "museum-editorial-strategy": "image-evidence",

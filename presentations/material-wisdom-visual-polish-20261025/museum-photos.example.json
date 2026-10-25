@@ -1,0 +1,26 @@
+{
+  "photos": [
+    {
+      "slot": "MUSEUM_COVER_FUCHUAN",
+      "file": "photos/福船整体原片.jpg",
+      "exhibit_name": "按展签填写准确名称",
+      "exhibit_type": "模型（或按展签填实物、现代复原船等）",
+      "location": "中国航海博物馆，具体展厅",
+      "date": "YYYY-MM-DD",
+      "photographer": "摄影者姓名",
+      "usage_note": "填写实际允许的课堂、文件交付和公开使用范围",
+      "identity_evidence": "展签照片路径或官方展品说明网址"
+    },
+    {
+      "slot": "MUSEUM_BODY_STRUCTURE",
+      "file": "photos/福船结构细节原片.jpg",
+      "exhibit_name": "按展签填写准确名称",
+      "exhibit_type": "模型剖面（按实际填写）",
+      "location": "中国航海博物馆，具体展厅",
+      "date": "YYYY-MM-DD",
+      "photographer": "摄影者姓名",
+      "usage_note": "填写实际使用范围",
+      "identity_evidence": "展签照片路径或官方展品说明网址"
+    }
+  ]
+}
