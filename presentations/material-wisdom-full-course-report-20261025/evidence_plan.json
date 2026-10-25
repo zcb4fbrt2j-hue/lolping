@@ -1,0 +1,126 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设与青年科研使命",
+  "source_policy": "已存原文与本次官方原文复核相结合，严格区分项目事实、通用原理、政策原文和本组分析。",
+  "items": [
+    {
+      "id": "ev-heritage",
+      "claim": "隔舱、艌缝材料、工匠协作与传承",
+      "source_url": "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s2",
+        "s3",
+        "s13"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-case",
+      "claim": "集美大学第一完成单位、三类涂层技术与工程应用",
+      "source_url": "https://www.cscp.org.cn/site/content/3294.html",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s4",
+        "s5",
+        "s6",
+        "s7",
+        "s8",
+        "s10"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-plan",
+      "claim": "自主创新、开放合作、工程应用、海洋发展部署",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s8",
+        "s9",
+        "s12",
+        "s13",
+        "s15"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-quality",
+      "claim": "以科技创新引领新质生产力发展",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s10"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-fusion",
+      "claim": "科技创新与产业创新深度融合",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s8",
+        "s10"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-science",
+      "claim": "2035年建成科技强国目标",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s9",
+        "s13"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-ecology",
+      "claim": "人与自然和谐共生的现代化",
+      "source_url": "https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s11"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-shanghai",
+      "claim": "造船涂装VOCs治理、绿色技术转化及港区绿色发展方向",
+      "source_url": "https://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s11",
+        "s12"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-imo",
+      "claim": "污损对船舶运行的影响与有害防污体系管制",
+      "source_url": "https://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s4",
+        "s5",
+        "s11"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-epoxy",
+      "claim": "一般环氧屏障保护机理，不能反推项目实测结构",
+      "source_url": "https://www.mdpi.com/1996-1944/18/7/1531",
+      "source_note": "短摘录与边界说明见参考资料清单；各页备注给完整链接",
+      "used_on_slides": [
+        "s7"
+      ],
+      "visual_use": "footer-source"
+    }
+  ],
+  "chart_candidates": [],
+  "open_questions": [
+    "两张博物馆静态照片及第14页真实调研记录待补充；未编造展品身份和参观经历。"
+  ]
+}

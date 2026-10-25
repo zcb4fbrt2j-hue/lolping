@@ -678,6 +678,11 @@ function normalizeSlide(spec, outlineDir) {
 }
 
 function renderSlide(pptx, pSlide, slide, preset) {
+  // Added 2026-10-25: opt-in full coursework layouts using the V3 visual system.
+  if (String(slide.variant || '').startsWith('course-report')) {
+    require(path.join(TEMPLATES_DIR, 'course_report.js')).render(pptx, pSlide, slide);
+    return;
+  }
   // Added 2026-10-25: editable museum-photo reservations, opt-in only.
   if (String(slide.variant || '').startsWith('museum-editorial')) {
     require(path.join(TEMPLATES_DIR, 'museum_editorial.js')).render(pptx, pSlide, slide);

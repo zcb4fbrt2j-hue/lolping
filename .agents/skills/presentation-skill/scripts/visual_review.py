@@ -382,6 +382,22 @@ def _outline_rhythm_issues(outline_path: Path | None) -> list[dict[str, Any]]:
     )
 
     def family_for(variant: str) -> str:
+        # Added 2026-10-25, lolping: classify the opt-in, V3-derived layouts
+        # by their actual composition instead of treating all as open-body.
+        custom_families = {
+            "museum-editorial-cover": "image-evidence",
+            "museum-editorial-heritage": "image-evidence",
+            "museum-editorial-strategy": "image-evidence",
+            "course-report-material-craft": "diagram-data",
+            "course-report-transformation": "two-column",
+            "course-report-coating-system": "diagram-data",
+            "course-report-autonomy": "two-column",
+            "course-report-ecology": "diagram-data",
+            "course-report-fieldnotes": "two-column",
+            "course-report-references": "two-column",
+        }
+        if variant in custom_families:
+            return custom_families[variant]
         if variant in {"cards-2", "cards-3", "matrix", "stats", "timeline"}:
             return "container-grid"
         if variant in {"table", "lab-run-results"}:
