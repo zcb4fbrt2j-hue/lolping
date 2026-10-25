@@ -1,0 +1,96 @@
+{
+  "pptx_zip_xml_valid": true,
+  "slide_count": 3,
+  "canvas": "16:9",
+  "pdf_pages": 3,
+  "png_pages": 3,
+  "native_editable_reservations": [
+    {
+      "slide": 1,
+      "frame_name": "MUSEUM_COVER_FUCHUAN",
+      "label_name": "MUSEUM_COVER_FUCHUAN_LABEL",
+      "native_editable_shape": true,
+      "ratio": "2:1",
+      "bounds_inches": [
+        0.5,
+        2.45,
+        4.36,
+        2.18
+      ]
+    },
+    {
+      "slide": 2,
+      "frame_name": "MUSEUM_BODY_STRUCTURE",
+      "label_name": "MUSEUM_BODY_STRUCTURE_LABEL",
+      "native_editable_shape": true,
+      "ratio": "16:9",
+      "bounds_inches": [
+        0.5,
+        1.89,
+        5.65,
+        3.178125
+      ]
+    }
+  ],
+  "photo_aspect_preserved": true,
+  "cover_body_distinct": true,
+  "slides": [
+    {
+      "slide": 1,
+      "editable_text_objects": 9,
+      "embedded_photos": 1,
+      "photo_sha256": [
+        "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29"
+      ],
+      "has_speaker_notes": true
+    },
+    {
+      "slide": 2,
+      "editable_text_objects": 12,
+      "embedded_photos": 0,
+      "photo_sha256": [],
+      "has_speaker_notes": true
+    },
+    {
+      "slide": 3,
+      "editable_text_objects": 10,
+      "embedded_photos": 1,
+      "photo_sha256": [
+        "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c"
+      ],
+      "has_speaker_notes": true
+    }
+  ],
+  "files": [
+    {
+      "file": "build/material-wisdom-v3-museum-placeholders.pptx",
+      "bytes": 6420426,
+      "sha256": "fd8b1aaa798d7851411383cbb795e5b192e4d0f28a670c71c5ab01f58963cf24"
+    },
+    {
+      "file": "build/material-wisdom-v3-museum-placeholders.pdf",
+      "bytes": 825006,
+      "sha256": "65b8a990f3db13f71a6752d3bc5502bf335af445918ebf9d03b267881347e6da"
+    },
+    {
+      "file": "build/previews/slide-01.png",
+      "bytes": 453553,
+      "sha256": "4caf2b3dc1367ae09f2918d326cc96551f617e616e9bb09a4a7ef16be03cb43c"
+    },
+    {
+      "file": "build/previews/slide-02.png",
+      "bytes": 189536,
+      "sha256": "458bde13b4cca6f61f2b611bbf289e2b0b2a98ef9e909cb4769cd377e9a0627a"
+    },
+    {
+      "file": "build/previews/slide-03.png",
+      "bytes": 934882,
+      "sha256": "9a92430b94f5e501f204564d7824a216ebd8c899db74a93fb8117d1a0f633001"
+    },
+    {
+      "file": "build/previews/contact-sheet.png",
+      "bytes": 628723,
+      "sha256": "dc97b0afd1acac5044d4fcea77f479bef6b75a2043759ac0cd8731deb5aaef1b"
+    }
+  ]
+}

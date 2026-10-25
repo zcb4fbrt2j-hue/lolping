@@ -1,0 +1,257 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 6101,
+    "sha256": "129123eb416e5a4e4d74a5990593c0b997a393f210d6fa2e0320e44abf065c69"
+  },
+  {
+    "file": "asset_plan.json",
+    "bytes": 3045,
+    "sha256": "d42c69cc3e5fdd44fb6526cefe451725522f8f98d966fdaa7db748fa32f0b444"
+  },
+  {
+    "file": "assets/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "assets/attribution.csv",
+    "bytes": 568,
+    "sha256": "94cf839fcd097c230445f6f13b5ead363b8e84aed63bbfb65aeae3d13cfc7aa9"
+  },
+  {
+    "file": "assets/cosco-universe-original.JPG",
+    "bytes": 4044494,
+    "sha256": "7a0dea7228e2e5ffaffaa0beac27e16b75008037d18977848eb5e52c52444e29"
+  },
+  {
+    "file": "assets/yangshan-2013-original.JPG",
+    "bytes": 2286189,
+    "sha256": "6eed7905ce6c76fb5c0ccaa396c54f7ff1e45845d8d0d49eddae47c218d5a39c"
+  },
+  {
+    "file": "build/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "build/integrity.json",
+    "bytes": 2450,
+    "sha256": "858c1e818a5da0ae319c124a7946ac71db287811eb6159331b1c26e7d6551582"
+  },
+  {
+    "file": "build/material-wisdom-v3-museum-placeholders.pdf",
+    "bytes": 825006,
+    "sha256": "65b8a990f3db13f71a6752d3bc5502bf335af445918ebf9d03b267881347e6da"
+  },
+  {
+    "file": "build/material-wisdom-v3-museum-placeholders.pptx",
+    "bytes": 6420426,
+    "sha256": "fd8b1aaa798d7851411383cbb795e5b192e4d0f28a670c71c5ab01f58963cf24"
+  },
+  {
+    "file": "build/planning-validation.json",
+    "bytes": 61,
+    "sha256": "5ae8c5d405b39da186530d13881be3235f44ad80bbe2ff2d54bd531a8b92a16a"
+  },
+  {
+    "file": "build/previews/contact-sheet.png",
+    "bytes": 628723,
+    "sha256": "dc97b0afd1acac5044d4fcea77f479bef6b75a2043759ac0cd8731deb5aaef1b"
+  },
+  {
+    "file": "build/previews/slide-01.png",
+    "bytes": 453553,
+    "sha256": "4caf2b3dc1367ae09f2918d326cc96551f617e616e9bb09a4a7ef16be03cb43c"
+  },
+  {
+    "file": "build/previews/slide-02.png",
+    "bytes": 189536,
+    "sha256": "458bde13b4cca6f61f2b611bbf289e2b0b2a98ef9e909cb4769cd377e9a0627a"
+  },
+  {
+    "file": "build/previews/slide-03.png",
+    "bytes": 934882,
+    "sha256": "9a92430b94f5e501f204564d7824a216ebd8c899db74a93fb8117d1a0f633001"
+  },
+  {
+    "file": "build/qa/design_rules.json",
+    "bytes": 432,
+    "sha256": "5355e4bd9013656ccdc3b5422f17d65d07b5986c081dadc2f84a0fa843448e49"
+  },
+  {
+    "file": "build/qa/issues.json",
+    "bytes": 2,
+    "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+  },
+  {
+    "file": "build/qa/layout_lint.json",
+    "bytes": 1712,
+    "sha256": "5099e5338096018703501267b6a9816b93cacb3102f6edef57a939001681ea07"
+  },
+  {
+    "file": "build/qa/manual-review.md",
+    "bytes": 1405,
+    "sha256": "d42a824717b5c9f5753ae2ddb64c270dd05dd95bc36e741a56318855a1ed1472"
+  },
+  {
+    "file": "build/qa/manual_review_passed.flag",
+    "bytes": 135,
+    "sha256": "0237b3b00659c37a4598c4b12586c6bbcd45086af45b49ff37d8afbf146993f1"
+  },
+  {
+    "file": "build/qa/outline.md",
+    "bytes": 4420,
+    "sha256": "93c97a1835e8331caccc4f4d25047cacaeab79c7e479f384fd51475f4f55f739"
+  },
+  {
+    "file": "build/qa/qa_report.json",
+    "bytes": 3238,
+    "sha256": "e9b37458095a497962ebf3fe2ddba5d1a03947a1e79c40498b256b8a056e361a"
+  },
+  {
+    "file": "build/qa/renders/slide-01.jpg",
+    "bytes": 141400,
+    "sha256": "bb7bc4f428651238360c0ec87ac68a2e939819fbd6f1028e6c55dc9c41e84a96"
+  },
+  {
+    "file": "build/qa/renders/slide-02.jpg",
+    "bytes": 129918,
+    "sha256": "45d5072bbdfde522f1f3ea9b6af6187d1e6167c633fdf2f2a516cb9f5652dbe1"
+  },
+  {
+    "file": "build/qa/renders/slide-03.jpg",
+    "bytes": 203976,
+    "sha256": "ea49e019dd4fab01ef9ebd5e066fe473f22a48943d480d6e84dc9d3c40be92b1"
+  },
+  {
+    "file": "build/qa/visual_qa.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "file": "build/qa/visual_review/contact_sheet.jpg",
+    "bytes": 83506,
+    "sha256": "68648e994b4405533b775f3bcb534a536875b23f2972c9d7aabd217cec085614"
+  },
+  {
+    "file": "build/qa/visual_review/renders/slide-01.jpg",
+    "bytes": 141400,
+    "sha256": "bb7bc4f428651238360c0ec87ac68a2e939819fbd6f1028e6c55dc9c41e84a96"
+  },
+  {
+    "file": "build/qa/visual_review/renders/slide-02.jpg",
+    "bytes": 129918,
+    "sha256": "45d5072bbdfde522f1f3ea9b6af6187d1e6167c633fdf2f2a516cb9f5652dbe1"
+  },
+  {
+    "file": "build/qa/visual_review/renders/slide-03.jpg",
+    "bytes": 203976,
+    "sha256": "ea49e019dd4fab01ef9ebd5e066fe473f22a48943d480d6e84dc9d3c40be92b1"
+  },
+  {
+    "file": "build/qa/visual_review/visual_review.json",
+    "bytes": 3251,
+    "sha256": "2cc2b530f3b65d18a784b988b24411e8abdfd67bc32d6fc6c10d0aadaf16d776"
+  },
+  {
+    "file": "build/qa/visual_review/visual_review.md",
+    "bytes": 2380,
+    "sha256": "863745c84cc66ef2469f1b75134719dc2189be953ef0a296a16db57e817f86fa"
+  },
+  {
+    "file": "content_plan.json",
+    "bytes": 2387,
+    "sha256": "58c3d4f38dfd39443bbe75fa61bb8789e2b15ef6ff572f05cdef38b3b5514c1f"
+  },
+  {
+    "file": "design_brief.json",
+    "bytes": 1773,
+    "sha256": "92db6c30b3f6e1c09ce172291a6eb4eebab9c4d144b727c52094b7e8d569f6a2"
+  },
+  {
+    "file": "evidence_plan.json",
+    "bytes": 2148,
+    "sha256": "45d5165e733ded458c7b8200d9afff715cd0b938a30ac60f61faf70d68b417cd"
+  },
+  {
+    "file": "image-sources.json",
+    "bytes": 2639,
+    "sha256": "8ccf2ee5148aa4ecb7c8dded1eba4583ee4112fd59489c85eff2e0749d81281c"
+  },
+  {
+    "file": "museum-photos.example.json",
+    "bytes": 1008,
+    "sha256": "a0e59bdb44b06e62770a2b2f42849d8fd3b12ccf0a0c24faf2eed27c42d35caa"
+  },
+  {
+    "file": "notes.md",
+    "bytes": 1093,
+    "sha256": "dbcc1aca226367f7020e7baf960d86f20c1616eca6da50057c65aec1f44365fc"
+  },
+  {
+    "file": "outline.json",
+    "bytes": 7715,
+    "sha256": "26ab8dff60ef0d9cd136c7457c9b2e35bfdfc7aafd963186c6b2570e8efe4a0c"
+  },
+  {
+    "file": "photo-placeholders.json",
+    "bytes": 1803,
+    "sha256": "a903e2132593efee630df4e14bba401f8c59c5ab7790b4d8d8682214228cc98a"
+  },
+  {
+    "file": "preservation-check.json",
+    "bytes": 36998,
+    "sha256": "6473d109fcda013ec7c0776d82df25538c89c61f21a9104737479311bd45bf49"
+  },
+  {
+    "file": "rebuild.sh",
+    "bytes": 1274,
+    "sha256": "e3aa4adc6165e67e03c56dcf5b50f17718d8f143316e1343876fa85a200791ef"
+  },
+  {
+    "file": "replace_museum_photos.py",
+    "bytes": 4218,
+    "sha256": "904239033a9857066b93705f8aa99c68acec4d38dcd8e0855eaab0038f4add28"
+  },
+  {
+    "file": "source/museum_editorial.js",
+    "bytes": 4069,
+    "sha256": "9b8811517d1326537247d97616cbf67f77c61cf64e5dbd40a1c15e668fa82bee"
+  },
+  {
+    "file": "source/presentation-skill-LICENSE",
+    "bytes": 10253,
+    "sha256": "72d39ef882e7f2678a0b81613726b394b2828b2a56bd6dbeb88749a733f09a74"
+  },
+  {
+    "file": "source/renderer-integration.patch",
+    "bytes": 866,
+    "sha256": "073abb9be94ca4f5e2226a936736eb79ca8af25d2d964953396f901cd0f4d9e0"
+  },
+  {
+    "file": "style_contract.json",
+    "bytes": 1607,
+    "sha256": "54d07c57dcf02e698b5b533d9edcc62a87e6b6d1ef53e63c96616d83d8b420fb"
+  },
+  {
+    "file": "verify_delivery.py",
+    "bytes": 4122,
+    "sha256": "f9f7229d931e6ccd856881b692ea6c7a9b7280872b5aa9a4235d3f7c8428341f"
+  },
+  {
+    "file": "workspace.json",
+    "bytes": 551,
+    "sha256": "151ad8196a479b5832b88521a6f13484311918230cec3d3b7509f66a4021a9f3"
+  },
+  {
+    "file": "图片与资料来源.md",
+    "bytes": 4279,
+    "sha256": "90ccc1174486e27f366febd92cbce084d7fd014fefbb0acd8e626aac763b8fa0"
+  },
+  {
+    "file": "图片占位框与替换说明.md",
+    "bytes": 3731,
+    "sha256": "2fc7bd4d261e70cce9aa8733270aaa8b13c3153f5067d2c0a59a315311f369d8"
+  }
+]

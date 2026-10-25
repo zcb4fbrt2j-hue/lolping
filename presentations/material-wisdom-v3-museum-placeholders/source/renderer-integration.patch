@@ -1,0 +1,16 @@
+diff --git a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+index 91a016b..43aa140 100755
+--- a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
++++ b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+@@ -678,6 +678,11 @@ function normalizeSlide(spec, outlineDir) {
+ }
+ 
+ function renderSlide(pptx, pSlide, slide, preset) {
++  // Added 2026-10-25: editable museum-photo reservations, opt-in only.
++  if (String(slide.variant || '').startsWith('museum-editorial')) {
++    require(path.join(TEMPLATES_DIR, 'museum_editorial.js')).render(pptx, pSlide, slide);
++    return;
++  }
+   if (String(slide.variant || '').startsWith('photo-editorial')) {
+     require(path.join(TEMPLATES_DIR, 'photo_editorial.js')).render(pptx, pSlide, slide);
+     return;

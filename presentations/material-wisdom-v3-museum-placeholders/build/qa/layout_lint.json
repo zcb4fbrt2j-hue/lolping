@@ -1,0 +1,68 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/material-wisdom-v3-museum-placeholders.pptx",
+  "style_preset": "editorial-minimal",
+  "renderer_detected": "pptxgenjs",
+  "summary": {
+    "slide_count": 3,
+    "violation_count": 2,
+    "error_count": 0,
+    "warning_count": 2,
+    "density_score_by_slide": [
+      {
+        "slide_index": 0,
+        "density_score": 0.7085
+      },
+      {
+        "slide_index": 1,
+        "density_score": 0.7391
+      },
+      {
+        "slide_index": 2,
+        "density_score": 0.6374
+      }
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 0,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0085,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7085
+        }
+      ],
+      "density_score": 0.7085,
+      "empty_ratio": 0.2915
+    },
+    {
+      "slide_index": 1,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0391,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7391
+        }
+      ],
+      "density_score": 0.7391,
+      "empty_ratio": 0.2609
+    },
+    {
+      "slide_index": 2,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6374,
+      "empty_ratio": 0.3626
+    }
+  ]
+}

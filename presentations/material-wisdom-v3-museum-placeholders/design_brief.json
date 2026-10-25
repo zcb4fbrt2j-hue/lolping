@@ -1,0 +1,52 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设",
+  "content_maturity": "serious/work",
+  "audience_posture": "students/learners",
+  "emotional_register": "trustworthy",
+  "format_promise": "研究生新中特课程汇报；真实高清摄影与可编辑实拍预留区；科技强国为主线",
+  "anti_format": [
+    "科研组会式机理堆积",
+    "政策口号罗列",
+    "低清照片放大",
+    "装饰流程图与重复卡片"
+  ],
+  "canvas_and_grid": {
+    "aspect": "16:9",
+    "margin_x_in": 0.5,
+    "footer_reserve_in": 0.33,
+    "header_policy": "固定标题安全区，正文与图片不侵入"
+  },
+  "title_page_concept": {
+    "chosen_archetype": "editorial masthead with photographic diptych",
+    "dominant_element": "传统福船实拍预留与现代中国船舶并列",
+    "supporting_element": "科技强国主题标识",
+    "why_this_could_only_be_this_deck": "从木船板缝到现代船舶防护材料的历史呼应"
+  },
+  "structure_strategy": {
+    "primary_scaffold": "open editorial compositions",
+    "repeated_elements": [
+      "深海蓝与科技蓝",
+      "统一左边距",
+      "可追溯来源"
+    ],
+    "allowed_variations": [
+      "museum-cover",
+      "museum-heritage",
+      "museum-strategy"
+    ],
+    "container_policy": "仅照片框使用容器；正文开放排布",
+    "rhythm_break_plan": "深色双视觉封面→白底大图与解读→左侧理论论证与右侧港口实景"
+  },
+  "design_dna": "civic science policy",
+  "renderer_treatments": {
+    "custom_variant": "museum-editorial",
+    "footer_mode": "source-line"
+  },
+  "palette": {
+    "navy": "09243A",
+    "technology_blue": "007AB8",
+    "white": "FFFFFF",
+    "gold": "C6A768"
+  },
+  "font_family": "Noto Sans CJK SC"
+}

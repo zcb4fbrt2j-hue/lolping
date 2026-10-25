@@ -1,0 +1,64 @@
+{
+  "workspace_version": 1,
+  "deck_title": "一条船缝里的材料智慧｜V3博物馆实拍预留版",
+  "deck_slug": "v3",
+  "build": {
+    "style_preset": "editorial-minimal",
+    "font_pair": null,
+    "palette_key": null,
+    "output_pptx": "build/material-wisdom-v3-museum-placeholders.pptx",
+    "qa_dir": "build/qa",
+    "qa_report": "build/qa/report.json"
+  },
+  "layout_rules": {
+    "alignment_first": true,
+    "zero_overlap_required": true,
+    "title_subtitle_stack_dynamic": true,
+    "footer_safe_region_required": true,
+    "cards_use_measured_text_fit": true
+  },
+  "preset_tokens": {
+    "name": "editorial-minimal",
+    "palette": {
+      "bg_primary": "FFFFFF",
+      "bg_dark": "000000",
+      "surface": "FFFFFF",
+      "text_primary": "0A0A0A",
+      "text_muted": "6B7280",
+      "accent_primary": "D4461E",
+      "accent_secondary": "1F2937",
+      "line": "E5E7EB"
+    },
+    "typography": {
+      "title_max": 46,
+      "title_min": 34,
+      "section_max": 28,
+      "section_min": 20,
+      "body_max": 18,
+      "body_min": 13,
+      "caption_max": 11,
+      "caption_min": 9
+    },
+    "layout": {
+      "margin_x": 0.75,
+      "top_safe": 0.9,
+      "bottom_safe": 0.32,
+      "gutter": 0.28,
+      "rhythm": 0.24,
+      "rail_height": 0.1,
+      "radius_style": "rectangle",
+      "edge_tolerance": 0.05,
+      "gutter_tolerance": 0.05,
+      "max_density": 0.7,
+      "max_empty_ratio": 0.65
+    },
+    "allowed_layout_families": [
+      "hero-opener",
+      "card-grid",
+      "split-panel",
+      "timeline",
+      "process-flow",
+      "closing-summary"
+    ]
+  }
+}

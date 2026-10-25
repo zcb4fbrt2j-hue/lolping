@@ -1,0 +1,45 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设",
+  "source_policy": "复用此前已核实、保存的官方原文；事实与本组理论分析分开；无新增性能数字或船舶应用推断。",
+  "items": [
+    {
+      "id": "ev-heritage",
+      "claim": "水密隔舱限制进水范围；苎麻、桐油、石灰用于接缝密封；师徒传授与工匠协作",
+      "source_title": "中国水密隔舱福船制造技艺 / UNESCO项目00321",
+      "source_url": "https://www.ihchina.cn/directory_details/11847",
+      "additional_source": "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321",
+      "source_note": "参考既有sources/unesco_fuchuan.txt第420行；不沿用历史申报中的当前传承人人数。",
+      "used_on_slides": [
+        "s2"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-policy",
+      "claim": "高水平科技自立自强、科技创新与产业创新融合及海洋科技/产业发展方向",
+      "source_title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+      "source_note": "第三篇、第三十二章；既有sources/gov_plan.txt已保存原文",
+      "used_on_slides": [
+        "s3"
+      ],
+      "visual_use": "footer-source"
+    },
+    {
+      "id": "ev-case",
+      "claim": "集美大学为第一完成单位；涂层成果实现产品应用转化，应用于造船、核电、海工等领域",
+      "source_title": "海洋防腐防污涂层体系关键技术及其应用",
+      "source_url": "https://www.cscp.org.cn/site/content/3294.html",
+      "date_or_period": "2026-04-30",
+      "source_note": "中腐评价字〔2026〕第7号；工程应用见综合评价摘要末项。不指认照片船舶/港口使用该成果。",
+      "used_on_slides": [
+        "s3"
+      ],
+      "visual_use": "footer-source"
+    }
+  ],
+  "chart_candidates": [],
+  "open_questions": [
+    "两处博物馆照片待实拍补入；展品身份与拍摄信息须按实拍和展签确认。"
+  ]
+}

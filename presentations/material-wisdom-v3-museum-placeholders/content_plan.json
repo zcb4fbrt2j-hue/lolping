@@ -1,0 +1,75 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设",
+  "audience": "研究生《新时代中国特色社会主义理论与实践》课程同学与教师",
+  "objective": "三页视觉样张，供确认后决定后续制作；不生成其余12页。",
+  "thesis": "以传统材料智慧和当代防护材料成果转化为切入，说明科技强国建设如何在海洋实践中支撑中国式现代化。",
+  "narrative_arc": [
+    {
+      "act": "setup",
+      "purpose": "传统与现代呼应，科技强国统领",
+      "slides": [
+        "s1"
+      ]
+    },
+    {
+      "act": "heritage",
+      "purpose": "从真实问题理解工匠精神和守正创新",
+      "slides": [
+        "s2"
+      ]
+    },
+    {
+      "act": "implication",
+      "purpose": "从成果转化分析科技创新与产业、国家战略的关系",
+      "slides": [
+        "s3"
+      ]
+    }
+  ],
+  "slide_plan": [
+    {
+      "slide_id": "s1",
+      "role": "title",
+      "message": "从一条船缝看科技强国与向海图强",
+      "variant": "museum-editorial-cover",
+      "visual_strategy": "verified-photo-and-native-reservation",
+      "evidence_needs": [],
+      "asset_needs": [
+        "cosco-universe",
+        "MUSEUM_COVER_FUCHUAN"
+      ]
+    },
+    {
+      "slide_id": "s2",
+      "role": "context",
+      "message": "传统福船技艺体现解决真实问题的科技智慧、工匠精神与守正创新",
+      "variant": "museum-editorial-heritage",
+      "visual_strategy": "native-photo-reservation-and-open-text",
+      "evidence_needs": [
+        "ev-heritage"
+      ],
+      "asset_needs": [
+        "MUSEUM_BODY_STRUCTURE"
+      ]
+    },
+    {
+      "slide_id": "s3",
+      "role": "implication",
+      "message": "科技成果经验证与转化服务产业，高水平科技自立自强为中国式现代化提供战略支撑",
+      "variant": "museum-editorial-strategy",
+      "visual_strategy": "source-backed-image-and-argument",
+      "evidence_needs": [
+        "ev-policy",
+        "ev-case"
+      ],
+      "asset_needs": [
+        "yangshan-port"
+      ]
+    }
+  ],
+  "design_notes": {
+    "style_preset_reason": "深海蓝、白与科技蓝，克制金色强调；开放编辑式排布",
+    "rhythm_break": "深色双视觉→白底大图→右侧港口实景",
+    "visual_motif": "传统/现代的历史呼应，不以装饰图填空"
+  }
+}

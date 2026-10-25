@@ -1,0 +1,73 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/material-wisdom-v3-museum-placeholders.pptx",
+  "outdir": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa",
+  "style_preset": "editorial-minimal",
+  "max_loops": 1,
+  "overflow_count": 0,
+  "overlap_count": 0,
+  "placeholder_hits": [],
+  "issue_slide_count": 0,
+  "issue_shape_count": 0,
+  "geometry_violations": [
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0085,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7085,
+      "slide_index": 0
+    },
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0391,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7391,
+      "slide_index": 1
+    }
+  ],
+  "geometry_error_count": 0,
+  "geometry_warning_count": 2,
+  "visual_warning_count": 0,
+  "visual_info_count": 0,
+  "visual_report": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_qa.json",
+  "visual_rc": 0,
+  "render_rc": 0,
+  "render_stdout_tail": "[render] PDF via soffice in 1.65s\nRendered 3 slide image(s) to /workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/renders\n",
+  "rendered_slide_count": 3,
+  "expected_slide_count": 3,
+  "visual_review_warning_count": 0,
+  "visual_review_info_count": 8,
+  "visual_review_report": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/visual_review.json",
+  "visual_review_markdown": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/visual_review.md",
+  "visual_review_contact_sheet": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/contact_sheet.jpg",
+  "visual_review_rc": 0,
+  "visual_review_stdout_tail": "Visual review artifacts: /workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review\nRendered slides: 3\nWarnings: 0\nInfo: 8\nContact sheet: /workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/contact_sheet.jpg\nVisual review report: /workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/visual_review.json\nVisual review markdown: /workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/visual_review/visual_review.md\n",
+  "design_error_count": 0,
+  "design_warning_count": 0,
+  "design_report": "/workspace/lolping/presentations/material-wisdom-v3-museum-placeholders/build/qa/design_rules.json",
+  "design_rc": 0,
+  "density_score_by_slide": [
+    {
+      "slide_index": 0,
+      "density_score": 0.7085
+    },
+    {
+      "slide_index": 1,
+      "density_score": 0.7391
+    },
+    {
+      "slide_index": 2,
+      "density_score": 0.6374
+    }
+  ],
+  "font_families": [
+    "Noto Sans CJK SC"
+  ],
+  "manual_review_passed": true,
+  "strict_geometry": true
+}

@@ -1,0 +1,55 @@
+{
+  "canvas_inches": [
+    10,
+    5.625
+  ],
+  "native_shape_type": "editable rectangle plus separate editable text label",
+  "fit": "cover, original aspect preserved; adjustable crop",
+  "cover_rule": "封面所有照片及其裁剪、调色、缩放衍生图不得进入正文或后续12页。两张福船照片可为同一展品的两个独立机位原片。",
+  "placeholders": [
+    {
+      "id": "MUSEUM_COVER_FUCHUAN",
+      "slide": 1,
+      "label": "待插入中国航海博物馆实拍照片\n——福船整体或模型",
+      "suggested_content": "身份明确的福船实物、现代复原船或模型全景；实际性质按展签标注",
+      "x_in": 0.5,
+      "y_in": 2.45,
+      "w_in": 4.36,
+      "h_in": 2.18,
+      "ratio": "2:1",
+      "reserved_for_cover_only": true,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "展品名称与性质",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用说明"
+      ],
+      "figure_index": 0
+    },
+    {
+      "id": "MUSEUM_BODY_STRUCTURE",
+      "slide": 2,
+      "label": "待插入中国航海博物馆实拍照片\n——福船结构、隔舱或船体连接细节",
+      "suggested_content": "另一张独立实拍：身份明确的福船模型剖面、水密隔舱或船板连接细节；不预称艌缝现场",
+      "x_in": 0.5,
+      "y_in": 1.89,
+      "w_in": 5.65,
+      "h_in": 3.178125,
+      "ratio": "16:9",
+      "reserved_for_cover_only": false,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "展品名称与性质",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用说明"
+      ],
+      "figure_index": 0
+    }
+  ]
+}
