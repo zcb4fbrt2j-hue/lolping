@@ -1,0 +1,17 @@
+{
+  "preserved-modern-assets.json": "38d872675c2e0e94c7d133722ae0d5f95b77d2da2da43bf173ecf6cf5bdd9051",
+  "candidate-register.json": "d653d9bcfc9a2927c419003eb220ae517568003cf121fcbb53a40c29547bd5b4",
+  "preservation-check.json": "75ed498baa724a86c5fe486f6514f0fd0d55426a0e63e84f2193c56cc0fdd7ac",
+  "verify_candidates.py": "ccf070b58e24728bfaa20968fc09424e34248912e45c4a789c41957c2af76001",
+  "README.md": "27fc3c172bf542ae88a75733d4ff6adb130660d130aef8353bc71042d22551bd",
+  "verification.json": "c74c8aacaa110c4f009bfd10f3864e88a60512d6d315ba5184a145838189f056",
+  "previews/C02.png": "8ef4bc627b72fd4c8f15afb9b12f728558bc70442f94223ed5f3a86c5b3aaecf",
+  "previews/C03.png": "609e6dcc4bd60dcd7485dffc826b8db52860237985becaf428feda74472c59e9",
+  "previews/C01.png": "6c6506ec37782302b93590dd781bab8c7c4e4f3aaf83c1faf0312ca54e78d5d8",
+  "candidates/C01-liu-xixiu-model-display.jpg": "64ae0b3da353d4f0e4798dfe95e0e015a0bb90587b19c5fbbe6bf6446d184fb9",
+  "candidates/C02-reported-wooden-vessel-construction.jpg": "5caae3abc5dac92fa341afb49a674e2434699e1f8e1d06918a064f2b2cfbdac3",
+  "candidates/C03-three-masted-ship-model.png": "3cff715ad91c1066dc4130fc7106635563d78053e92122b94d5866eac882fb4e",
+  "sources/search-index.json": "b9fcf44e70fdf8120d660ffd5df00d12ffef89271dd20a08f8c7494f140d6cbd",
+  "sources/access-failures.json": "958628cb569aa8c2767c6f5a2defaa4d1f6c675f1cb0b0f071540a386187daa5",
+  "sources/access-initial.json": "d7652f36ae3ad43c621750f3fe5d70e286275a05def7b4a40dd8c5305269b047"
+}

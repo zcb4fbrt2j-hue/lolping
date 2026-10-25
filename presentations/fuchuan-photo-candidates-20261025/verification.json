@@ -1,0 +1,30 @@
+{
+  "files_and_previews_valid": true,
+  "new_qualified_hd_count": 0,
+  "ppt_created": false,
+  "modern_assets_unchanged": true,
+  "cover_reuse_rule_preserved": true,
+  "items": [
+    {
+      "id": "C01",
+      "width": 699,
+      "height": 462,
+      "bytes": 34147,
+      "preview_pixels_identical": true
+    },
+    {
+      "id": "C02",
+      "width": 400,
+      "height": 300,
+      "bytes": 79880,
+      "preview_pixels_identical": true
+    },
+    {
+      "id": "C03",
+      "width": 778,
+      "height": 600,
+      "bytes": 793986,
+      "preview_pixels_identical": true
+    }
+  ]
+}
