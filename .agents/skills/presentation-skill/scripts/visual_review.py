@@ -385,6 +385,21 @@ def _outline_rhythm_issues(outline_path: Path | None) -> list[dict[str, Any]]:
         # Added 2026-10-25, lolping: classify the opt-in, V3-derived layouts
         # by their actual composition instead of treating all as open-body.
         custom_families = {
+            "photo-light-cover": "photo-diptych",
+            "photo-light-heritage": "image-placeholder",
+            "photo-light-craft": "diagram-data",
+            "photo-light-shipbuilding": "image-evidence",
+            "photo-light-demands-photo": "image-evidence",
+            "photo-light-case": "two-column",
+            "photo-light-coating": "diagram-data",
+            "photo-light-engineering-photo": "image-evidence",
+            "photo-light-capacity": "two-column",
+            "photo-light-productivity": "two-column",
+            "photo-light-ecology": "diagram-data",
+            "photo-light-shanghai": "image-evidence",
+            "photo-light-youth": "two-column",
+            "photo-light-fieldnotes": "image-placeholder",
+            "photo-light-references": "two-column",
             "visual-polish-cover": "image-evidence",
             "visual-polish-heritage": "image-evidence",
             "visual-polish-craft": "diagram-data",

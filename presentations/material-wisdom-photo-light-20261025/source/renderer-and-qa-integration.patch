@@ -1,0 +1,46 @@
+diff --git a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+index 5f2442a..839e047 100755
+--- a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
++++ b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+@@ -680,0 +681,5 @@ function renderSlide(pptx, pSlide, slide, preset) {
++  // Added 2026-10-25: same-deck, lighter text with native picture placeholders.
++  if (String(slide.variant || '').startsWith('photo-light')) {
++    require(path.join(TEMPLATES_DIR, 'photo_light.js')).render(pptx, pSlide, slide);
++    return;
++  }
+@@ -937 +942,3 @@ async function main() {
+-    const pSlide = pptx.addSlide();
++    const nativePhotoLayout = String(slide.variant || '').startsWith('photo-light')
++      ? require(path.join(TEMPLATES_DIR, 'photo_light.js')).prepare(pptx, slide) : null;
++    const pSlide = pptx.addSlide(nativePhotoLayout ? { masterName: nativePhotoLayout } : {});
+@@ -943 +950,9 @@ async function main() {
+-  await pptx.writeFile({ fileName: outAbs });
++  if (normalized.some(s => String(s.variant || '').startsWith('photo-light'))) {
++    const raw = await pptx.write({ outputType: 'nodebuffer' });
++    const native = spawnSync('python3', [path.join(__dirname, 'serialize_picture_placeholders.py'),
++      path.resolve(args.outline)], { input: raw, maxBuffer: 128 * 1024 * 1024 });
++    if (native.status !== 0) throw new Error('Native picture-placeholder serialization failed: ' + native.stderr);
++    fs.writeFileSync(outAbs, native.stdout);
++  } else {
++    await pptx.writeFile({ fileName: outAbs });
++  }
+diff --git a/.agents/skills/presentation-skill/scripts/visual_review.py b/.agents/skills/presentation-skill/scripts/visual_review.py
+index 9556038..4cab9cb 100644
+--- a/.agents/skills/presentation-skill/scripts/visual_review.py
++++ b/.agents/skills/presentation-skill/scripts/visual_review.py
+@@ -387,0 +388,15 @@ def _outline_rhythm_issues(outline_path: Path | None) -> list[dict[str, Any]]:
++            "photo-light-cover": "photo-diptych",
++            "photo-light-heritage": "image-placeholder",
++            "photo-light-craft": "diagram-data",
++            "photo-light-shipbuilding": "image-evidence",
++            "photo-light-demands-photo": "image-evidence",
++            "photo-light-case": "two-column",
++            "photo-light-coating": "diagram-data",
++            "photo-light-engineering-photo": "image-evidence",
++            "photo-light-capacity": "two-column",
++            "photo-light-productivity": "two-column",
++            "photo-light-ecology": "diagram-data",
++            "photo-light-shanghai": "image-evidence",
++            "photo-light-youth": "two-column",
++            "photo-light-fieldnotes": "image-placeholder",
++            "photo-light-references": "two-column",

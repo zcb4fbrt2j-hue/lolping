@@ -1,0 +1,145 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/material-wisdom-photo-light.pptx",
+  "outdir": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa",
+  "style_preset": "editorial-minimal",
+  "max_loops": 1,
+  "overflow_count": 0,
+  "overlap_count": 0,
+  "placeholder_hits": [],
+  "issue_slide_count": 0,
+  "issue_shape_count": 0,
+  "geometry_violations": [
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0503,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7503,
+      "slide_index": 0
+    },
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0615,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7615,
+      "slide_index": 1
+    },
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0579,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7579,
+      "slide_index": 6
+    },
+    {
+      "type": "density_too_high",
+      "shape_ids": [],
+      "severity": "warning",
+      "delta_inches": 0.0758,
+      "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+      "slide_type": "content",
+      "visual_density_score": 0.7758,
+      "slide_index": 13
+    }
+  ],
+  "geometry_error_count": 0,
+  "geometry_warning_count": 4,
+  "visual_warning_count": 0,
+  "visual_info_count": 0,
+  "visual_report": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_qa.json",
+  "visual_rc": 0,
+  "render_rc": 0,
+  "render_stdout_tail": "[render] PDF via soffice in 3.79s\nRendered 16 slide image(s) to /workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/renders\n",
+  "rendered_slide_count": 16,
+  "expected_slide_count": 16,
+  "visual_review_warning_count": 0,
+  "visual_review_info_count": 39,
+  "visual_review_report": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review/visual_review.json",
+  "visual_review_markdown": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review/visual_review.md",
+  "visual_review_contact_sheet": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review/contact_sheet.jpg",
+  "visual_review_rc": 0,
+  "visual_review_stdout_tail": "Visual review artifacts: /workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review\nRendered slides: 16\nWarnings: 0\nInfo: 39\nContact sheet: /workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review/contact_sheet.jpg\nVisual review report: /workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review/visual_review.json\nVisual review markdown: /workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/visual_review/visual_review.md\n",
+  "design_error_count": 0,
+  "design_warning_count": 0,
+  "design_report": "/workspace/lolping/presentations/material-wisdom-photo-light-20261025/build/qa/design_rules.json",
+  "design_rc": 0,
+  "density_score_by_slide": [
+    {
+      "slide_index": 0,
+      "density_score": 0.7503
+    },
+    {
+      "slide_index": 1,
+      "density_score": 0.7615
+    },
+    {
+      "slide_index": 2,
+      "density_score": 0.5693
+    },
+    {
+      "slide_index": 3,
+      "density_score": 0.6578
+    },
+    {
+      "slide_index": 4,
+      "density_score": 0.5991
+    },
+    {
+      "slide_index": 5,
+      "density_score": 0.6656
+    },
+    {
+      "slide_index": 6,
+      "density_score": 0.7579
+    },
+    {
+      "slide_index": 7,
+      "density_score": 0.645
+    },
+    {
+      "slide_index": 8,
+      "density_score": 0.5637
+    },
+    {
+      "slide_index": 9,
+      "density_score": 0.6969
+    },
+    {
+      "slide_index": 10,
+      "density_score": 0.6021
+    },
+    {
+      "slide_index": 11,
+      "density_score": 0.3747
+    },
+    {
+      "slide_index": 12,
+      "density_score": 0.6155
+    },
+    {
+      "slide_index": 13,
+      "density_score": 0.7758
+    },
+    {
+      "slide_index": 14,
+      "density_score": 0.5713
+    },
+    {
+      "slide_index": 15,
+      "density_score": 0.6474
+    }
+  ],
+  "font_families": [
+    "Noto Sans CJK SC"
+  ],
+  "manual_review_passed": true,
+  "strict_geometry": true
+}

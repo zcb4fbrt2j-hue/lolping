@@ -678,6 +678,11 @@ function normalizeSlide(spec, outlineDir) {
 }
 
 function renderSlide(pptx, pSlide, slide, preset) {
+  // Added 2026-10-25: same-deck, lighter text with native picture placeholders.
+  if (String(slide.variant || '').startsWith('photo-light')) {
+    require(path.join(TEMPLATES_DIR, 'photo_light.js')).render(pptx, pSlide, slide);
+    return;
+  }
   // Added 2026-10-25: isolated visual polish; previous coursework decks retain their templates.
   if (String(slide.variant || '').startsWith('visual-polish')) {
     require(path.join(TEMPLATES_DIR, 'visual_polish.js')).render(pptx, pSlide, slide);
@@ -934,13 +939,23 @@ async function main() {
   await resolveIconsForSlides(normalized, outlineDir, preset);
 
   for (const slide of normalized) {
-    const pSlide = pptx.addSlide();
+    const nativePhotoLayout = String(slide.variant || '').startsWith('photo-light')
+      ? require(path.join(TEMPLATES_DIR, 'photo_light.js')).prepare(pptx, slide) : null;
+    const pSlide = pptx.addSlide(nativePhotoLayout ? { masterName: nativePhotoLayout } : {});
     renderSlide(pptx, pSlide, slide, preset);
   }
 
   const outAbs = path.resolve(args.output);
   fs.mkdirSync(path.dirname(outAbs), { recursive: true });
-  await pptx.writeFile({ fileName: outAbs });
+  if (normalized.some(s => String(s.variant || '').startsWith('photo-light'))) {
+    const raw = await pptx.write({ outputType: 'nodebuffer' });
+    const native = spawnSync('python3', [path.join(__dirname, 'serialize_picture_placeholders.py'),
+      path.resolve(args.outline)], { input: raw, maxBuffer: 128 * 1024 * 1024 });
+    if (native.status !== 0) throw new Error('Native picture-placeholder serialization failed: ' + native.stderr);
+    fs.writeFileSync(outAbs, native.stdout);
+  } else {
+    await pptx.writeFile({ fileName: outAbs });
+  }
 
   // pptxgenjs sometimes rewrites the path (adds .pptx). Report what's on disk.
   const produced = fs.existsSync(outAbs)

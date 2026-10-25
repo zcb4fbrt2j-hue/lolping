@@ -1,0 +1,9 @@
+{
+  "included": "PPTX, PDF, 16 PNGs, contact/comparison previews, source plans/scripts, complete original script, sources and QA reports",
+  "omitted_duplicate_files": [
+    "assets original JPEGs already embedded byte-for-byte in PPTX",
+    "QA JPG renders duplicated by final PNG previews"
+  ],
+  "restore_originals": "python restore_photo_assets.py",
+  "runtime": "Use repository branch and installed presentation-skill for rebuild; runtime dependencies are not included."
+}
