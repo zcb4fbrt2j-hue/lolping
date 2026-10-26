@@ -1,0 +1,135 @@
+{
+  "canvas_inches": [
+    10,
+    5.625
+  ],
+  "native_shape_type": "PowerPoint native picture placeholder, p:ph type=pic, plus separate editable _LABEL guidance text",
+  "fit": "fill/crop, preserve original aspect ratio",
+  "cover_rule": "封面照片及其裁剪、调色、缩放衍生图不得在正文重复；每页使用独立原片。",
+  "placeholders": [
+    {
+      "id": "MUSEUM_COVER_FUCHUAN",
+      "slide": 1,
+      "label": "待插入中国航海博物馆实拍照片\n——福船整体或模型",
+      "suggested_content": "身份明确的福船实物、现代复原船或模型全景；实际性质按展签标注",
+      "x_in": 0.5,
+      "y_in": 2.53,
+      "w_in": 4.36,
+      "h_in": 2.18,
+      "ratio": "2:1",
+      "reserved_for_cover_only": true,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "展品名称与性质",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用说明"
+      ],
+      "figure_index": 0,
+      "native_placeholder_type": "pic"
+    },
+    {
+      "id": "MUSEUM_BODY_STRUCTURE",
+      "slide": 2,
+      "label": "待插入中国航海博物馆实拍照片\n——福船结构、隔舱或船体连接细节",
+      "suggested_content": "另一张独立实拍：身份明确的福船模型剖面、水密隔舱或船板连接细节；不预称艌缝现场",
+      "x_in": 0.5,
+      "y_in": 1.89,
+      "w_in": 5.65,
+      "h_in": 3.178125,
+      "ratio": "16:9",
+      "reserved_for_cover_only": false,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "展品名称与性质",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用说明"
+      ],
+      "figure_index": 0,
+      "native_placeholder_type": "pic"
+    },
+    {
+      "id": "INDUSTRY_TRANSFER",
+      "slide": 10,
+      "label": "待插入真实照片\n产学研协同或涂装生产现场",
+      "suggested_content": "具备明确来源的涂装生产线、工艺验证或产学研协同现场；一般产业场景不作为本项目应用证明。",
+      "x_in": 4.6,
+      "y_in": 1.95,
+      "w_in": 4.9,
+      "h_in": 3.0625,
+      "ratio": "16:10",
+      "reserved_for_cover_only": false,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "照片内容与对象身份",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用许可或授权"
+      ],
+      "figure_index": 0,
+      "native_placeholder_type": "pic"
+    },
+    {
+      "id": "MUSEUM_COMPARISON_DETAIL",
+      "slide": 13,
+      "label": "待插入福船实拍\n船板接缝或模型细节",
+      "suggested_content": "中国航海博物馆中身份明确的福船展品、船板连接或模型细节；标明展品性质，不称为已核实的艌缝现场。使用独立于第1、2、14页的照片。",
+      "x_in": 0.5,
+      "y_in": 2.42,
+      "w_in": 1.8,
+      "h_in": 1.2,
+      "ratio": "3:2",
+      "reserved_for_cover_only": false,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "照片内容与对象身份",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用许可或授权"
+      ],
+      "figure_index": 0,
+      "native_placeholder_type": "pic"
+    },
+    {
+      "id": "MUSEUM_FIELD_OBSERVATION",
+      "slide": 14,
+      "label": "待插入中国航海博物馆实拍照片\n福船展品或结构细节\n展品名称与真实观察待补充",
+      "suggested_content": "中国航海博物馆福船展品、结构或材料连接细节；展品身份须按展签说明，观察结果在实地调研后补充；独立于封面及第2、13页。",
+      "x_in": 0.5,
+      "y_in": 1.85,
+      "w_in": 5.1,
+      "h_in": 2.86875,
+      "ratio": "16:9",
+      "reserved_for_cover_only": false,
+      "recommended_width_px": 3000,
+      "preferred_min_width_px": 1920,
+      "metadata_required": [
+        "照片内容与对象身份",
+        "拍摄地点",
+        "拍摄日期",
+        "摄影者",
+        "使用许可或授权"
+      ],
+      "figure_index": 0,
+      "native_placeholder_type": "pic"
+    }
+  ],
+  "replacement_note": "Insert photo into the native placeholder, then delete its matching _LABEL hint; geometry remains unchanged.",
+  "filled_slots": [
+    {
+      "id": "RESEARCH_COATING_LAB",
+      "slide": 6,
+      "image": "assets/salt-spray-chamber-original.jpg",
+      "status": "已以真实设备示例填入，不指认本项目"
+    }
+  ]
+}

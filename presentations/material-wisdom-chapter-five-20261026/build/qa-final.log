@@ -1,0 +1,14 @@
+QA artifacts: /workspace/lolping/presentations/material-wisdom-chapter-five-20261026/build/qa
+Issue slides: 0
+Issue shapes: 0
+Overflow count: 0
+Overlap count: 0
+Placeholder hits: 0
+Geometry violations: 5
+Visual warnings: 0
+Visual review warnings: 0
+Visual review contact sheet: /workspace/lolping/presentations/material-wisdom-chapter-five-20261026/build/qa/visual_review/contact_sheet.jpg
+Design errors/warnings: 0/0
+Font families (1): Noto Sans CJK SC
+Manual review flag: present (/workspace/lolping/presentations/material-wisdom-chapter-five-20261026/build/qa/manual_review_passed.flag)
+QA report: /workspace/lolping/presentations/material-wisdom-chapter-five-20261026/build/qa/qa_report.json

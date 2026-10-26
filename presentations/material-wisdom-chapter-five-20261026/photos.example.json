@@ -1,0 +1,49 @@
+{
+  "photos": [
+    {
+      "slot": "MUSEUM_COVER_FUCHUAN",
+      "file": "请填写独立原始照片.jpg",
+      "content": "请填写拍摄对象及其身份性质",
+      "location": "请填写",
+      "date": "YYYY-MM-DD",
+      "photographer": "请填写",
+      "usage_permission": "请填写自摄或授权范围"
+    },
+    {
+      "slot": "MUSEUM_BODY_STRUCTURE",
+      "file": "请填写独立原始照片.jpg",
+      "content": "请填写拍摄对象及其身份性质",
+      "location": "请填写",
+      "date": "YYYY-MM-DD",
+      "photographer": "请填写",
+      "usage_permission": "请填写自摄或授权范围"
+    },
+    {
+      "slot": "INDUSTRY_TRANSFER",
+      "file": "请填写独立原始照片.jpg",
+      "content": "请填写拍摄对象及其身份性质",
+      "location": "请填写",
+      "date": "YYYY-MM-DD",
+      "photographer": "请填写",
+      "usage_permission": "请填写自摄或授权范围"
+    },
+    {
+      "slot": "MUSEUM_COMPARISON_DETAIL",
+      "file": "请填写独立原始照片.jpg",
+      "content": "请填写拍摄对象及其身份性质",
+      "location": "请填写",
+      "date": "YYYY-MM-DD",
+      "photographer": "请填写",
+      "usage_permission": "请填写自摄或授权范围"
+    },
+    {
+      "slot": "MUSEUM_FIELD_OBSERVATION",
+      "file": "请填写独立原始照片.jpg",
+      "content": "请填写拍摄对象及其身份性质",
+      "location": "请填写",
+      "date": "YYYY-MM-DD",
+      "photographer": "请填写",
+      "usage_permission": "请填写自摄或授权范围"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slides": 16,
+  "spoken_slides": 15,
+  "reference_slides": 1,
+  "planned_seconds": 1020,
+  "chapter_five_seconds": 150,
+  "chapter_five_spoken_cjk": [
+    252,
+    238,
+    124
+  ],
+  "unchanged_source_slide_notes_xml": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    16
+  ],
+  "unchanged_png_pixels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "reference_page_raster_variance": [
+    {
+      "page": 16,
+      "changed_pixels": 317,
+      "bbox": [
+        1414,
+        888,
+        1490,
+        911
+      ],
+      "slide_xml_relationships_and_notes": "byte-identical to base"
+    }
+  ],
+  "updated_pages": [
+    13,
+    14,
+    15
+  ],
+  "editable_text_objects": 219,
+  "native_picture_placeholders": 5,
+  "native_placeholder_insert_save_reopen": "passed",
+  "original_unique_photos": 6,
+  "cover_photo_exclusive": true,
+  "pdf_pages": 16,
+  "png_pages": 16,
+  "png_size": [
+    1920,
+    1080
+  ]
+}
