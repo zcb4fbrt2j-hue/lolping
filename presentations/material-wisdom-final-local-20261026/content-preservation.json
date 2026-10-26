@@ -1,0 +1,29 @@
+{
+  "base": "material-wisdom-closeout-20261026",
+  "base_pptx_sha256": "d9153809b0e47458603b1dc7192a1bf547d318921ae577f2f3eb352429f8c592",
+  "spoken_script_sha256": "90a15f6ba2323dafef4c9bb538c025ec5cf246d847326b972d1daa19f65cbd96",
+  "chapter_structure_unchanged": true,
+  "planned_seconds": 1020,
+  "unchanged_visible_pages": [
+    4,
+    5,
+    14
+  ],
+  "modified_visible_pages": [
+    1,
+    2,
+    3,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    15,
+    16
+  ],
+  "images_unchanged": true,
+  "placeholders_unchanged": true
+}

@@ -1,0 +1,129 @@
+{
+  "spoken_slides": 15,
+  "reference_slides": 1,
+  "planned_seconds": 1020,
+  "planned_duration": "17:00",
+  "chapters": [
+    {
+      "name": "千年匠心：一条船缝里的中国智慧",
+      "slides": [
+        2,
+        3
+      ]
+    },
+    {
+      "name": "材料之困：现代巨轮如何抵御海洋侵蚀？",
+      "slides": [
+        4,
+        5
+      ]
+    },
+    {
+      "name": "科技破题：一层涂层背后的中国创新",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "向海图强：从材料创新看科技强国建设",
+      "slides": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "青春担当：以材料之力回应时代之问",
+      "slides": [
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "page": 1,
+      "title": "一条船缝里的材料智慧",
+      "seconds": 40
+    },
+    {
+      "page": 2,
+      "title": "福船的防漏智慧",
+      "seconds": 90
+    },
+    {
+      "page": 3,
+      "title": "从材料巧用到守正创新",
+      "seconds": 90
+    },
+    {
+      "page": 4,
+      "title": "从木质帆船到钢铁巨轮",
+      "seconds": 60
+    },
+    {
+      "page": 5,
+      "title": "海洋防护的三重要求",
+      "seconds": 60
+    },
+    {
+      "page": 6,
+      "title": "工程需求怎样变成科研问题？",
+      "seconds": 70
+    },
+    {
+      "page": 7,
+      "title": "一套防护体系，三类协同创新",
+      "seconds": 90
+    },
+    {
+      "page": 8,
+      "title": "从实验室到工程应用",
+      "seconds": 60
+    },
+    {
+      "page": 9,
+      "title": "科技强国，要落到具体技术能力上",
+      "seconds": 75
+    },
+    {
+      "page": 10,
+      "title": "科技创新如何转化为新质生产力？",
+      "seconds": 85
+    },
+    {
+      "page": 11,
+      "title": "好材料，既守护装备也守护海洋",
+      "seconds": 75
+    },
+    {
+      "page": 12,
+      "title": "从国家部署到上海实践",
+      "seconds": 75
+    },
+    {
+      "page": 13,
+      "title": "把科技报国落实到科研训练中",
+      "seconds": 60
+    },
+    {
+      "page": 14,
+      "title": "从博物馆调研到专业思考",
+      "seconds": 60
+    },
+    {
+      "page": 15,
+      "title": "从一条船缝，到科技强国",
+      "seconds": 30
+    },
+    {
+      "page": 16,
+      "title": "主要参考资料与图片来源",
+      "seconds": 0
+    }
+  ]
+}

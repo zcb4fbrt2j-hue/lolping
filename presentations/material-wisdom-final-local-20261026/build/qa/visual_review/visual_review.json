@@ -1,0 +1,416 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-final-local-20261026/build/material-wisdom-final-local.pptx",
+  "outline": "/workspace/lolping/presentations/material-wisdom-final-local-20261026/outline.json",
+  "outdir": "/workspace/lolping/presentations/material-wisdom-final-local-20261026/build/qa/visual_review",
+  "renders_dir": "/workspace/lolping/presentations/material-wisdom-final-local-20261026/build/qa/renders",
+  "render_status": "existing",
+  "rendered_slide_count": 16,
+  "contact_sheet": "/workspace/lolping/presentations/material-wisdom-final-local-20261026/build/qa/visual_review/contact_sheet.jpg",
+  "warning_count": 0,
+  "info_count": 42,
+  "issue_count": 42,
+  "issues": [
+    {
+      "slide": 1,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 92% of its box.",
+      "shape_id": "shape-3",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.8,
+      "box_height_in": 0.87
+    },
+    {
+      "slide": 1,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.2pt.",
+      "shape_id": "shape-8",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.2
+    },
+    {
+      "slide": 1,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.2pt.",
+      "shape_id": "shape-9",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.2
+    },
+    {
+      "slide": 3,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 89% of its box.",
+      "shape_id": "shape-7",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.3,
+      "box_height_in": 0.34
+    },
+    {
+      "slide": 3,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 89% of its box.",
+      "shape_id": "shape-8",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.3,
+      "box_height_in": 0.34
+    },
+    {
+      "slide": 4,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.2pt.",
+      "shape_id": "shape-10",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.2
+    },
+    {
+      "slide": 5,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 8.7pt.",
+      "shape_id": "shape-4",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 8.7
+    },
+    {
+      "slide": 5,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-5",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 5,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-6",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 5,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-8",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 5,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-9",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 5,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-11",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 5,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-12",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 6,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.1pt.",
+      "shape_id": "shape-10",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.1
+    },
+    {
+      "slide": 8,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 89% of its box.",
+      "shape_id": "shape-3",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.24,
+      "box_height_in": 0.27
+    },
+    {
+      "slide": 8,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.2pt.",
+      "shape_id": "shape-5",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.2
+    },
+    {
+      "slide": 8,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 92% of its box.",
+      "shape_id": "shape-9",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.28,
+      "box_height_in": 0.31
+    },
+    {
+      "slide": 8,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 92% of its box.",
+      "shape_id": "shape-10",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.28,
+      "box_height_in": 0.31
+    },
+    {
+      "slide": 8,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 92% of its box.",
+      "shape_id": "shape-11",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.28,
+      "box_height_in": 0.31
+    },
+    {
+      "slide": 9,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 90% of its box.",
+      "shape_id": "shape-3",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 1.1,
+      "box_height_in": 1.23
+    },
+    {
+      "slide": 10,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 99% of its box.",
+      "shape_id": "shape-5",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.78,
+      "box_height_in": 0.79
+    },
+    {
+      "slide": 11,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-5",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 11,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-7",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 11,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-9",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 11,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-11",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.32,
+      "box_height_in": 0.35
+    },
+    {
+      "slide": 12,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 94% of its box.",
+      "shape_id": "shape-3",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 1.07,
+      "box_height_in": 1.13
+    },
+    {
+      "slide": 12,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 97% of its box.",
+      "shape_id": "shape-4",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.85,
+      "box_height_in": 0.88
+    },
+    {
+      "slide": 12,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.0pt.",
+      "shape_id": "shape-8",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.0
+    },
+    {
+      "slide": 13,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 96% of its box.",
+      "shape_id": "shape-5",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 0.92,
+      "box_height_in": 0.96
+    },
+    {
+      "slide": 15,
+      "type": "text_box_tight",
+      "severity": "info",
+      "message": "Estimated text height uses 91% of its box.",
+      "shape_id": "shape-3",
+      "suggestion": "Check the rendered slide for clipping or awkward wrap.",
+      "estimated_height_in": 1.35,
+      "box_height_in": 1.48
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-4",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-6",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-8",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-10",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-12",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-14",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-16",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-18",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-20",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-22",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-24",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    },
+    {
+      "slide": 16,
+      "type": "body_font_small",
+      "severity": "info",
+      "message": "Body-like text is 9.3pt.",
+      "shape_id": "shape-26",
+      "suggestion": "Check readability; use larger text or split dense content if this is not a table/caption.",
+      "font_pt": 9.3
+    }
+  ],
+  "passed": true
+}

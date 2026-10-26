@@ -1,0 +1,9 @@
+diff --git a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+index 839e047..8bff8b2 100755
+--- a/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
++++ b/.agents/skills/presentation-skill/scripts/build_deck_pptxgenjs.js
+@@ -683 +683,3 @@ function renderSlide(pptx, pSlide, slide, preset) {
+-    require(path.join(TEMPLATES_DIR, 'photo_light.js')).render(pptx, pSlide, slide);
++    const template = slide.editorial && slide.editorial.local_refinement
++      ? 'course_refined.js' : 'photo_light.js';
++    require(path.join(TEMPLATES_DIR, template)).render(pptx, pSlide, slide);

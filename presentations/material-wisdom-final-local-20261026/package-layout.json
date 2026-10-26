@@ -1,0 +1,9 @@
+{
+  "included": "PPTX,PDF,16PNG,contact/theory-comparison previews,clean notes,source registry,change list,source code and QA",
+  "omitted_duplicates": [
+    "Original JPEGs embedded byte-exact in PPTX",
+    "QA JPG renders duplicated by PNG previews"
+  ],
+  "restore_originals": "python restore_photo_assets.py",
+  "runtime_dependencies_included": false
+}

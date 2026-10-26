@@ -1,0 +1,997 @@
+{
+  "title": "一条船缝里的材料智慧｜最终局部精修版",
+  "subtitle": "从传统福船艌缝到现代船舶防护材料，看科技创新如何支撑向海图强",
+  "style_preset": "editorial-minimal",
+  "compliance": {
+    "attribution_file": "assets/attribution.csv",
+    "auto_image_sources": false
+  },
+  "slides": [
+    {
+      "id": "s1",
+      "type": "content",
+      "variant": "photo-light-cover",
+      "title": "一条船缝里的材料智慧",
+      "editorial": {
+        "layout": "museum-cover",
+        "eyebrow": "新时代中国特色社会主义理论与实践  /  材料与化工研究生课程汇报",
+        "theme": "科技强国  /  以材料智慧回应向海之问",
+        "reservation": {
+          "id": "MUSEUM_COVER_FUCHUAN",
+          "slide": 1,
+          "label": "待插入中国航海博物馆实拍照片\n——福船整体或模型",
+          "suggested_content": "身份明确的福船实物、现代复原船或模型全景；实际性质按展签标注",
+          "x_in": 0.5,
+          "y_in": 2.53,
+          "w_in": 4.36,
+          "h_in": 2.18,
+          "ratio": "2:1",
+          "reserved_for_cover_only": true,
+          "recommended_width_px": 3000,
+          "preferred_min_width_px": 1920,
+          "metadata_required": [
+            "展品名称与性质",
+            "拍摄地点",
+            "拍摄日期",
+            "摄影者",
+            "使用说明"
+          ],
+          "figure_index": 0,
+          "native_placeholder_type": "pic"
+        },
+        "museum_caption": "传统福船｜展品名称与性质按展签核验",
+        "modern_caption": "“中远海运宇宙”轮｜鹿特丹，2021年",
+        "modern_alt": "Alf van Beem拍摄的中远海运宇宙轮，原始4306×2422；封面独占",
+        "polish_layout": "cover",
+        "screen": {},
+        "local_refinement": true
+      },
+      "source_line": "照片：[9a] Alf van Beem／公有领域",
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Cosco_Shipping_Universe_(ship,_2018)_IMO_9795610,_Port_of_Rotterdam_pic7.JPG"
+      ],
+      "planned_seconds": 40,
+      "subtitle": "从传统福船艌缝到现代船舶防护材料，看科技创新如何支撑向海图强",
+      "figures": [
+        "",
+        "assets/cosco-universe-original.JPG"
+      ],
+      "notes": "我们从一条船缝出发，围绕三个问题展开：第一，传统福船怎样体现工匠的材料智慧？第二，现代防护涂层怎样从科研问题走向工程应用？第三，材料创新怎样支撑科技强国建设与中国式现代化？本次汇报以材料与化工为切入点，以海洋强国建设为实践场景，最后回到研究生的科研责任。\n\n资料依据：\nhttps://commons.wikimedia.org/wiki/File:Cosco_Shipping_Universe_(ship,_2018)_IMO_9795610,_Port_of_Rotterdam_pic7.JPG\n\n图片出处与许可：\nFile:Cosco Shipping Universe (ship, 2018) IMO 9795610, Port of Rotterdam pic7.JPG；摄影者：Alf van Beem；许可：Public domain。"
+    },
+    {
+      "id": "s2",
+      "type": "content",
+      "variant": "photo-light-heritage",
+      "title": "福船的防漏智慧",
+      "editorial": {
+        "layout": "museum-heritage",
+        "eyebrow": "第一章  千年匠心  /  一条船缝里的中国智慧",
+        "reservation": {
+          "id": "MUSEUM_BODY_STRUCTURE",
+          "slide": 2,
+          "label": "待插入中国航海博物馆实拍照片\n——福船结构、隔舱或船体连接细节",
+          "suggested_content": "另一张独立实拍：身份明确的福船模型剖面、水密隔舱或船板连接细节；不预称艌缝现场",
+          "x_in": 0.5,
+          "y_in": 1.89,
+          "w_in": 5.65,
+          "h_in": 3.178125,
+          "ratio": "16:9",
+          "reserved_for_cover_only": false,
+          "recommended_width_px": 3000,
+          "preferred_min_width_px": 1920,
+          "metadata_required": [
+            "展品名称与性质",
+            "拍摄地点",
+            "拍摄日期",
+            "摄影者",
+            "使用说明"
+          ],
+          "figure_index": 0,
+          "native_placeholder_type": "pic"
+        },
+        "museum_caption": "福船结构或模型细节，待实拍与展签核验",
+        "points": [
+          {
+            "heading": "隔舱｜限制进水范围",
+            "body": "以舱壁分隔空间，\n限制局部破损后的进水扩散。"
+          },
+          {
+            "heading": "艌缝｜处理板缝渗漏",
+            "body": "填塞与密封船板接缝，\n回应木船防水需求。"
+          },
+          {
+            "heading": "协同｜守护航行安全",
+            "body": "结构设计与材料施工，\n共同解决实际航行问题。"
+          }
+        ],
+        "polish_layout": "heritage",
+        "screen": {
+          "points": [
+            {
+              "heading": "隔舱｜限制进水扩散",
+              "body": "舱壁分隔空间，\n限制局部破损后的进水扩散。"
+            },
+            {
+              "heading": "艌缝｜处理板缝渗漏",
+              "body": "填塞、密封船板接缝，\n减少接缝处的渗漏通道。"
+            },
+            {
+              "heading": "协同｜共同守护安全",
+              "body": "功能不同、彼此配合，\n共同服务木船航行安全。"
+            }
+          ]
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[1] 中国非遗网与UNESCO项目00321；展品照片待实拍补入",
+      "sources": [
+        "https://www.ihchina.cn/directory_details/11847",
+        "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321"
+      ],
+      "planned_seconds": 90,
+      "subtitle": "水密隔舱与艌缝密封，各司其职",
+      "figures": [
+        ""
+      ],
+      "notes": "先看传统福船面对的实际问题。木质船体由不同构件连接而成，既要处理连接处的密封，也要考虑局部破损之后怎样维持整体安全。水密隔舱和艌缝就在这两个层面发挥作用。水密隔舱利用舱壁分隔船内空间，限制局部受损之后海水向其他舱室扩散的范围。艌缝则面向船板接缝，通过填塞和密封来处理渗漏通道。两者并不相互替代：一个着眼于船体内部的分隔，一个着眼于接缝的密封。把它们区分开来，我们才能准确理解传统技术解决了什么问题，也能避免将船舶的安全完全归功于某一种材料。中国水密隔舱福船制造技艺的非遗资料，还记录了工匠组织和师徒传承方式。它说明，这项技术的价值既在结构与工艺本身，也在长期实践中形成的经验与协作。后续博物馆静态照片将用于观察展品结构，具体名称与性质按展签核对。理解这些细节，比简单赞叹古人聪明更能帮助我们认识传统科技智慧。\n\n资料依据：\nhttps://www.ihchina.cn/directory_details/11847\nhttps://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321"
+    },
+    {
+      "id": "s3",
+      "type": "content",
+      "variant": "photo-light-craft",
+      "title": "从材料巧用到守正创新",
+      "editorial": {
+        "layout": "material-craft",
+        "eyebrow": "第一章  千年匠心  /  一条船缝里的中国智慧",
+        "figure_title": "一条接缝，连接材料与工艺",
+        "materials": "苎麻  /  桐油  /  石灰",
+        "figure_caption": "板缝填塞与密封｜概念示意，非实际配方",
+        "points": [
+          {
+            "heading": "选材｜回应实际需要",
+            "body": "利用材料与施工经验，\n处理木船接缝的密封问题。"
+          },
+          {
+            "heading": "传承｜积累工匠经验",
+            "body": "师徒传授、密切协作，\n让技艺与责任代代延续。"
+          },
+          {
+            "heading": "创新｜继续提出问题",
+            "body": "尊重并记录传统技艺，\n用现代科学解释和检验。"
+          }
+        ],
+        "takeaway": "在传承中理解实践智慧，在求证中推进守正创新。",
+        "polish_layout": "craft",
+        "screen": {
+          "points": [
+            {
+              "heading": "选材｜组合材料",
+              "body": "苎麻、桐油、石灰配合使用，\n回应船板接缝的密封需要。"
+            },
+            {
+              "heading": "工艺｜填塞密封",
+              "body": "接缝处理、填塞与压实，\n把材料转化为实际防护。"
+            },
+            {
+              "heading": "经验｜传承与求证",
+              "body": "师徒协作积累施工经验，\n现代研究继续解释与检验。"
+            }
+          ],
+          "takeaway": "在传承中理解智慧，在求证中守正创新。"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[1] 非遗资料；材料—工艺—传承关系为本组分析",
+      "sources": [
+        "https://www.ihchina.cn/directory_details/11847",
+        "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321"
+      ],
+      "planned_seconds": 90,
+      "notes": "进一步看船板接缝，非遗资料明确记载，苎麻、桐油、石灰等被用于木板间缝的堵塞。这里值得关注的，是工匠怎样把可获得的材料与施工经验结合起来，回应航行中的实际需要。用今天的材料学语言，我们可以从材料选择、接缝填塞和施工质量三个方面理解这一过程。材料的名称并不能单独决定密封效果，如何处理接缝、如何填塞与压实、如何在使用中维护，同样关系到实际表现。页面中的局部图只是帮助理解功能的示意，不代表某一件文物的真实尺寸，也不给出未经核实的传统配方。再看技艺的延续，师徒口传心授与工匠密切协作，使经验能够积累和传播。守正创新，首先要准确记录和尊重传统技艺，再用现代科学提出可以检验的问题，讨论它在什么条件下有效，今天又能获得怎样的新解释。这就是从传统经验走向现代研究的一个起点，也体现了中华优秀传统文化创造性转化与创新性发展的意义。\n\n资料依据：\nhttps://www.ihchina.cn/directory_details/11847\nhttps://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321"
+    },
+    {
+      "id": "s4",
+      "type": "content",
+      "variant": "photo-light-shipbuilding",
+      "title": "从木质帆船到钢铁巨轮",
+      "editorial": {
+        "layout": "transformation",
+        "eyebrow": "第二章  材料之困  /  现代巨轮如何抵御海洋侵蚀？",
+        "sides": [
+          {
+            "label": "传统木质船舶",
+            "keyword": "接缝防水",
+            "body": "关注船板连接与渗漏\n结构设计与施工经验相配合"
+          },
+          {
+            "label": "现代钢质船舶",
+            "keyword": "表面防护",
+            "body": "面对长期腐蚀与生物附着\n材料、界面与体系设计相协同"
+          }
+        ],
+        "takeaway": "装备升级不断提出新问题，材料创新由此获得现实方向。",
+        "polish_layout": "shipbuilding",
+        "photo": {
+          "caption": "江南造船厂（长兴岛），2022年｜Raysonho · CC0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:JiangnanShipyardChangxingIsland.jpg",
+          "id": "jiangnan-shipyard"
+        },
+        "screen": {
+          "bodies": [
+            "船板连接与渗漏",
+            "腐蚀、生物附着与体系设计"
+          ]
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[1][2][10]；图文为功能对照，不表示船舶材料的单一替代顺序；照片[12a]",
+      "sources": [
+        "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321",
+        "https://www.cscp.org.cn/site/content/3294.html",
+        "https://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx",
+        "https://commons.wikimedia.org/wiki/File:JiangnanShipyardChangxingIsland.jpg"
+      ],
+      "planned_seconds": 60,
+      "notes": "从木质帆船转向现代钢质船舶，材料、结构和服役条件都发生了变化。现代船舶需要承受复杂载荷，并在海洋环境中长期运行，因此不仅要关注材料能否承担结构任务，也要关注它能否持续、可靠地使用。传统木船的接缝密封并没有失去历史意义，但现代钢质船体还面临大面积表面的腐蚀和生物附着等问题。防护研究也就从接缝局部，进一步走向船体表面及完整体系。这里并不是把船舶材料理解成简单的替代顺序：钢材、复合材料等仍要根据不同部位和功能选择。我们真正要看到的，是装备升级会不断提出新的材料问题。技术创新正是在这些具体问题中获得现实方向。\n\n资料依据：\nhttps://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321\nhttps://www.cscp.org.cn/site/content/3294.html\nhttps://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx\nhttps://commons.wikimedia.org/wiki/File:JiangnanShipyardChangxingIsland.jpg\n\n图片出处与许可：\nFile:JiangnanShipyardChangxingIsland.jpg；摄影者：Raysonho @ Open Grid Scheduler / Scalable Grid Engine；许可：CC0。",
+      "figures": [
+        "assets/jiangnan-cc0.jpg"
+      ]
+    },
+    {
+      "id": "s5",
+      "type": "content",
+      "variant": "photo-light-demands-photo",
+      "title": "海洋防护的三重要求",
+      "editorial": {
+        "layout": "demands",
+        "eyebrow": "第二章  材料之困  /  现代巨轮如何抵御海洋侵蚀？",
+        "points": [
+          {
+            "heading": "海水腐蚀",
+            "body": "长期服役中的金属损伤\n影响船体防护与耐久性",
+            "demand": "长效耐蚀"
+          },
+          {
+            "heading": "生物污损",
+            "body": "海洋生物附着\n带来运行和维护负担",
+            "demand": "有效防污"
+          },
+          {
+            "heading": "环境约束",
+            "body": "关注防护体系\n对海洋环境的影响",
+            "demand": "绿色可靠"
+          }
+        ],
+        "takeaway": "从单项性能改进，走向长效、多功能协同与环境责任。",
+        "polish_layout": "demands-photo",
+        "photo": {
+          "caption": "赤湾海工导管架建造，2008年\nSteKrueBe · CC BY-SA 3.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Jacket_of_oil_platform_at_Shipyard_Chiwan.jpg",
+          "id": "chiwan-jacket"
+        },
+        "screen": {
+          "bodies": [
+            "金属损伤与耐久性",
+            "生物附着与维护负担",
+            "材料服役与环境影响"
+          ]
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[2][10] 中国腐蚀与防护学会、IMO；不列未经核实的量化指标；照片[12b]",
+      "sources": [
+        "https://www.cscp.org.cn/site/content/3294.html",
+        "https://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx",
+        "https://commons.wikimedia.org/wiki/File:Jacket_of_oil_platform_at_Shipyard_Chiwan.jpg"
+      ],
+      "planned_seconds": 60,
+      "notes": "这些新问题可以归纳为三项相互关联的要求。第一，耐蚀，海水环境中的金属损伤会影响长期耐久性；第二，防污，海洋生物附着会带来运行和维护负担，国际海事组织也关注污损对航行与燃油消耗的影响；第三，绿色，防护技术还要考虑其对海洋环境的作用。国际规则对部分有害防污体系的管制说明，工程有效并不是评价技术的唯一标准。因此，现代防护材料研发需要同时考虑可靠性、多功能配合和环境责任。我们不在这里给出没有统一工况支撑的寿命、能耗或减排数字，而是把挑战转化为下一章的研究问题：怎样让防腐、防污和层间配套形成可靠的整体？\n\n资料依据：\nhttps://www.cscp.org.cn/site/content/3294.html\nhttps://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx\nhttps://commons.wikimedia.org/wiki/File:Jacket_of_oil_platform_at_Shipyard_Chiwan.jpg\n\n图片出处与许可：\nFile:Jacket of oil platform at Shipyard Chiwan.jpg；摄影者：SteKrueBe；许可：CC BY-SA 3.0。",
+      "figures": [
+        "assets/chiwan-jacket.jpg"
+      ]
+    },
+    {
+      "id": "s6",
+      "type": "content",
+      "variant": "photo-light-case",
+      "title": "工程需求怎样变成科研问题？",
+      "editorial": {
+        "layout": "case-opening",
+        "eyebrow": "第三章  科技破题  /  一层涂层背后的中国创新",
+        "project_title": "海洋防腐防污涂层体系\n关键技术及其应用",
+        "case_meta": "第一完成单位：集美大学  /  中腐评价字〔2026〕第7号",
+        "questions": [
+          {
+            "heading": "防腐能力",
+            "body": "怎样保护金属基体，\n回应长期防护需求？"
+          },
+          {
+            "heading": "防污表现",
+            "body": "怎样改善表面防污，\n适应实际使用条件？"
+          },
+          {
+            "heading": "层间配套",
+            "body": "怎样让不同功能层\n形成可靠防护整体？"
+          }
+        ],
+        "polish_layout": "case",
+        "screen": {
+          "questions": [
+            "防腐｜减少侵蚀，保护金属基体",
+            "防污｜减轻生物附着与维护负担",
+            "配套｜让防腐、防污层可靠结合"
+          ]
+        },
+        "reservation": {
+          "id": "RESEARCH_COATING_LAB",
+          "slide": 6,
+          "label": "待插入真实照片\n海洋防护涂层制备或测试",
+          "suggested_content": "海洋防护涂层制备、性能测试或相关科研团队实景；对象需可核实。一般场景不得标作本案例团队或成果。",
+          "x_in": 4.95,
+          "y_in": 1.9,
+          "w_in": 4.55,
+          "h_in": 2.84375,
+          "ratio": "16:10",
+          "reserved_for_cover_only": false,
+          "recommended_width_px": 3000,
+          "preferred_min_width_px": 1920,
+          "metadata_required": [
+            "照片内容与对象身份",
+            "拍摄地点",
+            "拍摄日期",
+            "摄影者",
+            "使用许可或授权"
+          ],
+          "figure_index": 0,
+          "native_placeholder_type": "pic"
+        },
+        "photo": {
+          "id": "salt-spray-chamber",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Salt_spray_chamber.jpg",
+          "alt": "真实盐雾试验箱，Cjp24摄于2009年，2048×1536；材料测试设备示例，不是本项目设备或实验结果。",
+          "overlay_caption": "盐雾试验箱示例（非本项目设备）\nCjp24 · 2009 · CC BY-SA 3.0"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[2] 中国腐蚀与防护学会成果评价摘要，2026-04-30；通用设备照片[12d]",
+      "sources": [
+        "https://www.cscp.org.cn/site/content/3294.html",
+        "https://commons.wikimedia.org/wiki/File:Salt_spray_chamber.jpg"
+      ],
+      "planned_seconds": 70,
+      "notes": "第三章以一项可以追溯公开资料的中国科研成果为例。成果名称是海洋防腐防污涂层体系关键技术及其应用，集美大学是第一完成单位，公开评价编号为中腐评价字〔2026〕第7号。中国腐蚀与防护学会公开的评价摘要记录了防腐涂层、防污涂层和高强连接涂层等研究，也记载了产品转化与工程应用。把工程需求转成科研问题，可以抓住三个方向：怎样提高防腐保护能力，怎样改善防污表现，以及不同功能层之间怎样保持可靠配合。最后一个问题尤其重要，因为一个材料在单独测试中表现良好，并不能自动说明它与其他层组合之后仍然可靠。这个案例因此适合用来理解现代材料创新的系统性：研究对象既包括材料自身，也包括界面、施工与使用条件。右侧照片展示一台用于材料加速老化试验的盐雾试验箱，仅帮助理解材料防护研究需要真实测试条件；它不是本科研项目的设备或实验结果，也不能据此认定项目采用了某一具体测试流程。\n\n资料依据：\nhttps://www.cscp.org.cn/site/content/3294.html\nhttps://commons.wikimedia.org/wiki/File:Salt_spray_chamber.jpg\n\n图片出处与许可：\nCjp24自摄，2009年4月；CC BY-SA 3.0。",
+      "figures": [
+        "assets/salt-spray-chamber-original.jpg"
+      ]
+    },
+    {
+      "id": "s7",
+      "type": "content",
+      "variant": "photo-light-coating",
+      "title": "一套防护体系，三类协同创新",
+      "editorial": {
+        "layout": "coating-system",
+        "eyebrow": "第三章  科技破题  /  一层涂层背后的中国创新",
+        "environment": "外侧：海水服役环境",
+        "layers": [
+          "有机硅防污层",
+          "连接与适配层",
+          "环氧防腐层",
+          "钢基体"
+        ],
+        "figure_caption": "功能示意，非实际厚度、配方或显微结构",
+        "points": [
+          {
+            "heading": "高固体分环氧｜防腐",
+            "body": "高固低黏的配方与工艺，\n兼顾防护性能与施工适用。"
+          },
+          {
+            "heading": "高性能有机硅｜防污",
+            "body": "以功能树脂共聚调控，\n改善附着与抗破损表现。"
+          },
+          {
+            "heading": "层间配套｜整体可靠",
+            "body": "通过固化过程调控，\n提高不同功能层的结合。"
+          }
+        ],
+        "polish_layout": "coating",
+        "screen": {
+          "points": [
+            {
+              "heading": "高固体分环氧｜防腐",
+              "body": "高固低黏，兼顾施工与防护"
+            },
+            {
+              "heading": "高性能有机硅｜防污",
+              "body": "改善防污、附着与抗破损表现"
+            },
+            {
+              "heading": "层间配套｜整体可靠",
+              "body": "不同功能层可靠结合、协同防护"
+            }
+          ]
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[2] 公开评价；[11] 通用屏障机理文献。图示不代表实测结构",
+      "sources": [
+        "https://www.cscp.org.cn/site/content/3294.html",
+        "https://www.mdpi.com/1996-1944/18/7/1531"
+      ],
+      "planned_seconds": 90,
+      "notes": "这套防护思路可以用一个简化剖面来理解。靠近钢基体的是防腐层，主要承担保护基体的任务；面向外部环境的是防污层，针对生物附着及相关服役问题；不同功能层之间还需要可靠的连接与适配。公开评价中，改性环氧树脂的高固低黏设计，体现了保护性能与施工适用性共同优化的思路。我们关注的不只是增加某种成分，还包括工程适用性与成膜后的保护效果。高性能有机硅防污涂层则通过功能树脂共聚等设计，改善防污和抗破损表现。这里不展开复杂分子结构，而是抓住功能与需求之间的关系。连接层的研究进一步说明，整体防护依赖层间结合。项目通过固化过程调控制备梯度化半互穿网络结构高强连接涂层，重点是改善不同功能层之间的结合。页面只画功能层次，不表示实际施工厚度或显微结构。三类创新共同说明，现代科研越来越重视系统协同，只有材料性能、界面配合和工程条件彼此适应，技术才可能走向稳定应用。这也为下一页讨论成果转化奠定了基础。\n\n资料依据：\nhttps://www.cscp.org.cn/site/content/3294.html\nhttps://www.mdpi.com/1996-1944/18/7/1531"
+    },
+    {
+      "id": "s8",
+      "type": "content",
+      "variant": "photo-light-engineering-photo",
+      "title": "从实验室到工程应用",
+      "editorial": {
+        "layout": "transfer",
+        "eyebrow": "第三章  科技破题  /  一层涂层背后的中国创新",
+        "fact_label": "公开评价确认的事实",
+        "fact": "成果实现产品应用转化，\n用于造船、核电、海工等领域。",
+        "analysis_label": "工程化环节分析  /  本组归纳",
+        "steps": [
+          {
+            "heading": "验证｜适应真实条件",
+            "body": "把研究结论放入\n适当的工程条件检验。"
+          },
+          {
+            "heading": "协同｜连接研发与使用",
+            "body": "让材料、生产施工\n和应用需求相互衔接。"
+          },
+          {
+            "heading": "反馈｜推动持续改进",
+            "body": "重视服役表现与问题，\n形成继续研究的依据。"
+          }
+        ],
+        "polish_layout": "engineering-photo",
+        "photo": {
+          "caption": "“蓝鲸一”半潜驳船，大连，2019年（非本项目应用照片）\nTyg728 · CC BY-SA 4.0",
+          "source_page": "https://commons.wikimedia.org/wiki/File:LAN_JING_YI_at_Dalian_Shipyard_20190617.jpg",
+          "id": "lan-jing-yi"
+        },
+        "screen": {
+          "fact": "成果转化为产品\n用于造船、核电、海工",
+          "steps": [
+            "真实条件验证",
+            "研发与使用协同",
+            "服役反馈与改进"
+          ]
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[2] 应用事实；[3][5] 协同与转化要求。工程化环节为分析；照片[12c]",
+      "sources": [
+        "https://www.cscp.org.cn/site/content/3294.html",
+        "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+        "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+        "https://commons.wikimedia.org/wiki/File:LAN_JING_YI_at_Dalian_Shipyard_20190617.jpg"
+      ],
+      "planned_seconds": 60,
+      "notes": "公开评价记载，这项成果实现了产品应用转化，并在造船、核电和海工等领域得到工程应用。这是我们能够确认的事实，但摘要没有给出所有应用船名、面积和长期服役数据，因此不进一步推测。由此可以讨论一个更普遍的问题：科研成果进入工程，还需要跨过哪些环节？材料在实验室中的表现，需要通过适当的试验和实际条件验证；生产与施工要保持工艺和质量的稳定；服役反馈则为继续改进提供依据。这些是本组对工程化环节的归纳，并非项目全部实施流程的逐字介绍。高校、企业和相关机构的协作，能够让知识、技术与应用需求相互连接。第三章到这里回答的是具体技术怎样做成、怎样用起来，下面进一步讨论它为什么与科技强国建设有关。\n\n资料依据：\nhttps://www.cscp.org.cn/site/content/3294.html\nhttps://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm\nhttps://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm\nhttps://commons.wikimedia.org/wiki/File:LAN_JING_YI_at_Dalian_Shipyard_20190617.jpg\n\n图片出处与许可：\nFile:LAN JING YI at Dalian Shipyard 20190617.jpg；摄影者：Tyg728；许可：CC BY-SA 4.0。",
+      "figures": [
+        "assets/lan-jing-2019.jpg"
+      ],
+      "subtitle": "从涂层技术的工程应用，理解科技强国的能力支撑。"
+    },
+    {
+      "id": "s9",
+      "type": "content",
+      "variant": "photo-light-capacity",
+      "title": "科技强国，要落到具体技术能力上",
+      "editorial": {
+        "layout": "autonomy",
+        "eyebrow": "第四章  向海图强  /  从材料创新看科技强国建设",
+        "goal": "面向2035年建成科技强国",
+        "main_claim": "把战略目标落实到\n关键材料与工程能力",
+        "explanation": "基础材料、关键工艺与重大装备相互支撑，\n科技现代化服务中国式现代化。",
+        "points": [
+          {
+            "heading": "问题牵引｜自主发现",
+            "body": "面向国家与产业需要，\n凝练值得解决的关键问题。"
+          },
+          {
+            "heading": "能力积累｜研究与验证",
+            "body": "连接基础研究、技术开发，\n在验证与改进中积累能力。"
+          },
+          {
+            "heading": "开放合作｜共同求证",
+            "body": "以交流、标准与真实反馈，\n促进自主创新能力提升。"
+          }
+        ],
+        "takeaway": "从一项材料创新，理解高水平科技自立自强的具体实践。",
+        "polish_layout": "capacity",
+        "screen": {
+          "points": [
+            {
+              "heading": "基础材料｜形成支撑",
+              "body": "从防腐树脂研发入手，\n积累材料设计与制备能力。"
+            },
+            {
+              "heading": "关键工艺｜贯通验证",
+              "body": "以层间配套连接施工要求，\n在研究与验证中持续改进。"
+            },
+            {
+              "heading": "自主能力｜开放合作",
+              "body": "围绕真实需求提出问题，\n用交流与工程反馈求证。"
+            }
+          ],
+          "main_claim": "高水平科技自立自强\n支撑中国式现代化"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[2][3][6]；以涂层案例分析基础材料、关键工艺与自主研究能力的联系",
+      "sources": [
+        "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+        "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm",
+        "https://www.cscp.org.cn/site/content/3294.html"
+      ],
+      "planned_seconds": 75,
+      "notes": "建设科技强国，需要基础材料、关键工艺和自主研究能力不断积累。涂层案例提供了具体的观察角度：防腐树脂研发体现材料设计与制备能力，层间配套体现材料、工艺和施工要求之间的协调，工程验证与反馈则让知识能够持续改进。它们共同说明，重大装备的可靠运行，离不开许多基础技术环节的长期积累。面向2035年建成科技强国的目标，高水平科技自立自强不能只理解为某个产品名称，而要体现为自主发现问题、开展研究和可靠验证的能力。自主能力建设与开放合作并不矛盾，交流、标准和真实应用反馈有助于检验研究。我们据此理解科技现代化对中国式现代化的支撑，不把单项涂层成果扩大为整个领域已经全面替代。\n\n资料依据：\nhttps://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm\nhttps://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm\nhttps://www.cscp.org.cn/site/content/3294.html"
+    },
+    {
+      "id": "s10",
+      "type": "content",
+      "variant": "photo-light-productivity",
+      "title": "科技创新如何转化为新质生产力？",
+      "editorial": {
+        "layout": "productivity",
+        "eyebrow": "第四章  向海图强  /  从材料创新看科技强国建设",
+        "definition": "以科技创新为引领，体现高技术、高效能、高质量的发展要求。",
+        "fact": "案例事实：科研成果转化为产品，进入实际工程应用。",
+        "points": [
+          {
+            "heading": "技术改进",
+            "body": "以新的材料和工艺，\n回应装备发展的需求。"
+          },
+          {
+            "heading": "协同转化",
+            "body": "连接人才、生产与应用，\n促进创新成果进入产业。"
+          },
+          {
+            "heading": "能力提升",
+            "body": "重视可靠应用与持续改进，\n服务产业升级和高质量发展。"
+          }
+        ],
+        "takeaway": "从技术成果走向实际生产能力，需要创新与产业的深度融合。",
+        "polish_layout": "productivity",
+        "polish_summary": [
+          "以材料工艺改进回应装备需求",
+          "连接人才、生产与工程应用",
+          "以可靠应用服务产业升级"
+        ],
+        "screen": {
+          "fact": "科研成果\n进入工程应用",
+          "points": [
+            [
+              "技术改进",
+              "新材料、新工艺\n回应装备需求"
+            ],
+            [
+              "成果转化",
+              "科研成果形成产品\n进入实际工程应用"
+            ],
+            [
+              "产业协同",
+              "研发与生产结合\n推动技术持续改进"
+            ]
+          ]
+        },
+        "reservation": {
+          "id": "INDUSTRY_TRANSFER",
+          "slide": 10,
+          "label": "待插入真实照片\n产学研协同或涂装生产现场",
+          "suggested_content": "具备明确来源的涂装生产线、工艺验证或产学研协同现场；一般产业场景不作为本项目应用证明。",
+          "x_in": 4.6,
+          "y_in": 1.95,
+          "w_in": 4.9,
+          "h_in": 3.0625,
+          "ratio": "16:10",
+          "reserved_for_cover_only": false,
+          "recommended_width_px": 3000,
+          "preferred_min_width_px": 1920,
+          "metadata_required": [
+            "照片内容与对象身份",
+            "拍摄地点",
+            "拍摄日期",
+            "摄影者",
+            "使用许可或授权"
+          ],
+          "figure_index": 0,
+          "native_placeholder_type": "pic"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[4][5] 新质生产力、科技与产业融合文件；[2] 案例事实",
+      "sources": [
+        "https://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm",
+        "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+        "https://www.cscp.org.cn/site/content/3294.html"
+      ],
+      "planned_seconds": 85,
+      "notes": "新质生产力强调以科技创新为引领，体现高技术、高效能、高质量的发展要求，并以全要素生产率大幅提升为核心标志。与涂层案例的联系，可以从三个层面理解。技术改进，是让新材料、新工艺回应装备需求；成果转化，是把科研成果形成产品并用于工程，公开评价已经记载了该成果的产品应用转化；产业协同，则要求研发与生产使用相结合，通过工程条件和反馈持续改进技术。第三层是本组对转化逻辑的分析，不是对项目全部合作主体和实施流程的推断。由此可见，新质生产力不只是给新材料贴一个名称，还需要技术进入真实生产过程，与人才、设备和组织条件结合。公开摘要不足以测算宏观生产率贡献，我们不作定量扩张。\n\n资料依据：\nhttps://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm\nhttps://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm\nhttps://www.cscp.org.cn/site/content/3294.html",
+      "figures": [
+        ""
+      ]
+    },
+    {
+      "id": "s11",
+      "type": "content",
+      "variant": "photo-light-ecology",
+      "title": "好材料，既守护装备也守护海洋",
+      "editorial": {
+        "layout": "ecology",
+        "eyebrow": "第四章  向海图强  /  从材料创新看科技强国建设",
+        "main_claim": "中国式现代化是人与自然和谐共生的现代化",
+        "theory_label": "从习近平生态文明思想理解材料研发的环境责任",
+        "stages": [
+          {
+            "heading": "材料研发",
+            "body": "关注原料选择\n与环境相容性"
+          },
+          {
+            "heading": "制备施工",
+            "body": "重视工艺条件\n与排放控制"
+          },
+          {
+            "heading": "服役维护",
+            "body": "检验耐久表现\n与环境影响"
+          },
+          {
+            "heading": "退役处理",
+            "body": "考虑回收利用\n与规范处置"
+          }
+        ],
+        "takeaway": "把全生命周期责任纳入创新评价，让绿色发展落实为研究问题。",
+        "polish_layout": "ecology",
+        "screen": {
+          "theory_label": "从习近平生态文明思想出发，\n统筹防护可靠性与海洋生态。",
+          "stages": [
+            [
+              "材料研发",
+              "原料与环境相容性"
+            ],
+            [
+              "制备施工",
+              "工艺与排放控制"
+            ],
+            [
+              "服役维护",
+              "耐久与环境影响"
+            ],
+            [
+              "退役处理",
+              "回收与规范处置"
+            ]
+          ],
+          "takeaway": "高固体分、有机硅不是绿色认证；环境表现仍需证据。"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[2][7][8][10]；材料全生命周期及工程性能与生态责任的协调为本组分析",
+      "sources": [
+        "https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm",
+        "https://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html",
+        "https://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx",
+        "https://www.cscp.org.cn/site/content/3294.html"
+      ],
+      "planned_seconds": 75,
+      "notes": "习近平生态文明思想要求我们把发展与生态保护联系起来。党的二十大报告指出，中国式现代化是人与自然和谐共生的现代化。具体到海洋防护材料，可靠服役是工程要求，材料制备、施工、维护和退役的环境影响同样需要评价。涂层案例讨论高固体分环氧、有机硅防污与层间配套，能够引出对施工适用性、防护性能和环境责任的共同思考。但不能只凭“高固体分”或“有机硅”的名称，就认定某个具体配方已经无毒、无污染。原料、工况、排放、环境暴露和处置方式都需要证据。国际海事组织对部分有害防污体系的管制，也说明防污效果不是唯一评价标准。把全生命周期责任转化为可检验的问题，才能让绿色发展进入材料研发过程，使工程可靠与海洋生态保护相协调。\n\n资料依据：\nhttps://www.gov.cn/xinwen/2022-10/25/content_5721685.htm\nhttps://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html\nhttps://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx\nhttps://www.cscp.org.cn/site/content/3294.html"
+    },
+    {
+      "id": "s12",
+      "type": "content",
+      "variant": "photo-light-shanghai",
+      "title": "从国家部署到上海实践",
+      "editorial": {
+        "layout": "museum-strategy",
+        "eyebrow": "第四章  向海图强  /  从材料创新看科技强国建设",
+        "main_claim": "以材料创新\n回应向海之需",
+        "case_text": "国家：加强海洋科技创新\n上海：科创支撑与绿色治理\n专业：可靠性与绿色制造",
+        "implication": "让国家战略转化为具体研究问题",
+        "photo_alt": "洋山港2013年装卸场景；Bruno Corpet，4592×3056；不是本项目应用证明",
+        "photo_caption": "洋山港装卸场景，2013年（非本项目应用照片）\nBruno Corpet · CC BY-SA 3.0",
+        "relation": "国家部署  /  地方创新  /  产业需求  /  专业行动",
+        "theory_label": "科技强国建设的地方实践",
+        "polish_layout": "shanghai",
+        "screen": {
+          "case_text": "船舶与海工：长期可靠防护\n绿色制造：施工排放控制\n涂层研究：性能与环境协同"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[3][8] “十五五”规划纲要；沪府发〔2026〕16号｜关系为本组分析；照片[9b]",
+      "sources": [
+        "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+        "https://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html",
+        "https://commons.wikimedia.org/wiki/File:Shanghai-Yangshan-Port-Containers2013-03.JPG"
+      ],
+      "planned_seconds": 75,
+      "figures": [
+        "assets/yangshan-2013-original.JPG"
+      ],
+      "notes": "上海实践要从真实产业需求理解。国家十五五规划纲要部署海洋科技和海洋装备发展；上海具有船舶制造与港航工程的现实场景，美丽上海建设十五五规划又涉及造船、涂装等行业挥发性有机物治理、绿色技术转化及临港和洋山相关绿色发展。这些要求共同提出了材料研究问题：怎样在海洋环境中保持可靠防护，怎样控制制备施工的环境影响，怎样把性能与绿色制造要求结合起来。前面的涂层案例可以提供分析这些问题的专业视角，但公开资料没有证明该成果用于上海某一具体工程。右侧是2013年的洋山港装卸照片，说明港航作业场景，不代表今天的自动化水平，也不是项目应用证明。我们强调的是国家部署、上海产业需求与材料研究之间的联系，不把场景照片等同于科研成果落地。\n\n资料依据：\nhttps://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm\nhttps://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html\nhttps://commons.wikimedia.org/wiki/File:Shanghai-Yangshan-Port-Containers2013-03.JPG\n\n图片出处与许可：\nFile:Shanghai-Yangshan-Port-Containers2013-03.JPG；摄影者：Bruno Corpet (Quoique)；许可：CC BY-SA 3.0。"
+    },
+    {
+      "id": "s13",
+      "type": "content",
+      "variant": "photo-light-youth",
+      "title": "把科技报国落实到科研训练中",
+      "editorial": {
+        "layout": "youth",
+        "eyebrow": "第五章  青春担当  /  以材料之力回应时代之问",
+        "main_claim": "用扎实的专业能力，回应真实的国家与产业需求",
+        "actions": [
+          {
+            "heading": "求真",
+            "label": "让数据可追溯",
+            "body": "如实记录实验条件，\n保留原始数据与失败结果。"
+          },
+          {
+            "heading": "协同",
+            "label": "让专业连接工程",
+            "body": "加强学科交叉交流，\n理解材料怎样被制造和使用。"
+          },
+          {
+            "heading": "担当",
+            "label": "让选题回应需要",
+            "body": "提高发现和解决问题的能力，\n在持续研究中积累本领。"
+          }
+        ],
+        "takeaway": "从工匠精神到科学家精神，共同的底色是求真、协作与担当。",
+        "polish_layout": "youth",
+        "screen": {
+          "main_claim": "以专业能力\n回应真实需求",
+          "actions": [
+            [
+              "求真",
+              "规范记录，保证数据\n真实、可追溯"
+            ],
+            [
+              "协同",
+              "跨学科交流，理解\n材料的工程应用"
+            ],
+            [
+              "担当",
+              "从真实需求出发，\n凝练材料研究问题"
+            ]
+          ]
+        },
+        "reservation": {
+          "id": "YOUTH_RESEARCH",
+          "slide": 13,
+          "label": "待插入本组实拍照片\n规范实验或协作研究",
+          "suggested_content": "本组真实科研训练、实验记录或学科协作场景；不拍摄敏感数据，不伪称本案例研发现场。",
+          "x_in": 0.5,
+          "y_in": 1.85,
+          "w_in": 4.4,
+          "h_in": 2.9333333333,
+          "ratio": "3:2",
+          "reserved_for_cover_only": false,
+          "recommended_width_px": 3000,
+          "preferred_min_width_px": 1920,
+          "metadata_required": [
+            "照片内容与对象身份",
+            "拍摄地点",
+            "拍摄日期",
+            "摄影者",
+            "使用许可或授权"
+          ],
+          "figure_index": 0,
+          "native_placeholder_type": "pic"
+        },
+        "local_refinement": true
+      },
+      "source_line": "依据：[1][3][6]；青年科研行动建议为本组归纳",
+      "sources": [
+        "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321",
+        "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+        "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm"
+      ],
+      "planned_seconds": 60,
+      "notes": "材料与化工研究生的青年担当，可以落实到求真、协同、担当三类行动。求真，是规范实验记录，如实记下条件、原始数据和失败结果，让数据真实、可追溯，让结论经得起复核。协同，是重视跨学科交流与工程应用，主动理解一个材料怎样被制造、施工和使用，认识实验条件与工程条件之间的差异。担当，是从真实需求出发，寻找有研究价值的材料问题，在持续学习和研究中提高解决问题的能力。传统工匠以认真施工与协作守护航行安全，现代科研训练则需要科学方法、开放交流与科研诚信。二者的方法不同，但求真务实、精益求精和责任意识可以接续。科技报国因此不是一句脱离日常的口号，也体现在规范记录、认真求证和理解应用的每一天。\n\n资料依据：\nhttps://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321\nhttps://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm\nhttps://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm",
+      "figures": [
+        ""
+      ]
+    },
+    {
+      "id": "s14",
+      "type": "content",
+      "variant": "photo-light-fieldnotes",
+      "title": "从博物馆调研到专业思考",
+      "editorial": {
+        "layout": "fieldnotes",
+        "eyebrow": "第五章  青春担当  /  以材料之力回应时代之问",
+        "status": "中国航海博物馆实地调研  /  待真实观察后补充",
+        "record_title": "真实观察记录",
+        "record_fields": "展品名称与性质：待补充\n结构或连接细节：待补充\n展签与文献依据：待补充",
+        "questions": [
+          {
+            "heading": "看什么｜准确记录",
+            "body": "区分实物、复原船与模型"
+          },
+          {
+            "heading": "问什么｜提出问题",
+            "body": "追问材料与工艺的选择依据"
+          },
+          {
+            "heading": "如何求证｜形成解释",
+            "body": "让展签、文献与专业判断互证"
+          }
+        ],
+        "polish_layout": "fieldnotes",
+        "screen": {
+          "questions": [
+            [
+              "准确记录",
+              "区分实物、复原船与模型"
+            ],
+            [
+              "提出问题",
+              "追问材料与工艺选择"
+            ],
+            [
+              "互证求真",
+              "展签、文献与专业判断"
+            ]
+          ]
+        },
+        "reservation": {
+          "id": "MUSEUM_FIELD_OBSERVATION",
+          "slide": 14,
+          "label": "待插入中国航海博物馆实拍照片\n展品与展签或调研观察现场",
+          "suggested_content": "独立于第1、2页的实拍：展品与展签同框、材料连接细节或真实调研观察现场；完整展签可另行保存，不靠全页投影阅读小字。",
+          "x_in": 0.5,
+          "y_in": 1.89,
+          "w_in": 5.65,
+          "h_in": 3.178125,
+          "ratio": "16:9",
+          "reserved_for_cover_only": false,
+          "recommended_width_px": 3000,
+          "preferred_min_width_px": 1920,
+          "metadata_required": [
+            "照片内容与对象身份",
+            "拍摄地点",
+            "拍摄日期",
+            "摄影者",
+            "使用许可或授权"
+          ],
+          "figure_index": 0,
+          "native_placeholder_type": "pic"
+        },
+        "local_refinement": true
+      },
+      "source_line": "方法与问题为本组调研设计，不代表已完成参观",
+      "sources": [
+        "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321"
+      ],
+      "planned_seconds": 60,
+      "notes": "中国航海博物馆将作为小组实地调研的观察场景。页面预留了展品与展签或调研观察现场的静态照片位置。实地调研完成后，我们将据实补充展品名称与性质、结构细节和展签依据，区分亲眼观察与文献解释。我们先明确三个观察问题。第一，看到了什么：区分历史实物、现代复原船和模型，准确记录结构与连接细节。第二，为什么这样设计：从材料、接缝和施工角度提出专业问题，但模型观察不能替代对艌缝防水性能的实验验证。第三，怎样求证：把展签、可靠文献与小组讨论相互对照，区分看到的事实和提出的解释。通过这种训练，博物馆参观可以进一步转化为严谨的专业思考。它也提醒我们，认识科技强国建设，既要有宏观理解，也要有从真实材料和可靠证据出发的研究习惯。\n\n资料依据：\nhttps://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321",
+      "figures": [
+        ""
+      ],
+      "subtitle": "实地调研待完成，照片与观察记录后补"
+    },
+    {
+      "id": "s15",
+      "type": "content",
+      "variant": "photo-light-ending",
+      "title": "从一条船缝，到科技强国",
+      "editorial": {
+        "layout": "ending",
+        "eyebrow": "第五章  青春担当  /  以材料之力回应时代之问",
+        "main_claim": "改变的是材料与工艺，\n接续的是求真、创新与担当。",
+        "explanation": "以专业知识回应现实问题，\n以扎实研究连接个人成长与国家发展。",
+        "closing": "把科技强国的时代要求，落实到\n每一个真实问题、每一次严谨实验中。",
+        "polish_layout": "ending",
+        "screen": {
+          "main_claim": "材料迭代，\n匠心接续。",
+          "closing": "以材料之力，支撑向海图强。\n以求真、创新与担当，回应时代之问。"
+        },
+        "local_refinement": true
+      },
+      "source_line": "材料与化工研究生课程汇报  /  结语为本组归纳",
+      "sources": [
+        "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm"
+      ],
+      "planned_seconds": 30,
+      "notes": "材料迭代，匠心接续。从传统福船艌缝到现代防护涂层，变化的是材料与研究方法，接续的是求真、创新与担当。一条船缝连接着具体的工程问题，也让我们理解科技强国建设需要怎样的基础积累。对我们而言，就是以材料之力，支撑向海图强；把个人成长与国家发展联系起来，落实到每一个真实问题、每一次严谨研究中。谢谢大家。\n\n资料依据：\nhttps://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm"
+    },
+    {
+      "id": "s16",
+      "type": "content",
+      "variant": "photo-light-references",
+      "title": "主要参考资料与图片来源",
+      "editorial": {
+        "layout": "references",
+        "eyebrow": "资料附页  /  不计入正式讲述时间",
+        "references": [
+          {
+            "heading": "[1] 水密隔舱福船制造技艺",
+            "detail": "中国非遗网 / UNESCO；项目00321，2010年列入",
+            "url": "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321"
+          },
+          {
+            "heading": "[2] 海洋防腐防污涂层体系关键技术及其应用",
+            "detail": "中国腐蚀与防护学会；2026-04-30",
+            "url": "https://www.cscp.org.cn/site/content/3294.html"
+          },
+          {
+            "heading": "[3] 国民经济和社会发展“十五五”规划纲要",
+            "detail": "新华社 / 中国政府网；2026-03-13",
+            "url": "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm"
+          },
+          {
+            "heading": "[4] 关于发展新质生产力的意见",
+            "detail": "中共中央、国务院；2026-10-09",
+            "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm"
+          },
+          {
+            "heading": "[5] 关于推动科技创新和产业创新深度融合的意见",
+            "detail": "中办、国办；2026-10-21",
+            "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm"
+          },
+          {
+            "heading": "[6] 向着到2035年建成科技强国的目标坚定迈进",
+            "detail": "人民日报评论员 / 中国政府网；2026-07-12",
+            "url": "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm"
+          },
+          {
+            "heading": "[7] 党的二十大报告",
+            "detail": "新华社 / 中国政府网；2022-10-25（全文）",
+            "url": "https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm"
+          },
+          {
+            "heading": "[8] 美丽上海建设“十五五”规划",
+            "detail": "上海市政府；沪府发〔2026〕16号；2026-09-10",
+            "url": "https://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html"
+          },
+          {
+            "heading": "[9a—b] 封面船舶与洋山港照片",
+            "detail": "Alf van Beem；Bruno Corpet｜PD / CC BY-SA 3.0",
+            "url": "https://commons.wikimedia.org/wiki/File:Cosco_Shipping_Universe_(ship,_2018)_IMO_9795610,_Port_of_Rotterdam_pic7.JPG"
+          },
+          {
+            "heading": "[10] Anti-fouling systems",
+            "detail": "国际海事组织（IMO）；防污系统专题页",
+            "url": "https://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx"
+          },
+          {
+            "heading": "[11] 复合环氧有机涂层综述（2020—2024）",
+            "detail": "Materials，2025，18(7):1531；DOI见备注",
+            "url": "https://www.mdpi.com/1996-1944/18/7/1531"
+          },
+          {
+            "heading": "[12a—d] 工程场景与通用测试设备照片",
+            "detail": "Raysonho / SteKrueBe / Tyg728 / Cjp24；许可见备注",
+            "url": "https://commons.wikimedia.org/wiki/File:JiangnanShipyardChangxingIsland.jpg"
+          }
+        ],
+        "note": "编号对应前文；完整文件名称、网址、论文DOI与6张照片许可见备注及随附清单。",
+        "polish_layout": "references",
+        "screen": {},
+        "local_refinement": true
+      },
+      "source_line": "编号对应前文；完整文件名称、网址、DOI及图片许可见备注与随附清单",
+      "sources": [
+        "https://www.ihchina.cn/directory_details/11847",
+        "https://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321",
+        "https://www.cscp.org.cn/site/content/3294.html",
+        "https://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm",
+        "https://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm",
+        "https://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm",
+        "https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm",
+        "https://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm",
+        "https://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html",
+        "https://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx",
+        "https://www.mdpi.com/1996-1944/18/7/1531",
+        "https://commons.wikimedia.org/wiki/File:Cosco_Shipping_Universe_(ship,_2018)_IMO_9795610,_Port_of_Rotterdam_pic7.JPG",
+        "https://commons.wikimedia.org/wiki/File:Shanghai-Yangshan-Port-Containers2013-03.JPG",
+        "https://commons.wikimedia.org/wiki/File:Salt_spray_chamber.jpg"
+      ],
+      "planned_seconds": 0,
+      "notes": "本页为备查资料，编号对应各页页脚。科研案例、国家文件、一般原理文献与图片来源分别列出。\n\n资料依据：\n[1] 中国水密隔舱福船制造技艺 / UNESCO项目00321\n中国非物质文化遗产网；UNESCO；未标注统一发布日期\nhttps://www.ihchina.cn/directory_details/11847\nhttps://ich.unesco.org/en/USL/watertight-bulkhead-technology-of-chinese-junks-00321\n\n[2] 海洋防腐防污涂层体系关键技术及其应用\n中国腐蚀与防护学会；2026-04-30\nhttps://www.cscp.org.cn/site/content/3294.html\n\n[3] 中华人民共和国国民经济和社会发展第十五个五年规划纲要\n中国政府网 / 新华社；2026-03-13\nhttps://www.gov.cn/yaowen/liebiao/202603/content_7062633.htm\n\n[4] 中共中央 国务院关于发展新质生产力的意见\n中国政府网；2026-10-09\nhttps://www.gov.cn/yaowen/liebiao/202610/content_7082819.htm\n\n[5] 中共中央办公厅 国务院办公厅关于推动科技创新和产业创新深度融合的意见\n中国政府网；2026-10-21\nhttps://www.gov.cn/yaowen/liebiao/202610/content_7083929.htm\n\n[6] 人民日报评论员：向着到2035年建成科技强国的目标坚定迈进\n中国政府网 / 人民日报；2026-07-12\nhttps://www.gov.cn/yaowen/liebiao/202607/content_7075144.htm\n\n[7] 高举中国特色社会主义伟大旗帜 为全面建设社会主义现代化国家而团结奋斗——党的二十大报告\n中国政府网 / 新华社；2022-10-25\nhttps://www.gov.cn/xinwen/2022-10/25/content_5721685.htm\n\n[8] 上海市人民政府关于印发《美丽上海建设“十五五”规划》的通知\n上海市人民政府；2026-09-10\nhttps://www.shanghai.gov.cn/nw12344/20260910/5c1780a7432543a389d9fe119d1e00b1.html\n\n[10] Anti-fouling systems\nInternational Maritime Organization；未标注统一发布日期\nhttps://www.imo.org/en/OurWork/Environment/Pages/Anti-fouling.aspx\n\n[11] Overview of Recent Developments in Composite Epoxy Resin in Organic Coating on Steel (2020–2024)\nMaterials, 2025, 18(7), 1531；未标注统一发布日期\nhttps://www.mdpi.com/1996-1944/18/7/1531\nDOI：10.3390/ma18071531\n\n图片出处与许可：\n[9a] File:Cosco Shipping Universe (ship, 2018) IMO 9795610, Port of Rotterdam pic7.JPG\n摄影者：Alf van Beem；2021-04-24 12:03:24；许可：Public domain\nhttps://commons.wikimedia.org/wiki/File:Cosco_Shipping_Universe_(ship,_2018)_IMO_9795610,_Port_of_Rotterdam_pic7.JPG\n\n[9b] File:Shanghai-Yangshan-Port-Containers2013-03.JPG\n摄影者：Bruno Corpet (Quoique)；2013-05-10 07:07:05；许可：CC BY-SA 3.0\nhttps://commons.wikimedia.org/wiki/File:Shanghai-Yangshan-Port-Containers2013-03.JPG\n\n[12a] File:JiangnanShipyardChangxingIsland.jpg\n摄影者：Raysonho @ Open Grid Scheduler / Scalable Grid Engine；2022-04-04 16:02:58；许可：CC0\nhttps://commons.wikimedia.org/wiki/File:JiangnanShipyardChangxingIsland.jpg\n\n[12b] File:Jacket of oil platform at Shipyard Chiwan.jpg\n摄影者：SteKrueBe；2008-06-10；许可：CC BY-SA 3.0\nhttps://commons.wikimedia.org/wiki/File:Jacket_of_oil_platform_at_Shipyard_Chiwan.jpg\n\n[12c] File:LAN JING YI at Dalian Shipyard 20190617.jpg\n摄影者：Tyg728；2019-06-17 15:35:48；许可：CC BY-SA 4.0\nhttps://commons.wikimedia.org/wiki/File:LAN_JING_YI_at_Dalian_Shipyard_20190617.jpg\n\n[12d] File:Salt spray chamber.jpg\n摄影者：Cjp24；2009-04；许可：CC BY-SA 3.0\nhttps://commons.wikimedia.org/wiki/File:Salt_spray_chamber.jpg"
+    }
+  ]
+}

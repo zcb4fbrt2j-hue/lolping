@@ -1,0 +1,65 @@
+{
+  "topic": "一条船缝里的材料智慧：科技强国建设与青年科研使命",
+  "content_maturity": "serious/work",
+  "audience_posture": "students/learners",
+  "emotional_register": "trustworthy",
+  "format_promise": "保留已确认设计与16页篇幅，局部补充说明、强化案例与理论联系；不全局减字或更换照片。",
+  "anti_format": [
+    "连续三栏文字",
+    "连续白底文字",
+    "装饰图形填空",
+    "虚构科研结构与应用照片"
+  ],
+  "canvas_and_grid": {
+    "aspect": "16:9",
+    "margin_x_in": 0.5,
+    "footer_reserve_in": 0.33,
+    "header_policy": "固定标题安全区，正文与图片不侵入"
+  },
+  "title_page_concept": {
+    "chosen_archetype": "editorial masthead with photographic diptych",
+    "dominant_element": "传统福船实拍预留与现代中国船舶并列",
+    "supporting_element": "科技强国主题标识",
+    "why_this_could_only_be_this_deck": "从木船板缝到现代船舶防护材料的历史呼应"
+  },
+  "structure_strategy": {
+    "primary_scaffold": "open editorial compositions",
+    "repeated_elements": [
+      "深海蓝与科技蓝",
+      "统一左边距",
+      "可追溯来源"
+    ],
+    "allowed_variations": [
+      "museum-cover",
+      "museum-heritage",
+      "material-craft",
+      "transformation",
+      "demands",
+      "case-opening",
+      "coating-system",
+      "transfer",
+      "autonomy",
+      "productivity",
+      "ecology",
+      "museum-strategy",
+      "youth",
+      "fieldnotes",
+      "ending",
+      "references"
+    ],
+    "container_policy": "仅照片框使用容器；正文开放排布",
+    "rhythm_break_plan": "保留现有深海蓝与版式，仅第6、10、13、14页调整图文比例；第7页保留功能结构，第9、11页保留理论分析。"
+  },
+  "design_dna": "civic science policy",
+  "renderer_treatments": {
+    "custom_variant": "photo-light with local_refinement",
+    "footer_mode": "source-line"
+  },
+  "palette": {
+    "navy": "09243A",
+    "technology_blue": "007AB8",
+    "white": "FFFFFF",
+    "gold": "C6A768"
+  },
+  "font_family": "Noto Sans CJK SC"
+}

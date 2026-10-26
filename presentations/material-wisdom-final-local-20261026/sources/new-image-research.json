@@ -1,0 +1,55 @@
+{
+  "selected": [
+    {
+      "id": "jiangnan-shipyard",
+      "source": "https://commons.wikimedia.org/wiki/File:JiangnanShipyardChangxingIsland.jpg",
+      "pixels": [
+        4928,
+        3264
+      ],
+      "license": "CC0",
+      "review": "江南造船厂长兴岛厂区，船坞、门式起重机与在建船舶的真实全景；2022年历史实景，不指认涂层项目应用。"
+    },
+    {
+      "id": "chiwan-jacket",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacket_of_oil_platform_at_Shipyard_Chiwan.jpg",
+      "pixels": [
+        2272,
+        1704
+      ],
+      "license": "CC BY-SA 3.0",
+      "review": "赤湾船厂海上平台导管架建造场景，2008年；不称作腐蚀实验、科研装置或涂层项目应用。"
+    },
+    {
+      "id": "lan-jing-yi",
+      "source": "https://commons.wikimedia.org/wiki/File:LAN_JING_YI_at_Dalian_Shipyard_20190617.jpg",
+      "pixels": [
+        2700,
+        1800
+      ],
+      "license": "CC BY-SA 4.0",
+      "review": "“蓝鲸一”半潜驳船在大连船厂的真实场景，2019年；不据此确认具体建造或维修阶段，不指认涂层项目应用。"
+    }
+  ],
+  "rejected": [
+    {
+      "candidate": "202309 Jiangnan Shipyard in Changxing Island.jpg",
+      "reason": "4032×3024但夜间高噪声、主体辨识不佳，未入PPT。"
+    },
+    {
+      "candidate": "1965 江南造船厂 焊接",
+      "reason": "983×1106，原图宽度不足，不放大替代。"
+    },
+    {
+      "candidate": "普通中国高校实验室及美国历史参访照片",
+      "reason": "拍摄对象与本材料案例关系不足，未使用。"
+    }
+  ],
+  "failed_queries": [
+    {
+      "query": "Hudong Zhonghua shipyard",
+      "status": "403，未重试"
+    }
+  ],
+  "traditional_photo_search_performed": false
+}

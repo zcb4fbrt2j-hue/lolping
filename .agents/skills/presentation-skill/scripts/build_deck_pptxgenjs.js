@@ -680,7 +680,9 @@ function normalizeSlide(spec, outlineDir) {
 function renderSlide(pptx, pSlide, slide, preset) {
   // Added 2026-10-25: same-deck, lighter text with native picture placeholders.
   if (String(slide.variant || '').startsWith('photo-light')) {
-    require(path.join(TEMPLATES_DIR, 'photo_light.js')).render(pptx, pSlide, slide);
+    const template = slide.editorial && slide.editorial.local_refinement
+      ? 'course_refined.js' : 'photo_light.js';
+    require(path.join(TEMPLATES_DIR, template)).render(pptx, pSlide, slide);
     return;
   }
   // Added 2026-10-25: isolated visual polish; previous coursework decks retain their templates.
