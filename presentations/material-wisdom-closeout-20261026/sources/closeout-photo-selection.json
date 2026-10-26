@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-26",
+  "scope": "仅为第6/10/13页检索；未搜索传统福船或博物馆照片。",
+  "query_count": 11,
+  "result_count": 82,
+  "failed_requests_retried": 0,
+  "selected": [
+    {
+      "page": 6,
+      "file": "File:Salt spray chamber.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Salt_spray_chamber.jpg",
+      "pixels": [
+        2048,
+        1536
+      ],
+      "author": "Cjp24",
+      "license": "CC BY-SA 3.0",
+      "verified": "下载原始JPEG，核对相机EXIF、文件页作者自摄信息并逐图检查；真实设备示例。",
+      "not_verified": "拍摄机构与国家；不是本案例设备、科研结果或国内研发现场的证明。"
+    }
+  ],
+  "remaining": [
+    {
+      "page": 10,
+      "result": "保留占位",
+      "reason": "高分辨率命中多为外国军舰涂装、历史船厂或不相干制造；粉末涂装候选虽有许可，但缺乏与国内产学研和本页论点相符的场景身份。未拿一般照片冒充项目应用。"
+    },
+    {
+      "page": 13,
+      "result": "保留占位",
+      "reason": "有明确国内高校信息的高像素候选为单台气相色谱仪，不能体现本组科研训练或协作；其他为中学建筑、课程实验室或不相关研究，未确认适合研究生科研场景。"
+    }
+  ],
+  "other_rejections": [
+    {
+      "file": "File:Economy Salt Spray Test Chamber.png",
+      "pixels": [
+        1400,
+        1032
+      ],
+      "reason": "低于1920px优先阈值，不放大冒充高清。"
+    },
+    {
+      "file": "File:Salt Spray Chamber.jpg",
+      "pixels": [
+        423,
+        354
+      ],
+      "reason": "低分辨率，不采用。"
+    },
+    {
+      "file": "File:SHIMADZU GC-2010 Plus High-end Gas Chromatograph.jpg",
+      "pixels": [
+        3120,
+        4160
+      ],
+      "reason": "元数据明确为华南师范大学气相色谱仪；单台仪器与本页青年协同训练的关联较弱，且为竖构图，未为凑图下载替换。"
+    },
+    {
+      "file": "File:化學實驗室.jpg",
+      "pixels": [
+        4032,
+        2268
+      ],
+      "reason": "元数据不足以证明研究生科研现场或本组研究活动，未下载采用。"
+    }
+  ]
+}

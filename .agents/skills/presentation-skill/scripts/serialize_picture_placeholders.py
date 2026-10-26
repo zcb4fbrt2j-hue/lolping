@@ -12,7 +12,8 @@ from lxml import etree
 
 outline=json.load(open(sys.argv[1]))
 names={s['editorial']['reservation']['id'] for s in outline['slides']
-       if s.get('variant','').startswith('photo-light') and 'reservation' in s.get('editorial',{})}
+       if s.get('variant','').startswith('photo-light') and 'reservation' in s.get('editorial',{})
+       and not (s.get('figures') or [''])[0]}
 ns={'p':'http://schemas.openxmlformats.org/presentationml/2006/main'}
 source=io.BytesIO(sys.stdin.buffer.read());target=io.BytesIO();found={k:0 for k in names}
 with ZipFile(source) as src,ZipFile(target,'w',ZIP_DEFLATED) as dst:

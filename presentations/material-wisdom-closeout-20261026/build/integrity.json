@@ -1,0 +1,330 @@
+{
+  "pptx_valid": true,
+  "slides": 16,
+  "spoken_slides": 15,
+  "reference_slides": 1,
+  "seconds": 990,
+  "native_editable_text_objects": 200,
+  "native_picture_placeholders": [
+    {
+      "page": 1,
+      "id": "MUSEUM_COVER_FUCHUAN",
+      "native_type": "PICTURE (18)",
+      "ratio": "2:1"
+    },
+    {
+      "page": 2,
+      "id": "MUSEUM_BODY_STRUCTURE",
+      "native_type": "PICTURE (18)",
+      "ratio": "16:9"
+    },
+    {
+      "page": 10,
+      "id": "INDUSTRY_TRANSFER",
+      "native_type": "PICTURE (18)",
+      "ratio": "16:10"
+    },
+    {
+      "page": 13,
+      "id": "YOUTH_RESEARCH",
+      "native_type": "PICTURE (18)",
+      "ratio": "3:2"
+    },
+    {
+      "page": 14,
+      "id": "MUSEUM_FIELD_OBSERVATION",
+      "native_type": "PICTURE (18)",
+      "ratio": "16:9"
+    }
+  ],
+  "placeholder_insert_save_reopen_test": "passed for all five remaining slots; scratch file only",
+  "speaker_notes_cleaned": true,
+  "core_theory_and_research_preserved": true,
+  "real_photo_count": 6,
+  "cover_photo_not_reused": true,
+  "image_aspect_preserved": true,
+  "pdf_pages": 16,
+  "png_pages": 16,
+  "png_pixels": [
+    1920,
+    1080
+  ],
+  "display_text_metrics": {
+    "scope": "与上一少字图文版比较；本轮未全局减字，不含新增照片署名",
+    "before": 800,
+    "after": 800,
+    "reduction_percent": 0.0,
+    "by_page": [
+      {
+        "page": 1,
+        "before": 29,
+        "after": 29
+      },
+      {
+        "page": 2,
+        "before": 43,
+        "after": 43
+      },
+      {
+        "page": 3,
+        "before": 92,
+        "after": 92
+      },
+      {
+        "page": 4,
+        "before": 38,
+        "after": 38
+      },
+      {
+        "page": 5,
+        "before": 50,
+        "after": 50
+      },
+      {
+        "page": 6,
+        "before": 59,
+        "after": 59
+      },
+      {
+        "page": 7,
+        "before": 103,
+        "after": 103
+      },
+      {
+        "page": 8,
+        "before": 55,
+        "after": 55
+      },
+      {
+        "page": 9,
+        "before": 66,
+        "after": 66
+      },
+      {
+        "page": 10,
+        "before": 45,
+        "after": 45
+      },
+      {
+        "page": 11,
+        "before": 100,
+        "after": 100
+      },
+      {
+        "page": 12,
+        "before": 50,
+        "after": 50
+      },
+      {
+        "page": 13,
+        "before": 34,
+        "after": 34
+      },
+      {
+        "page": 14,
+        "before": 40,
+        "after": 40
+      },
+      {
+        "page": 15,
+        "before": 25,
+        "after": 25
+      },
+      {
+        "page": 16,
+        "before": 148,
+        "after": 148
+      }
+    ]
+  },
+  "pages": [
+    {
+      "page": 1,
+      "title": "一条船缝里的材料智慧",
+      "editable_text_objects": 9,
+      "photographs": 1
+    },
+    {
+      "page": 2,
+      "title": "福船的防漏智慧",
+      "editable_text_objects": 12,
+      "photographs": 0
+    },
+    {
+      "page": 3,
+      "title": "从材料巧用到守正创新",
+      "editable_text_objects": 16,
+      "photographs": 0
+    },
+    {
+      "page": 4,
+      "title": "从木质帆船到钢铁巨轮",
+      "editable_text_objects": 11,
+      "photographs": 1
+    },
+    {
+      "page": 5,
+      "title": "海洋防护的三重要求",
+      "editable_text_objects": 14,
+      "photographs": 1
+    },
+    {
+      "page": 6,
+      "title": "工程需求怎样变成科研问题？",
+      "editable_text_objects": 10,
+      "photographs": 1
+    },
+    {
+      "page": 7,
+      "title": "一套防护体系，三类协同创新",
+      "editable_text_objects": 16,
+      "photographs": 0
+    },
+    {
+      "page": 8,
+      "title": "从实验室到工程应用",
+      "editable_text_objects": 11,
+      "photographs": 1
+    },
+    {
+      "page": 9,
+      "title": "科技强国，要落到具体技术能力上",
+      "editable_text_objects": 13,
+      "photographs": 0
+    },
+    {
+      "page": 10,
+      "title": "科技创新如何转化为新质生产力？",
+      "editable_text_objects": 14,
+      "photographs": 0
+    },
+    {
+      "page": 11,
+      "title": "好材料，既守护装备也守护海洋",
+      "editable_text_objects": 15,
+      "photographs": 0
+    },
+    {
+      "page": 12,
+      "title": "从国家部署到上海实践",
+      "editable_text_objects": 8,
+      "photographs": 1
+    },
+    {
+      "page": 13,
+      "title": "把科技报国落实到科研训练中",
+      "editable_text_objects": 12,
+      "photographs": 0
+    },
+    {
+      "page": 14,
+      "title": "从博物馆调研到专业思考",
+      "editable_text_objects": 12,
+      "photographs": 0
+    },
+    {
+      "page": 15,
+      "title": "从一条船缝，到科技强国",
+      "editable_text_objects": 6,
+      "photographs": 0
+    },
+    {
+      "page": 16,
+      "title": "主要参考资料与图片来源",
+      "editable_text_objects": 21,
+      "photographs": 0
+    }
+  ],
+  "files": [
+    {
+      "path": "build/material-wisdom-closeout.pptx",
+      "bytes": 23256392,
+      "sha256": "d9153809b0e47458603b1dc7192a1bf547d318921ae577f2f3eb352429f8c592"
+    },
+    {
+      "path": "build/material-wisdom-closeout.pdf",
+      "bytes": 3004814,
+      "sha256": "a8c773ce1239a12eda93ee5b58fc550e572946b25b8e6da02c80e7b2c7cc0ff0"
+    },
+    {
+      "path": "build/previews/slide-01.png",
+      "bytes": 490137,
+      "sha256": "b440a109da5082c7083fa32781782c779a17582be26745878d5fbd25e6a1804d"
+    },
+    {
+      "path": "build/previews/slide-02.png",
+      "bytes": 149706,
+      "sha256": "a927cbad0147a794e4494545de0a37fdc8109eb71ec7b01622867a23c9267fb7"
+    },
+    {
+      "path": "build/previews/slide-03.png",
+      "bytes": 167400,
+      "sha256": "7861e7f51d70e7b39177947b539d983d24a44943e2df7d9297b3c40d894d3052"
+    },
+    {
+      "path": "build/previews/slide-04.png",
+      "bytes": 1082686,
+      "sha256": "0195e5f4a0d8a300d6931742067df91f10108544df40175fe8c90baebb6fabb7"
+    },
+    {
+      "path": "build/previews/slide-05.png",
+      "bytes": 796758,
+      "sha256": "87874475431fb4a016669c2c00312838e4d07b5694d40ce88caa916bccc9a569"
+    },
+    {
+      "path": "build/previews/slide-06.png",
+      "bytes": 632081,
+      "sha256": "7245f630decee11f63f74d9feaf32b9a757bebd345a217577f676f956d090352"
+    },
+    {
+      "path": "build/previews/slide-07.png",
+      "bytes": 176836,
+      "sha256": "c45e73e1c907cdfee5320cf1a82d957f384e9b7ebbfe4946ea45d5b859ca0a12"
+    },
+    {
+      "path": "build/previews/slide-08.png",
+      "bytes": 906845,
+      "sha256": "3a0baa26050b3bc30ecee5ed2e33608f956685d50659d26369984e140f65178f"
+    },
+    {
+      "path": "build/previews/slide-09.png",
+      "bytes": 163705,
+      "sha256": "2a5c80a9838d8cf305f444427d5ad9d52305d7ad59b2f236463780a4183b8e7f"
+    },
+    {
+      "path": "build/previews/slide-10.png",
+      "bytes": 165360,
+      "sha256": "a2349658c71133efff3e284eb3d7846c308dc1794468c81471631a856308b792"
+    },
+    {
+      "path": "build/previews/slide-11.png",
+      "bytes": 181119,
+      "sha256": "76c2338573173efc8fd07b501d0eb61545f9df88976c54206517bd734c0ee992"
+    },
+    {
+      "path": "build/previews/slide-12.png",
+      "bytes": 1688507,
+      "sha256": "de324409b0192f456ec4cc9d32e54974f4bc32af87baaece34e5825d09f728e8"
+    },
+    {
+      "path": "build/previews/slide-13.png",
+      "bytes": 126307,
+      "sha256": "1d64d1fb7d7cee52a1cf78670bb889520e309c2c435025f9576c4834e52a28cf"
+    },
+    {
+      "path": "build/previews/slide-14.png",
+      "bytes": 144858,
+      "sha256": "4cffedde4a9a0ff885d188a0f64bed8e573b43da3de31234335befced4b0882d"
+    },
+    {
+      "path": "build/previews/slide-15.png",
+      "bytes": 110721,
+      "sha256": "d6830d15546f9fdebaa360beacdeff26964e435882cd351eac141708f612184d"
+    },
+    {
+      "path": "build/previews/slide-16.png",
+      "bytes": 236086,
+      "sha256": "ef79c3154a4c1e1cbf91ff5c85d90fca4a8897ac77f37afaa5dd99ef84ecf48d"
+    }
+  ]
+}

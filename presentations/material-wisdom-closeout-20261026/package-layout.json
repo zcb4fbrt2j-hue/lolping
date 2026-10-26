@@ -1,0 +1,9 @@
+{
+  "included": "PPTX, PDF, 16 PNG previews, contact sheets, clean lecture notes, image/source register, research selection report, reusable outline and scripts, QA evidence",
+  "omitted_duplicates": [
+    "Original JPEG assets already embedded byte-exact in PPTX",
+    "QA JPEG renders duplicated by PNG previews"
+  ],
+  "restore_originals": "python restore_photo_assets.py",
+  "pause": "No further content or design edits until the user supplies museum photographs."
+}

@@ -34,7 +34,8 @@ function frame(p,s,slot,dark=false) {
 }
 function prepare(p,d) {
   const slot=d.editorial.reservation;
-  if(!slot)return null;
+  // Modified 2026-10-26: a filled photo slot needs no empty layout placeholder.
+  if(!slot||(d.__figurePaths||[])[0])return null;
   const name='PHOTO_LIGHT_'+d.__slideIndex;
   p.defineSlideMaster({title:name,objects:[{placeholder:{text:'',
     options:{name:slot.id,type:'image',objectName:slot.id,
@@ -119,8 +120,15 @@ function render(p,s,d) {
     t(s,a.project_title,.5,1.85,4.02,1.10,24.5,C.white,true);
     t(s,a.case_meta.replace('  /  ','\n'),.5,3.14,4.02,.71,12.7,C.gold);
     q.questions.forEach((v,i)=>t(s,v,.5,4.05+i*.34,4.02,.30,15.5,C.white,true));
-    if(f[0])photo(s,f[0],a.reservation.x_in,a.reservation.y_in,a.reservation.w_in,a.reservation.h_in,a.reservation.id,a.reservation.suggested_content);
-    else frame(p,s,a.reservation,true);
+    if(f[0]) {
+      photo(s,f[0],a.reservation.x_in,a.reservation.y_in,a.reservation.w_in,a.reservation.h_in,a.reservation.id,a.photo?a.photo.alt:a.reservation.suggested_content);
+      if(a.photo&&a.photo.overlay_caption) {
+        const b=a.reservation,cy=b.y_in+b.h_in-.56;
+        // Cover the image's anti-aliased bottom edge in LibreOffice exports.
+        r(p,s,b.x_in-.01,cy,b.w_in+.02,.57,C.navy);
+        t(s,a.photo.overlay_caption,b.x_in+.12,cy+.06,b.w_in-.24,.44,9.1,C.light);
+      }
+    } else frame(p,s,a.reservation,true);
   } else if(a.polish_layout==='coating') {
     header(s,d);
     t(s,a.environment,.7,1.62,4.7,.29,11.6,C.muted);

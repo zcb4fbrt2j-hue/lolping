@@ -1,0 +1,231 @@
+{
+  "input": "/workspace/lolping/presentations/material-wisdom-closeout-20261026/build/material-wisdom-closeout.pptx",
+  "style_preset": "editorial-minimal",
+  "renderer_detected": "pptxgenjs",
+  "summary": {
+    "slide_count": 16,
+    "violation_count": 4,
+    "error_count": 0,
+    "warning_count": 4,
+    "density_score_by_slide": [
+      {
+        "slide_index": 0,
+        "density_score": 0.7503
+      },
+      {
+        "slide_index": 1,
+        "density_score": 0.7615
+      },
+      {
+        "slide_index": 2,
+        "density_score": 0.5693
+      },
+      {
+        "slide_index": 3,
+        "density_score": 0.6578
+      },
+      {
+        "slide_index": 4,
+        "density_score": 0.5991
+      },
+      {
+        "slide_index": 5,
+        "density_score": 0.6846
+      },
+      {
+        "slide_index": 6,
+        "density_score": 0.7579
+      },
+      {
+        "slide_index": 7,
+        "density_score": 0.645
+      },
+      {
+        "slide_index": 8,
+        "density_score": 0.5637
+      },
+      {
+        "slide_index": 9,
+        "density_score": 0.6969
+      },
+      {
+        "slide_index": 10,
+        "density_score": 0.6021
+      },
+      {
+        "slide_index": 11,
+        "density_score": 0.3747
+      },
+      {
+        "slide_index": 12,
+        "density_score": 0.6155
+      },
+      {
+        "slide_index": 13,
+        "density_score": 0.7758
+      },
+      {
+        "slide_index": 14,
+        "density_score": 0.5713
+      },
+      {
+        "slide_index": 15,
+        "density_score": 0.6474
+      }
+    ]
+  },
+  "slides": [
+    {
+      "slide_index": 0,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0503,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7503
+        }
+      ],
+      "density_score": 0.7503,
+      "empty_ratio": 0.2497
+    },
+    {
+      "slide_index": 1,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0615,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7615
+        }
+      ],
+      "density_score": 0.7615,
+      "empty_ratio": 0.2385
+    },
+    {
+      "slide_index": 2,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5693,
+      "empty_ratio": 0.4307
+    },
+    {
+      "slide_index": 3,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6578,
+      "empty_ratio": 0.3422
+    },
+    {
+      "slide_index": 4,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5991,
+      "empty_ratio": 0.4009
+    },
+    {
+      "slide_index": 5,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6846,
+      "empty_ratio": 0.3154
+    },
+    {
+      "slide_index": 6,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0579,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7579
+        }
+      ],
+      "density_score": 0.7579,
+      "empty_ratio": 0.2421
+    },
+    {
+      "slide_index": 7,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.645,
+      "empty_ratio": 0.355
+    },
+    {
+      "slide_index": 8,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5637,
+      "empty_ratio": 0.4363
+    },
+    {
+      "slide_index": 9,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6969,
+      "empty_ratio": 0.3031
+    },
+    {
+      "slide_index": 10,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6021,
+      "empty_ratio": 0.3979
+    },
+    {
+      "slide_index": 11,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.3747,
+      "empty_ratio": 0.6253
+    },
+    {
+      "slide_index": 12,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6155,
+      "empty_ratio": 0.3845
+    },
+    {
+      "slide_index": 13,
+      "slide_type": "content",
+      "violations": [
+        {
+          "type": "density_too_high",
+          "shape_ids": [],
+          "severity": "warning",
+          "delta_inches": 0.0758,
+          "suggested_fix": "Reduce number/size of blocks or split content across slides.",
+          "slide_type": "content",
+          "visual_density_score": 0.7758
+        }
+      ],
+      "density_score": 0.7758,
+      "empty_ratio": 0.2242
+    },
+    {
+      "slide_index": 14,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.5713,
+      "empty_ratio": 0.4287
+    },
+    {
+      "slide_index": 15,
+      "slide_type": "content",
+      "violations": [],
+      "density_score": 0.6474,
+      "empty_ratio": 0.3526
+    }
+  ]
+}

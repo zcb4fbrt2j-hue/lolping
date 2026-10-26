@@ -1,0 +1,28 @@
+diff --git a/.agents/skills/presentation-skill/scripts/serialize_picture_placeholders.py b/.agents/skills/presentation-skill/scripts/serialize_picture_placeholders.py
+index bcfe328..b92bbf0 100644
+--- a/.agents/skills/presentation-skill/scripts/serialize_picture_placeholders.py
++++ b/.agents/skills/presentation-skill/scripts/serialize_picture_placeholders.py
+@@ -15 +15,2 @@ names={s['editorial']['reservation']['id'] for s in outline['slides']
+-       if s.get('variant','').startswith('photo-light') and 'reservation' in s.get('editorial',{})}
++       if s.get('variant','').startswith('photo-light') and 'reservation' in s.get('editorial',{})
++       and not (s.get('figures') or [''])[0]}
+diff --git a/.agents/skills/presentation-skill/templates/pptxgenjs/photo_light.js b/.agents/skills/presentation-skill/templates/pptxgenjs/photo_light.js
+index f86496a..bc37297 100644
+--- a/.agents/skills/presentation-skill/templates/pptxgenjs/photo_light.js
++++ b/.agents/skills/presentation-skill/templates/pptxgenjs/photo_light.js
+@@ -37 +37,2 @@ function prepare(p,d) {
+-  if(!slot)return null;
++  // Modified 2026-10-26: a filled photo slot needs no empty layout placeholder.
++  if(!slot||(d.__figurePaths||[])[0])return null;
+@@ -122,2 +123,9 @@ function render(p,s,d) {
+-    if(f[0])photo(s,f[0],a.reservation.x_in,a.reservation.y_in,a.reservation.w_in,a.reservation.h_in,a.reservation.id,a.reservation.suggested_content);
+-    else frame(p,s,a.reservation,true);
++    if(f[0]) {
++      photo(s,f[0],a.reservation.x_in,a.reservation.y_in,a.reservation.w_in,a.reservation.h_in,a.reservation.id,a.photo?a.photo.alt:a.reservation.suggested_content);
++      if(a.photo&&a.photo.overlay_caption) {
++        const b=a.reservation,cy=b.y_in+b.h_in-.56;
++        // Cover the image's anti-aliased bottom edge in LibreOffice exports.
++        r(p,s,b.x_in-.01,cy,b.w_in+.02,.57,C.navy);
++        t(s,a.photo.overlay_caption,b.x_in+.12,cy+.06,b.w_in-.24,.44,9.1,C.light);
++      }
++    } else frame(p,s,a.reservation,true);

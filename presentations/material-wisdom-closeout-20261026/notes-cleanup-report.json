@@ -1,0 +1,150 @@
+{
+  "cleanup_scope": "speaker notes only; no global text reduction",
+  "pages": [
+    {
+      "page": 1,
+      "before_characters": 292,
+      "after_characters": 420,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 2,
+      "before_characters": 1491,
+      "after_characters": 492,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 3,
+      "before_characters": 1080,
+      "after_characters": 496,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 4,
+      "before_characters": 1454,
+      "after_characters": 651,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 5,
+      "before_characters": 1383,
+      "after_characters": 548,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 6,
+      "before_characters": 792,
+      "after_characters": 510,
+      "spoken_text_preserved": true,
+      "script_adjustment": "原讲稿正文保留；仅补一句与新照片对应的设备示例边界说明。",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 7,
+      "before_characters": 1060,
+      "after_characters": 482,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 8,
+      "before_characters": 1655,
+      "after_characters": 636,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 9,
+      "before_characters": 1151,
+      "after_characters": 474,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 10,
+      "before_characters": 1242,
+      "after_characters": 498,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 11,
+      "before_characters": 1091,
+      "after_characters": 542,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 12,
+      "before_characters": 1163,
+      "after_characters": 691,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 13,
+      "before_characters": 1081,
+      "after_characters": 488,
+      "spoken_text_preserved": true,
+      "script_adjustment": "讲稿正文逐字保留",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 14,
+      "before_characters": 899,
+      "after_characters": 387,
+      "spoken_text_preserved": false,
+      "script_adjustment": "仅将14页的照片占位说明与当前页对应、15页衔接现有结语、16页保留资料说明",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 15,
+      "before_characters": 491,
+      "after_characters": 227,
+      "spoken_text_preserved": false,
+      "script_adjustment": "仅将14页的照片占位说明与当前页对应、15页衔接现有结语、16页保留资料说明",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    },
+    {
+      "page": 16,
+      "before_characters": 1275,
+      "after_characters": 1763,
+      "spoken_text_preserved": false,
+      "script_adjustment": "仅将14页的照片占位说明与当前页对应、15页衔接现有结语、16页保留资料说明",
+      "removed": "JSON结构、编辑提示、开发记录、旧版内容备份及重复附录",
+      "source_urls_retained": true
+    }
+  ],
+  "total_after_characters": 9305
+}

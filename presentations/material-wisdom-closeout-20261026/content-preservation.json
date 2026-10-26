@@ -1,0 +1,13 @@
+{
+  "base": "material-wisdom-photo-light-20261025",
+  "base_pptx_sha256": "81e0022362aba8abd85be78257bcd8a75a62984bf46529f342292683ca2e7dd5",
+  "spoken_script_sha256": "0f64f4985c3ccadbcc408be0ed920831173089135659044109f44e355ccb801c",
+  "slide_titles_unchanged": true,
+  "chapter_structure_and_timing_unchanged": true,
+  "cleanup_report": "notes-cleanup-report.json",
+  "planned_seconds": 990,
+  "visible_change_scope": [
+    6
+  ],
+  "photo_replacement": "仅第6页原有框内填入已核验设备示例；其他页面可见内容与布局不变"
+}
