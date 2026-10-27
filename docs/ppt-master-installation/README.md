@@ -75,3 +75,11 @@ PYTHONDONTWRITEBYTECODE=1 /workspace/venvs/ppt-master-20261027/bin/python \
 > 请读取 `/workspace/lolping-ppt-master/.agents/skills/ppt-master/SKILL.md` 并使用PPT Master；Python环境为 `/workspace/venvs/ppt-master-20261027`。
 
 Skill正式使用时要求先通过归属完整性检查，再读取路由；本次仅安装验证，不启动演示文稿制作工作流。
+
+## GitHub交付状态
+
+安装分支已推送。实际执行 `gh pr create --base main --head install/ppt-master-20261027` 时，当前云环境返回 `Post "https://api.github.com/graphql": Forbidden`，因此没有创建成功的PR编号，也不将创建页面链接称为已创建PR。
+
+[打开预填PR创建页面（目标main）](https://github.com/zcb4fbrt2j-hue/lolping/compare/main...install/ppt-master-20261027?expand=1&title=Install%20PPT%20Master%20for%20Codex%20with%20isolated%20dependencies)
+
+PR说明见 [PULL_REQUEST.md](PULL_REQUEST.md)。检查后可在GitHub创建并合并；本次未自动合并main。
