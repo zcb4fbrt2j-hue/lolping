@@ -1,0 +1,89 @@
+{
+  "skill_name": "ppt-master",
+  "skill_version": "6.7.3",
+  "python": "3.12.14",
+  "isolated_venv": "/workspace/venvs/ppt-master-20261027",
+  "pip_check": "No broken requirements found.",
+  "python_files_syntax_checked": 315,
+  "dependency_modules_imported": [
+    "yaml",
+    "pptx",
+    "xlsxwriter",
+    "pathops",
+    "uharfbuzz",
+    "edge_tts",
+    "fitz",
+    "mammoth",
+    "markdownify",
+    "ebooklib",
+    "nbconvert",
+    "openpyxl",
+    "PIL",
+    "numpy",
+    "requests",
+    "bs4",
+    "curl_cffi",
+    "google.genai",
+    "flask"
+  ],
+  "skill_entry_relative_links_valid": true,
+  "cli_checks": [
+    {
+      "script": "attribution_guard.py",
+      "arguments": [],
+      "returncode": 0,
+      "output_characters": 0
+    },
+    {
+      "script": "svg_to_pptx.py",
+      "arguments": [
+        "--help"
+      ],
+      "returncode": 0,
+      "output_characters": 28315
+    },
+    {
+      "script": "pptx_to_svg.py",
+      "arguments": [
+        "--help"
+      ],
+      "returncode": 0,
+      "output_characters": 2059
+    },
+    {
+      "script": "source_to_md.py",
+      "arguments": [
+        "--help"
+      ],
+      "returncode": 0,
+      "output_characters": 2070
+    },
+    {
+      "script": "svg_quality_checker.py",
+      "arguments": [
+        "--help"
+      ],
+      "returncode": 0,
+      "output_characters": 3389
+    },
+    {
+      "script": "project_manager.py",
+      "arguments": [
+        "--help"
+      ],
+      "returncode": 0,
+      "output_characters": 1572
+    },
+    {
+      "script": "register_template.py",
+      "arguments": [
+        "--help"
+      ],
+      "returncode": 0,
+      "output_characters": 725
+    }
+  ],
+  "generated_pptx": false,
+  "existing_pptx_opened_or_modified": false,
+  "host_automatic_skill_loading": "Not confirmed; skills CLI discovery is checked separately."
+}

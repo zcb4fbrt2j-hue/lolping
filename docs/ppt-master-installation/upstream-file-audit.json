@@ -1,0 +1,10 @@
+{
+  "upstream_commit": "78759bf62e9a1ef43e926ff9e50afa4cfe9a63cb",
+  "upstream_files": 13030,
+  "installed_files": 13030,
+  "installed_bytes": 39244270,
+  "missing": [],
+  "extra": [],
+  "changed": [],
+  "max_file_bytes": 1084718
+}

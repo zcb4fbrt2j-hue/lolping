@@ -1,0 +1,35 @@
+[
+  {
+    "name": "coursework-ppt",
+    "path": "/workspace/lolping-ppt-master/.agents/skills/coursework-ppt",
+    "scope": "project",
+    "agents": [
+      "Codex"
+    ],
+    "source": null,
+    "sourceUrl": null,
+    "sourceType": null
+  },
+  {
+    "name": "ppt-master",
+    "path": "/workspace/lolping-ppt-master/.agents/skills/ppt-master",
+    "scope": "project",
+    "agents": [
+      "Codex"
+    ],
+    "source": "hugohe3/ppt-master",
+    "sourceUrl": null,
+    "sourceType": "github"
+  },
+  {
+    "name": "presentation-skill",
+    "path": "/workspace/lolping-ppt-master/.agents/skills/presentation-skill",
+    "scope": "project",
+    "agents": [
+      "Codex"
+    ],
+    "source": null,
+    "sourceUrl": null,
+    "sourceType": null
+  }
+]
