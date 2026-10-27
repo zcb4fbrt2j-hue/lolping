@@ -1,3 +1,13 @@
 .venv/
 __pycache__/
 /.local/presentation-skill-tests/
+
+# Local PPT Master configuration and isolated tooling; retain upstream examples.
+.env
+.env.*
+!.env.example
+.venv-*/
+.venvs/
+node_modules/
+.pytest_cache/
+.cache/
